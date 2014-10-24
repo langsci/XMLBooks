@@ -1,0 +1,23 @@
+# ------------------------------------------------------------
+# Schema for linguistic examples
+# ------------------------------------------------------------
+
+start = examples
+examples = element examples { exampleitem* }
+exampleitem = element exampleitem { example, examples }
+
+example = element example {
+              element language { text }?,
+              element reference { text }?,
+              element label { text }?,
+              alignedwords,
+              freewords }
+
+alignedwords = element alignedwords { word* }
+word = element word { morpheme* }
+morpheme = element morpheme { block* }
+block = element block { blocktype, text }
+blocktype = attribute type { "phon" | "ortho" | "src" | "imt" }
+
+freewords = element source { text } |
+            element translation { text }
