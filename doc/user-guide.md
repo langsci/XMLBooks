@@ -94,10 +94,11 @@ that codify a standard set of conventions used by linguists worldwide.
 
 ## What does an example sentence look like in our XML format?
 
-[Language Science Press](http://langsci-press.org/) publishes lingustic books
-that potentially contain many such examples, both glossed and unglossed.
-This repository provides example sentences from these books in a structured
-XML format. But what do example sentences look like in this XML format?
+[Language Science Press](http://langsci-press.org/) publishes
+linguistic books that potentially contain many such examples, both
+glossed and unglossed.  This repository provides example sentences
+from these books in a structured XML format. But what do example
+sentences look like in this XML format?
 
 Every example sentence corresponds to an `<example>` element.
 These are structured as follows:
@@ -184,23 +185,20 @@ Here is an example of a multi-morpheme word taken from the actual
 data:
 
 ```xml
-<exampleitem>
-  <example>
-    <language>Kaera</language>
-    <alignedwords>
-      <!-- ... -->
-      <word>
-        <morpheme>
-          <block type="src">ge</block>
-          <block type="imt">3sg.alien</block>
-        </morpheme>
-        <morpheme>
-          <block type="src">topi</block>
-          <block type="imt">hat</block>
-        </morpheme>
-      </word>
-      <!-- ... -->
-  </alignedwords>
+<alignedwords>
+  <!-- ... -->
+  <word>
+    <morpheme>
+      <block type="src">ge</block>
+      <block type="imt">3sg.alien</block>
+    </morpheme>
+    <morpheme>
+      <block type="src">topi</block>
+      <block type="imt">hat</block>
+    </morpheme>
+  </word>
+  <!-- ... -->
+</alignedwords>
 ```
 
 Since the data are extracted from actual linguistic books, written by
@@ -238,7 +236,7 @@ Here is a minimal example, taken from the actual data:
 
 There is one final complication:
 Linguistic example sentences may also have subexamples.
-That's why we cannot simple put all `<example>` sentences
+That's why we cannot simply put all `<example>` sentences
 under the root element. Instead, we use a container
 element for example sentences that may contain
 additional subexamples. This looks as follows:
@@ -326,8 +324,10 @@ If we run that script on the XML files in the data directory, we get
 Beware, however, that this rough count also includes empty `<example>`
 elements that are used as mere containers for subexamples.
 
-If you want to dive a bit deeper, you could have a look at our demo
-script `code/explore-lspxml.py` that can output more accurate counts
+If you want to dive a bit deeper, you could have a look at
+[our demo script](https://github.com/langsci/lsp-xml/blob/master/code/explore-lspxml.py),
+`code/explore-lspxml.py` in the repository,
+that can output more accurate counts
 and convert lsp-xml examples to simple HTML tables. It provides a
 simple Python class for example sentences that mirrors some aspects of
 the XML structure discussed above.
