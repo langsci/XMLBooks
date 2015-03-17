@@ -261,7 +261,7 @@ structured. For the official details, have a look at our RELAX NG
 [schema](https://github.com/langsci/lsp-xml/blob/master/schemas/LinguisticExamples.rnc)
 or the [files themselves](https://github.com/langsci/lsp-xml/tree/master/data).
 
-## Getting started: How to extract some data using using Python
+## Getting started: How to extract some data using Python
 
 Let's say, we want to find out how many examples from each language
 are contained in a LangSci book. Here is how we could do this in
@@ -315,7 +315,7 @@ examples = root.findall(".//example")
 print(len(examples))
 ```
 
-If we run that script on the XML files in the data directory, we get
+If we run that on the XML files in the data directory, we get
 (at the time of writing):
 
 ```
@@ -332,7 +332,7 @@ If you want to dive a bit deeper, you could have a look at
 [our demo script](https://github.com/langsci/lsp-xml/blob/master/code/explore-lspxml.py)
 `code/explore-lspxml.py` that can output more accurate counts
 and convert lsp-xml examples to simple HTML tables. It provides a
-simple Python class for example sentences that mirrors some aspects of
+small Python class for example sentences that mirrors some aspects of
 the XML structure discussed above.
 
 Here is how you can use it on the command line. If you provide the
