@@ -56,7 +56,7 @@ about object languages potentially other than English.)
 There is a format commonly used by linguists to express this information
 in a compact way, called
 [interlinear glossed text](https://en.wikipedia.org/wiki/Interlinear_gloss)
-(IGT).
+or *IGT* for short.
 The example in (2) looks as follows in this format:
 
 <table class="lingex" id="ex3">
@@ -258,7 +258,8 @@ In this way, subexamples may contain subexamples themselves.
 
 We hope that you now have a pretty good idea of how the XML files are
 structured. For the official details, have a look at our RELAX NG
-[schema](https://github.com/langsci/lsp-xml/blob/master/schemas/LinguisticExamples.rnc).
+[schema](https://github.com/langsci/lsp-xml/blob/master/schemas/LinguisticExamples.rnc)
+or the [files themselves](https://github.com/langsci/lsp-xml/tree/master/data).
 
 ## Getting started: How to extract some data using using Python
 
@@ -271,7 +272,7 @@ import sys
 import xml.etree.ElementTree as ET
 from collections import Counter
 
-xmlfile = sys.argv[1]  # provide an lsp-xml file as command-line argument
+xmlfile = sys.argv[1]
 tree = ET.parse(xmlfile)
 root = tree.getroot()
 
@@ -280,7 +281,10 @@ langfreqs = Counter(languages)
 print("\n".join("{}: {}".format(c,l) for (l,c) in langfreqs.most_common(10)))
 ```
 
-This will print, for `data/klamer.xml` at the time of writing:
+If you call this little script with the path to an lsp-xml file as a
+command-line argument, a list of the ten most frequent languages with
+their example counts will be printed. For example, it will print the
+following for `data/klamer.xml` at the time of writing:
 
 ```
 50: Abui
@@ -325,9 +329,8 @@ Beware, however, that this rough count also includes empty `<example>`
 elements that are used as mere containers for subexamples.
 
 If you want to dive a bit deeper, you could have a look at
-[our demo script](https://github.com/langsci/lsp-xml/blob/master/code/explore-lspxml.py),
-`code/explore-lspxml.py` in the repository,
-that can output more accurate counts
+[our demo script](https://github.com/langsci/lsp-xml/blob/master/code/explore-lspxml.py)
+`code/explore-lspxml.py` that can output more accurate counts
 and convert lsp-xml examples to simple HTML tables. It provides a
 simple Python class for example sentences that mirrors some aspects of
 the XML structure discussed above.
@@ -350,9 +353,9 @@ data/klamer.xml:
 102 unglossed examples
 ```
 
-If you provide an integer as an additional command-line argument, it
-will look up the example with that number in the provided file and
-return it as an HTML table. For example:
+If you provide an integer `i` as an additional command-line argument,
+it will look up the `i`-th example in the provided file and return it
+as an HTML table. For example:
 
 ```
 $ ./code/explore-lspxml.py data/wilbur.xml 55
@@ -374,18 +377,17 @@ In HTML, this will be rendered as:
 </table>
 
 
-*Happy hacking!*
-
-
 ## Project ideas: What can you do with it?
 
 Some ideas for applications:
 
-* A language guessing game: show a random word from the data (that has
-  a language label) and let the player guess from four options which
+* A language guessing game: show a random word from an example with a
+  language label and let the player guess from four options which
   language it might be from.
 
-* Find interesting ways to visualize glossed linguistic example
-  sentences, using e.g. interactive tables (show/hide translations or
-  metadata), links to other example sentences that contain the same
-  words, a lexicon (word index) with links to example sentences, etc.
+* Generate a lexicon for a language by collecting all word or morpheme
+  glosses.
+
+* Find interesting ways of visualizing glossed linguistic example
+  sentences, using e.g. interactive tables where the user can show or
+  hide certain information, like translations or metadata.

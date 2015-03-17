@@ -1,13 +1,15 @@
-# Structured linguistic data from LangSci books
+# Structured data from LangSci books
 
 ## About
 
-The `data` directory contains linguistic example sentences in XML
+This repository provides linguistic example sentences in XML
 format that were extracted from open access books published with
-[Language Science Press](http://langsci-press.org/). The structure of
-these XML files is described by the RELAX NG schema in
-`schemas/LinguisticExamples.rnc`. There are both glossed and unglossed
-sentences, depending on the original source.
+[Language Science Press](http://langsci-press.org/).
+There are both glossed and unglossed sentences, depending on the
+original source.
+
+The actual data files are located in the `data` directory. Their structure
+is described by the RELAX NG schema in `schemas/LinguisticExamples.rnc`.
 
 ## Documentation
 
@@ -15,9 +17,11 @@ For a short and gentle introduction to linguistic example sentences
 and their XML representation in this repository, have a look at our
 [user guide](https://github.com/langsci/lsp-xml/blob/master/doc/user-guide.md).
 
-If you want to skip the docs and start hacking immediately, we also provide
-[some Python demo code](https://github.com/langsci/lsp-xml/blob/master/code/explore-lspxml.py)
-for a quick start.
+In addition, we provide some
+[Python demo code](https://github.com/langsci/lsp-xml/blob/master/code/explore-lspxml.py)
+that illustrates how the XML files can be parsed and used. The
+[user guide](https://github.com/langsci/lsp-xml/blob/master/doc/user-guide.md)
+also contains a short description of the demo code.
 
 ## Data sources
 
@@ -43,7 +47,7 @@ In particular:
 
 ## License
 
-Copyright: (c) Language Science Press 2015.
+Copyright: (c) Language Science Press 2014-2015.
 
 All data, code and documentation in this repository is published under the
 [Creative Commons Attribution 4.0 Licence](http://creativecommons.org/licenses/by/4.0/)
