@@ -1,5 +1,8 @@
 # ------------------------------------------------------------
-# Schema for linguistic examples
+# LSP-XML: Schema for Linguistic Examples
+#
+# Version: 1.0
+# Date: 2014-10-24
 # ------------------------------------------------------------
 
 start = examples
