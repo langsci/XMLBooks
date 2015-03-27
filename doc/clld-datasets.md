@@ -1,6 +1,6 @@
 # CLLD datasets
 
-## About CLLD
+## About Cross-Linguistic Linked Data (CLLD)
 
 Human languages differ in many ways: in their vocabularies, in the
 inventory of sounds they use to distinguish words, in the relative
