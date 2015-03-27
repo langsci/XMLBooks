@@ -14,7 +14,7 @@ Several years ago, the joint effort of many linguists gave rise to the
 [World Atlas of Language Structures](http://wals.info/) (WALS), an
 online database of structural (phonological, grammatical, lexical)
 properties of languages. For example, it allows users to
-[compare languages by the number of consonants they have](wals.info/feature/1A)
+[compare languages by the number of consonants they have](http://wals.info/feature/1A)
 and visualize this distribution on a world map.
 There are almost [200 features](http://wals.info/feature) by which
 you can compare [more than 2500 languages](http://wals.info/languoid).
