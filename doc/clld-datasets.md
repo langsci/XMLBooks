@@ -94,7 +94,7 @@ languages. It is easy to access them via SQL. Here are a few sentences
 in `src|imt|translation` format, just to get started:
 
 ```
-sqlite> select markup_text, markup_gloss, description from sentence limit 10;
+sqlite> SELECT markup_text, markup_gloss, description FROM sentence LIMIT 10;
 
 Isredeh mi kau bringi wan mannpikin.|yesterday 1SG cow deliver a male.young|Yesterday my cow delivered a bull calf.
 Da mastra tikki mi wyfi na nitti lange trange hay.|DET.SG master take 1SG wife in night with strong eye|The master took my wife during the night with force.
