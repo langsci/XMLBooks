@@ -45,6 +45,10 @@ In particular:
   [The Alor-Pantar languages: History and typology](http://langsci-press.org/catalog/book/22)
   edited by Marian Klamer.
 
+- `schackow.xml`: examples from
+  [A grammar of Yakkha](http://langsci-press.org/catalog/book/66)
+  by Diana Schackow.
+
 - `wilbur.xml`: examples from
   [A grammar of Pite Saami](http://langsci-press.org/catalog/book/17)
   by Joshua Wilbur.

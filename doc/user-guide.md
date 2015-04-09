@@ -30,6 +30,10 @@ which the examples were extracted. In particular:
   [The Alor-Pantar languages: History and typology](http://langsci-press.org/catalog/book/22)
   edited by Marian Klamer.
 
+- `schackow.xml`: examples from
+  [A grammar of Yakkha](http://langsci-press.org/catalog/book/66)
+  by Diana Schackow.
+
 - `wilbur.xml`: examples from
   [A grammar of Pite Saami](http://langsci-press.org/catalog/book/17)
   by Joshua Wilbur.
@@ -327,6 +331,7 @@ If we run that on the XML files in the data directory, we get
 501 dahl.xml
 561 handschuh.xml
 491 klamer.xml
+2138 schackow.xml
 327 wilbur.xml
 ```
 
