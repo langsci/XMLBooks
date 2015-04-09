@@ -33,6 +33,10 @@ In particular:
   [Prosodic detail in Neapolitan Italian](http://langsci-press.org/catalog/book/16)
   by Francesco Cangemi.
 
+- `dahl.xml`: examples from
+  [Grammaticalization in the North](http://langsci-press.org/catalog/book/73)
+  by Östen Dahl.
+
 - `handschuh.xml`: examples from
   [A typology of marked-S languages](http://langsci-press.org/catalog/book/18)
   by Corinna Handschuh.

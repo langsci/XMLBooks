@@ -18,6 +18,10 @@ which the examples were extracted. In particular:
   [Prosodic detail in Neapolitan Italian](http://langsci-press.org/catalog/book/16)
   by Francesco Cangemi.
 
+- `dahl.xml`: examples from
+  [Grammaticalization in the North](http://langsci-press.org/catalog/book/73)
+  by Östen Dahl.
+
 - `handschuh.xml`: examples from
   [A typology of marked-S languages](http://langsci-press.org/catalog/book/18)
   by Corinna Handschuh.
@@ -320,6 +324,7 @@ If we run that on the XML files in the data directory, we get
 
 ```
 16 cangemi.xml
+501 dahl.xml
 561 handschuh.xml
 491 klamer.xml
 327 wilbur.xml
