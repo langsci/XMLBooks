@@ -123,7 +123,9 @@ def read_examples(xmlfile):
     Build a list of Example objects from an lsp-xml document.
     """
     doc = parse(xmlfile)
-    examples = [Example(e) for e in doc.getElementsByTagName("example")]
+    examples = list(filter(lambda e: not(e.is_empty()),
+                           (Example(ex) for ex in
+                            doc.getElementsByTagName("example"))))
     return examples
 
 def convert_to_html_table(example):
