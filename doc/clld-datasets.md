@@ -1,3 +1,9 @@
+(*Coding Da Vinci* visitors: If you are looking for a
+description of the lsp-xml example sentences instead, follow
+[this link](https://github.com/langsci/lsp-xml/blob/master/doc/user-guide.md)
+to our user guide.)
+
+
 # CLLD datasets
 
 ## About Cross-Linguistic Linked Data (CLLD)
