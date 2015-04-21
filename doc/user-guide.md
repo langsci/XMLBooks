@@ -6,6 +6,11 @@ This guide provides a concise introduction to linguistic example
 sentences and their XML representation in the
 [lsp-xml](https://github.com/langsci/lsp-xml) repository.
 
+(*Coding Da Vinci* visitors: If you are looking for a
+description of the external CLLD datasets instead, follow
+[this link](https://github.com/langsci/lsp-xml/blob/clld-doc/doc/clld-datasets.md)
+to the `clld-doc` branch.)
+
 ## About the data
 
 This repository contains a set of linguistic example sentences
