@@ -12,7 +12,7 @@
 import json
 import os
 import sys
-from xml.dom.minidom import parse
+import xml.dom.minidom as dom
 from itertools import chain
 
 
@@ -75,11 +75,13 @@ class Example:
         return self.lines.get(key, "")
 
     def _extract_language(self, xmlex):
-        lang = xmlex.getElementsByTagName("language")
-        if len(lang) > 0:
-            return lang[0].firstChild.data
-        else:
-            return None
+        lang = (xmlex.firstChild.firstChild.data
+                if (xmlex.hasChildNodes() and
+                    xmlex.firstChild.tagName == "language")
+                else None)
+        if not(lang) and self._has_sup_example(xmlex):
+            lang = self._extract_language(self._get_sup_example(xmlex))
+        return lang
 
     def _extract_words(self, xmlex):
         # build a { linetype : [string] } dict
@@ -114,9 +116,20 @@ class Example:
         maybe_line = xmlex.getElementsByTagName(tag)
         if len(maybe_line) > 0:
             return maybe_line[0]
-        else:
-            return None
 
+    def _has_sup_example(self, xmlex):
+        # Return whether the example has a parent example.
+        return bool(self._get_sup_example(xmlex))
+
+    def _get_sup_example(self, xmlex):
+        # Return the parent example of an example element
+        # (or None if there is no containing example).
+        nextnode = xmlex.parentNode
+        if nextnode.nodeType != dom.Node.DOCUMENT_NODE:
+            nextnode = nextnode.parentNode
+            if nextnode.nodeType != dom.Node.DOCUMENT_NODE:
+                assert nextnode.tagName == "examples"
+                return nextnode.previousSibling
 
 # -------------------- global functions
 
@@ -124,7 +137,7 @@ def read_examples(xmlfile):
     """
     Build a list of Example objects from an lsp-xml document.
     """
-    doc = parse(xmlfile)
+    doc = dom.parse(xmlfile)
     examples = list(filter(lambda e: not(e.is_empty()),
                            (Example(ex) for ex in
                             doc.getElementsByTagName("example"))))
@@ -146,8 +159,6 @@ def convert_to_triple(example, default_lang=None):
     # only return triple if all elements are populated
     if all(map(bool, triple)):
         return triple
-    else:
-        return None
 
 def convert_to_triples(examples, default_lang=None):
     """
