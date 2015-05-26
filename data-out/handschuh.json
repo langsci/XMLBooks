@@ -1,0 +1,1817 @@
+[
+  [
+    "Adam gel-di", 
+    "‘The man came.’", 
+    "Turkish"
+  ], 
+  [
+    "Öǧretmen adam-ı gör-dü", 
+    "‘The teacher saw the man.’", 
+    "Turkish"
+  ], 
+  [
+    "apá-c aw-yá", 
+    "‘The man knows.’", 
+    "Cocopa"
+  ], 
+  [
+    "apá-c kʷák paː-ṭÍm", 
+    "‘The man shot the deer.’", 
+    "Cocopa"
+  ], 
+  [
+    "naana baazar j-ax-na", 
+    "‘The mother went to the market.’", 
+    "Chechen"
+  ], 
+  [
+    "k’ant-as naana lie-j-i-na", 
+    "‘The boy has lied to the mother.’", 
+    "Chechen"
+  ], 
+  [
+    "naana-s k’ant liicna-v-i-na", 
+    "‘The mother has bathed the boy.’", 
+    "Chechen"
+  ], 
+  [
+    "aukhu n-idanö", 
+    "‘The water is hot.’", 
+    "Nias"
+  ], 
+  [
+    "i-f-o-houu defao idanö nasi", 
+    "‘The seawater rusted the iron’", 
+    "Nias"
+  ], 
+  [
+    "la-bunu m-baßi", 
+    "‘They killed a pig.’", 
+    "Nias"
+  ], 
+  [
+    "li chien-s mort l’ ome", 
+    "‘The dog bites the man.’", 
+    "Old French"
+  ], 
+  [
+    "le chien mort li uem", 
+    "‘It is the dog whom the man bites.’", 
+    "Old French"
+  ], 
+  [
+    "in-te ee asi", 
+    "‘We saw you.’", 
+    "Oirata"
+  ], 
+  [
+    "ee-te in asi-ho", 
+    "‘You didn’t see us.’", 
+    "Oirata"
+  ], 
+  [
+    "an-te ete na’a ippa", 
+    "‘I fell out of the tree.’", 
+    "Oirata"
+  ], 
+  [
+    "maaro mede-n kopete-he", 
+    "‘The person who is eating isn’t black.’", 
+    "Oirata"
+  ], 
+  [
+    "ihar ani asi-le mara", 
+    "‘The dogi saw mej and ∅i left.’", 
+    "Oirata"
+  ], 
+  [
+    "-woman ŋaɭa-gadugu-pstpunc ∅-ya-ɟ", 
+    "‘The woman went.’", 
+    "Mangarayi"
+  ], 
+  [
+    " buyʔ-aux-pstpunc ɲan-wu-na ŋaɭa-bugbug ŋaɭa-X?", 
+    "‘Did old woman X (name deleted) show you?’", 
+    "Mangarayi"
+  ], 
+  [
+    "-woman ŋan-guɖugu buyʔ-aux-pstpunc wuɭa-wu-na ŋani", 
+    "‘They taught the woman language.’", 
+    "Mangarayi"
+  ], 
+  [
+    "-man ɳa-malam-mid-pstcont ∅-gala+wu-yi-ni ɳa-landi-yan", 
+    "‘The man was hanging in the tree.’", 
+    "Mangarayi"
+  ], 
+  [
+    "-dog ɳa-muyg ŋan-daɭag", 
+    "‘The dog bit me.’", 
+    "Mangarayi"
+  ], 
+  [
+    " malam-find-pstpunc ŋa-ɖaɽa+wu-b", 
+    "‘I found the man.’", 
+    "Mangarayi"
+  ], 
+  [
+    " wumbawa ɭandi ɟir-aux-pstcont ∅-ɟaygi-ni wuburgba-billabong-loc ɳa-budal-an", 
+    "‘One tree is standing in the middle of the billabong.’", 
+    "Mangarayi"
+  ], 
+  [
+    "-dust ɳa-gunbur-pstpunc ŋan-gawa-ɟ ɟib-ŋanju", 
+    "‘Dust buried (i.e. blew into) my eye.’", 
+    "Mangarayi"
+  ], 
+  [
+    "a-ta’u mba’e n-ono matua", 
+    "‘The monkey is afraid of the boy.’", 
+    "Nias"
+  ], 
+  [
+    "tobali n-idanö es", 
+    "‘The water changed into ice.’", 
+    "Nias"
+  ], 
+  [
+    "aukhu n-idanö", 
+    "‘The water is hot.’", 
+    "Nias"
+  ], 
+  [
+    "asese la-tandraigö va-nanö goßi Balanda ba Danö Niha", 
+    "‘The Dutch have often tried to plant potatoes in NiasNias.’", 
+    "Nias"
+  ], 
+  [
+    "alalk yikpi-waŋ yinʸa tar yiminʸnö", 
+    "‘The little boy bites/bit the man.’", 
+    "Malakmalak"
+  ], 
+  [
+    "yinʸa alalk yikpi-waŋ tar yiminʸnö", 
+    "‘The little boy bites/bit the man.’", 
+    "Malakmalak"
+  ], 
+  [
+    "an´et cÍ k-e´en´ɪ dem´ez-z´oh-t", 
+    "‘I’m the teacher.’", 
+    "Tennet"
+  ], 
+  [
+    "anet m´ot-t´oh-t", 
+    "‘I am the brave man.’", 
+    "Tennet"
+  ], 
+  [
+    "k-e´en´ɪ anná dem´ez-z´oh-t", 
+    "‘I am a teacher.’", 
+    "Tennet"
+  ], 
+  [
+    "mmdii-ny-a chyer-sh duu-m", 
+    "‘Owls are birds/ The owl is a bird.’", 
+    "Maricopa"
+  ], 
+  [
+    "’iipaa-ny-a kwsede-sh (duu-m)", 
+    "‘The man is a doctor.’", 
+    "Maricopa"
+  ], 
+  [
+    "ɲá apà-v-c yú", 
+    "‘I am a human being.’", 
+    "Walapai"
+  ], 
+  [
+    " nya-refl-nom boś-v-č yu", 
+    "‘I am a cat.’", 
+    "Walapai"
+  ], 
+  [
+    "jan ña-ñuwa ha-c yu", 
+    "‘John is my friend.’", 
+    "Havasupai"
+  ], 
+  [
+    "jan ña-ñuwa-ha", 
+    "‘John is my friend.’", 
+    "Havasupai"
+  ], 
+  [
+    "nyech’ak-pu metiipay", 
+    "‘That woman is an Indian.’", 
+    "Jamul Tiipay"
+  ], 
+  [
+    "nyech’ak-pe-ch metiipay we-yu", 
+    "‘That woman is playing Indian/pretending to be an Indian.’", 
+    "Jamul Tiipay"
+  ], 
+  [
+    "mak’áa-n axaaxúu xiyyá álii", 
+    "‘My grandfather’s name is Ali.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "inn´ıi angafa xiyyáa-mihi", 
+    "‘He is not my elder brother.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    " he-nom bitann-ey laagge", 
+    "‘That man is a friend.’", 
+    "Wolaytta"
+  ], 
+  [
+    "ha-nna gelawi-ya", 
+    "‘This is a girl.’", 
+    "Wolaytta"
+  ], 
+  [
+    "ha-nna gelawi-yu", 
+    "‘This is a girl.’", 
+    "Wolaytta"
+  ], 
+  [
+    "mÈÈrɛ` a-yÒŋ ɛ-kapɪlan`I", 
+    "‘I am not a witch.’", 
+    "Turkana"
+  ], 
+  [
+    "È-à-raɪ` ŋesÌ ɛ-kapɪla-n`I", 
+    "‘He was a witch.’", 
+    "Turkana"
+  ], 
+  [
+    "sàawà màanàŋóodÌgà gɪl", 
+    "‘They are wealthy people.’", 
+    "Datooga"
+  ], 
+  [
+    "nÌɲ à[a] mùránéedà gɪl", 
+    "‘He was a hero.’", 
+    "Datooga"
+  ], 
+  [
+    "Ururu=gha lava ko-va zuba=na", 
+    "‘[Talking about eggs of a megapode] Her child (i.e. egg) has a nice smell (when cooked).’, lit. ‘Fragrance having (is) her child.’", 
+    "Savosavo"
+  ], 
+  [
+    "ghoma lo mapa=e ai lo biti=na", 
+    "‘(It was) not a conscious being, this volcano.’", 
+    "Savosavo"
+  ], 
+  [
+    "anyi ghajia Solomone sua mapa", 
+    "‘I was the only Solomon Islander.’ lit. ‘I myself (was) a Solomon Island person.’", 
+    "Savosavo"
+  ], 
+  [
+    "na dɔ pani-ɲa", 
+    "‘She is my true mother.’", 
+    "Ajie"
+  ], 
+  [
+    "(ki) gɔi ɔrɔkaʔu", 
+    "‘I wish I were chief’", 
+    "Ajie"
+  ], 
+  [
+    "hukθar-c ʔaviː-θ-lʸ idiː-k", 
+    "‘There are coyotes in those hills.’", 
+    "Mojave"
+  ], 
+  [
+    "piːpa nʸamaθaːm kʷəloyaw kʷ-tapoy-h-nʸ-c ʔavaː-lʸ iva-m", 
+    "‘The man who’s going to kill the chicken tomorrow is in the house.’", 
+    "Mojave"
+  ], 
+  [
+    "ga so göcoa", 
+    "‘There’s a cockroach here.’", 
+    "Nias"
+  ], 
+  [
+    "löna baßi ba mbanu ha’a", 
+    "‘There are no pigs in this village.’", 
+    "Nias"
+  ], 
+  [
+    "ányák mám c´e´ez-a", 
+    "‘There is water in the house.’", 
+    "Tennet"
+  ], 
+  [
+    "´ave lo´ud´o keét-á v´urt-a", 
+    "‘Loudo is under the tree.’", 
+    "Tennet"
+  ], 
+  [
+    " abil-nom guumun-i kɛɛt taddina", 
+    "‘There is an owl up in the tree.’", 
+    "Murle"
+  ], 
+  [
+    "ɛɛl tor-ɛt-a ceeza", 
+    "‘The guns are in the house.’", 
+    "Murle"
+  ], 
+  [
+    "akɔ agul-i ci appi liila", 
+    "‘The big crocodile goes into the river.’", 
+    "Murle"
+  ], 
+  [
+    "mÌːt-éy ngetún-ta", 
+    "‘There is a lion.’", 
+    "Nandi"
+  ], 
+  [
+    "mÌːt-éy kÍproːno kitaːli", 
+    "‘Kiprono is in Kitale.’", 
+    "Nandi"
+  ], 
+  [
+    "mà-ndá dúu-sù jáa gá-wá gwá-róo´ı", 
+    "‘There are none of these cattle that he may go to meet.’", 
+    "Datooga"
+  ], 
+  [
+    "gwándà-be_there gádéemgá jèedá dûhwa", 
+    "‘The women were among the cattle.’", 
+    "Datooga"
+  ], 
+  [
+    "ŋɪ-dɛ` omwɔn`", 
+    "‘There are four children.’", 
+    "Turkana"
+  ], 
+  [
+    "È-màa-sè ŋɪ-dÈ omwɔn`", 
+    "‘There are four children.’", 
+    "Turkana"
+  ], 
+  [
+    "è-yàka-sÌ ŋa-àtùk", 
+    "‘There are cows (or the cows are there).’", 
+    "Turkana"
+  ], 
+  [
+    "è-yè-i` a-pÈsɛ a-pèy", 
+    "‘There is one girl (or one girl is there).’", 
+    "Turkana"
+  ], 
+  [
+    "è-yàka-sÌ a-yɔŋ` ŋa-àtùk", 
+    "‘I have cows.’", 
+    "Turkana"
+  ], 
+  [
+    "ŋa-atuk` ŋugu` ŋa-kaŋ`", 
+    "‘These cows are mine’", 
+    "Turkana"
+  ], 
+  [
+    "n-é-tiÍ apá, ɔl-mʊrranÍ óbo", 
+    "‘Long ago, there was a warrior.’", 
+    "Maa"
+  ], 
+  [
+    "e-tÍÍ ɛnk-áyÍónÍ ol-kɛjÚ", 
+    "‘The boy is at the river.’ (lit. ‘The boy is at the big leg.’)", 
+    "Maa"
+  ], 
+  [
+    "-3-know-incep n-é-yioló-u áàjò-3-exist-pass k-É-áta-ɪ ɛnk-áÍ ná-ra papa", 
+    "‘They knew that there is God who is the father.’", 
+    "Maa"
+  ], 
+  [
+    "…amʊ m-ɛ-átà ɔl-tʊŋánÌ ó-Ítieu", 
+    "‘…because there is no one who can face him.’", 
+    "Maa"
+  ], 
+  [
+    "m-ɛ-Étà ɔl-mÚrránÌ lÉ-m-é-nyÓrr te=n-e-i-pus-Íék-Ì ɛnk-áÍná", 
+    "‘There isn’t a warrior who doesn’t want to (have his) hand be made blue.’", 
+    "Maa"
+  ], 
+  [
+    "´ave lo´ud´o keét-á v´urt-a", 
+    "‘Loudo is under the tree.’", 
+    "Tennet"
+  ], 
+  [
+    "ávte bur´u-na lebel-á", 
+    "‘(The) eggs are on the platform.’", 
+    "Tennet"
+  ], 
+  [
+    "ányák mám c´e´ez-a", 
+    "‘There is water in the house.’", 
+    "Tennet"
+  ], 
+  [
+    "ill´o´ɪ mám c´e´ez-a", 
+    "‘There’s no water in the house.’", 
+    "Tennet"
+  ], 
+  [
+    "c’uf-tíi xéesá jir-an", 
+    "‘All are inside.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "kitaab-níi miizá rrá jira", 
+    "‘The book is on the table.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "miizá rrá kitaabáa-túu jira", 
+    "‘There is a book on the table.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "wiimu ’abogodáa’nuti yoo-si", 
+    "‘He has got many friends,’ lit.:‘Many friends are to him.’ original translation: ‘Er hat viele Freunde’ lit.: ‘Viele Freunde existieren [bei] ihm.’)", 
+    "K'abeena"
+  ], 
+  [
+    "máncu-se bokku yoo", 
+    "‘The man is in the house.’  original translation: ‘Der Mann ist im Haus.’", 
+    "K'abeena"
+  ], 
+  [
+    "wolk’itt’eeni teesu wuu yoo-ba", 
+    "‘In Wolkite there is no water right now.’ original translation: ‘In Wolkite gibt es jetzt kein Wasser.’", 
+    "K'abeena"
+  ], 
+  [
+    "piːpa-c kʷəcaːnavaː-lʸ uwaː-k", 
+    "‘There is someone in Yuma …’", 
+    "Mojave"
+  ], 
+  [
+    "piːpa nʸamaθaːm kʷəloyaw kʷ-tapoy-h-nʸ-c ʔavaː-lʸ iva-m", 
+    "‘The man who’s going to kill the chicken tomorrow is in the house.’", 
+    "Mojave"
+  ], 
+  [
+    "hatcoq havasuː-c kavaːr-taːhan-e", 
+    "‘There are no blue dogs’", 
+    "Mojave"
+  ], 
+  [
+    "toor tewa-ch u-wiiw", 
+    "‘There was a bull there, and he saw (the boy).’", 
+    "Jamul Tiipay"
+  ], 
+  [
+    "nyaa-ch peyii ta’-wa-ch-pu puu-ch ny-u’yaaw", 
+    "‘She knows that I was there.’", 
+    "Jamul Tiipay"
+  ], 
+  [
+    "’i:kwic ’xin nywa:yp t+wa: i:tay+pu+i", 
+    "‘There was a man who lived in the forest.’", 
+    "Diegueno (Mesa Grande)"
+  ], 
+  [
+    "ikwic pu=c nyuk pa", 
+    "‘That man is already here.’", 
+    "Diegueno (Mesa Grande)"
+  ], 
+  [
+    "hʷat-c viya-k wi-o-m", 
+    "‘There is blood here.’", 
+    "Yavapai"
+  ], 
+  [
+    "cmyul ñ-waː-c-c via ʔ-waː-v-m pay-a yoː", 
+    "‘There are ant hills all around my house.’", 
+    "Yavapai"
+  ], 
+  [
+    "cnapuk-c miyyul-l yu-m", 
+    "‘There is an ant in the sugar.’", 
+    "Yavapai"
+  ], 
+  [
+    "pol’-i ǒi:-khi", 
+    "‘There’s a bucket of dirt.’", 
+    "Wappo"
+  ], 
+  [
+    "heta hut’-i la-khi", 
+    "‘There aren’t any coyotes here.’", 
+    "Wappo"
+  ], 
+  [
+    "c’ic’a-t-i hol-wil’uh lea-hki", 
+    "‘There are lots of birds on the tree.’", 
+    "Wappo"
+  ], 
+  [
+    "ga so göcoa", 
+    "‘There’s a cockroach here.’", 
+    "Nias"
+  ], 
+  [
+    "so nono-nia do-mbua", 
+    "‘She has two children.’", 
+    "Nias"
+  ], 
+  [
+    "löna baßi ba mbanu ha’a", 
+    "‘There are no pigs in this village.’", 
+    "Nias"
+  ], 
+  [
+    "löna ono-nia.", 
+    "‘She doesn’t have any children.’", 
+    "Nias"
+  ], 
+  [
+    "na wii rha mʌʔu ka kani ə", 
+    "‘There is a yam that grows good.’", 
+    "Ajie"
+  ], 
+  [
+    "wi tɔ-wɛ na pũ-ẽ?", 
+    "‘Where is its trunk?’", 
+    "Ajie"
+  ], 
+  [
+    "na ta mã na bweʔ ɣe kaunuaɛ", 
+    "‘Long ago there was a woman from Kaunuae.’", 
+    "Ajie"
+  ], 
+  [
+    "gɛ yɛ ta tɔ-a na gɛi", 
+    "‘You are going to stay over there.’", 
+    "Ajie"
+  ], 
+  [
+    "na yɛri kamoʔ rro-i", 
+    "‘There was no-one there.’", 
+    "Ajie"
+  ], 
+  [
+    "na yɛri mwane", 
+    "‘There is no money.’", 
+    "Ajie"
+  ], 
+  [
+    "apoi ata=e te lo keva=na", 
+    "‘Because here (is ) the road.’", 
+    "Savosavo"
+  ], 
+  [
+    "lo lo buringa=la=e edo kola=ga", 
+    "‘At his back (are) two trees./ There are two trees at his back.’", 
+    "Savosavo"
+  ], 
+  [
+    "lo mama mau lo-va nanaghiza=na te baighoza-i", 
+    "‘The teaching of the parents does not exist (any more)’", 
+    "Savosavo"
+  ], 
+  [
+    "Apoi ata=e te lo keva=na", 
+    "‘Because here (is) the road.’", 
+    "Savosavo"
+  ], 
+  [
+    "ny-omata te=lo", 
+    "‘With me (is) it.’ lit.: ‘At me (is) it.’", 
+    "Savosavo"
+  ], 
+  [
+    "lo-va sokasoka=na lo-va kata papale=la", 
+    "‘His brush is at his bushwards side.’", 
+    "Savosavo"
+  ], 
+  [
+    "tÒkÒna` nèg` aːa, ŋèsi` e-los-Ì nà-wuy°è", 
+    "‘Now, HE goes home.’", 
+    "Turkana"
+  ], 
+  [
+    "tɔ-rʊk-Ò-ʊ ŋesÌ k-Ìpʊd-Ùd a-màna", 
+    "‘He found the field in a trampled state.’", 
+    "Turkana"
+  ], 
+  [
+    "kipeːt kó keːr-éy laːkwéːt", 
+    "‘KIBET is looking at the child.’", 
+    "Nandi"
+  ], 
+  [
+    "kèːr-éy kÍpeːt laːkwéːt", 
+    "‘Kibet is looking at the child.’", 
+    "Nandi"
+  ], 
+  [
+    "ŋa-atuk` ŋa-arey` màke` e-yakà-sɪ a-yɔŋ`", 
+    "‘Two cows is all I have.’", 
+    "Turkana"
+  ], 
+  [
+    "a-yɔŋ` e-yakà-sɪ ŋa-àtùk ŋa-àrèy màke`", 
+    "‘I only have two cows.’", 
+    "Turkana"
+  ], 
+  [
+    "si’o hö’ö ma+i-taru-’ö ba danö", 
+    "‘That stick he planted in the ground.’", 
+    "Nias"
+  ], 
+  [
+    "i-taru-’ö zi’o hö’ö ba danö", 
+    "‘He planted that stick in the ground.’", 
+    "Nias"
+  ], 
+  [
+    "lokúli cÍ á-rúh loham", 
+    "‘It is Lokuli who is beating Loham.’", 
+    "Tennet"
+  ], 
+  [
+    "lokúli néné cÍ á-rúh loham", 
+    "‘Lokuli is the one who is beating Loham’", 
+    "Tennet"
+  ], 
+  [
+    "farawa zéɦe", 
+    "‘(A) horse died.’ (answer to the constituent question ‘What died?’)", 
+    "Arbore"
+  ], 
+  [
+    "farawé ʔÍ-y zaɦate", 
+    "‘(A) horse died.’", 
+    "Arbore"
+  ], 
+  [
+    "lokúli cÍ á-rúh loham", 
+    "‘It is Lokuli who is beating Loham.’", 
+    "Tennet"
+  ], 
+  [
+    "Íjja zin wála-i Í-kÍya", 
+    "‘And then Crow came.’", 
+    "Tennet"
+  ], 
+  [
+    "nu ke taleng duap", 
+    "‘He is a policemen (i.e. not someone else)’", 
+    "Waskia"
+  ], 
+  [
+    "aga bawa taleng duap", 
+    "‘My brother is a policeman.’", 
+    "Waskia"
+  ], 
+  [
+    "nu ke taleng duap", 
+    "‘He is a policemen (i.e. not someone else)’", 
+    "Waskia"
+  ], 
+  [
+    "aga bawa taleng duap", 
+    "‘My brother is a policeman.’", 
+    "Waskia"
+  ], 
+  [
+    "ce saw-i lakhuh nuh-kheʔ", 
+    "‘It’s the bread that got stolen.’", 
+    "Wappo"
+  ], 
+  [
+    "mayis-i macuʔ-kheʔ", 
+    "‘The corn has been ash-roasted.’", 
+    "Wappo"
+  ], 
+  [
+    "bokku wombu ´ijaaránu-ra hecc’i gordanna fiilanu", 
+    "‘When the K’abeenaK’abeena build a house, they first split the tree trunks for the wall.’", 
+    "K'abeena"
+  ], 
+  [
+    "kamaali ’adbaareeni ’ama’nanu-ba", 
+    "‘Kamal does not believe in familiar spirits.’  original translation: ‘Kamal glaubt nicht an Schutzgeister.’", 
+    "K'abeena"
+  ], 
+  [
+    "búunèe súurjá àa nÌ-yɪɪn dàbÍ tá-ɲàwá ŋ`ææɲi", 
+    "‘Other people had put down their weapons.’", 
+    "Datooga"
+  ], 
+  [
+    "gà-bÌɪktá qáarèemàŋgà sùurjá qòo", 
+    "‘Other youths went home.’", 
+    "Datooga"
+  ], 
+  [
+    "ŋa-atuk` ŋa-arey` màke` e-yakà-sɪ a-yɔŋ`", 
+    "‘Two cows is all I have.’", 
+    "Turkana"
+  ], 
+  [
+    "a-yɔŋ` e-yakà-sɪ ŋa-àtùk ŋa-àrèy màke`", 
+    "‘I only have two cows.’", 
+    "Turkana"
+  ], 
+  [
+    "en-tító na-dÓl nɪnyÉ", 
+    "‘It is the girl who sees him.’", 
+    "Maa"
+  ], 
+  [
+    "É-dÓl-Íta ɔl-kÍtÉŋ en-kÓítóÍ", 
+    "‘The ox sees the road.’", 
+    "Maa"
+  ], 
+  [
+    "kipeːt kó keːr-éy laːkwéːt", 
+    "‘KIBET is looking at the child.’", 
+    "Nandi"
+  ], 
+  [
+    "kèːr-éy kÍpeːt laːkwéːt", 
+    "‘Kibet is looking at the child.’", 
+    "Nandi"
+  ], 
+  [
+    "l¨áy ~à-ku~àaŋ", 
+    "‘The animal is swimming.’", 
+    "Dinka (Agar Dialect)"
+  ], 
+  [
+    "l¨áy ~à-n¨àk ra~àan", 
+    "‘The animal is killing the person.’", 
+    "Dinka (Agar Dialect)"
+  ], 
+  [
+    "ra~àan ~à-n¨àk l¨ày", 
+    "‘The animal is killing THE PERSON.’", 
+    "Dinka (Agar Dialect)"
+  ], 
+  [
+    "lokúli cÍ á-rúh loham", 
+    "‘It is Lokuli who is beating Loham.’", 
+    "Tennet"
+  ], 
+  [
+    "Íjja zin wála-i Í-kÍya", 
+    "‘And then Crow came.’", 
+    "Tennet"
+  ], 
+  [
+    "farawa zéɦe", 
+    "‘(A) horse died.’ (answer to the constituent question ‘What died?’)", 
+    "Arbore"
+  ], 
+  [
+    "farawé ʔí-y zaɦate", 
+    "‘(A) horse died.’", 
+    "Arbore"
+  ], 
+  [
+    "para č’abo-i yides", 
+    "‘It was Chabo who saw a horse.’", 
+    "Gamo"
+  ], 
+  [
+    "č’abo-i para yides", 
+    "‘Chabo saw a horse.’", 
+    "Gamo"
+  ], 
+  [
+    "diini-’ne wakk’eeccu k’ariccu mazaaranu", 
+    "‘It is God who prepares the path of our religion.’  original translation: ‘Den Weg unserer Religion bereitet Gott.’", 
+    "K'abeena"
+  ], 
+  [
+    "’áni-’nu gorru ’ataalaammi", 
+    "‘When it comes to me, I can cope with hunger well.’  original translation: ‘Was mich betrifft, ich kann Hunger gut ertragen.’", 
+    "K'abeena"
+  ], 
+  [
+    "si’o hö’ö ma+i-taru-’ö ba danö", 
+    "‘That stick he planted in the ground.’", 
+    "Nias"
+  ], 
+  [
+    "i-taru-’ö zi’o hö’ö ba danö", 
+    "‘He planted that stick in the ground.’", 
+    "Nias"
+  ], 
+  [
+    "na kuru na tawa", 
+    "‘The dog sleeps.’", 
+    "Ajie"
+  ], 
+  [
+    "tawa (we) na kuru", 
+    "‘As for the dog, it sleeps.’", 
+    "Ajie"
+  ], 
+  [
+    "pa poi=e te lo mane=la", 
+    "‘One thing (is) at its/the side.’", 
+    "Savosavo"
+  ], 
+  [
+    "apoi ata=e te lo keva=na", 
+    "‘Because here (is) the road.’", 
+    "Savosavo"
+  ], 
+  [
+    "ave=ve gazu te livu-li Australia l-au bo-i", 
+    "‘We shipped ripe coconuts to Australia.’", 
+    "Savosavo"
+  ], 
+  [
+    "Jeffi=na, baigho=e lo-va ela sua ko adaki nyuba=ka sua pa ghanaghana=na", 
+    "‘Jeff, he didn’t have any thought whatsoever about/because of the woman.’", 
+    "Savosavo"
+  ], 
+  [
+    "ai to edo Fiji sua mapa=lo=e to boboragha mapa=lo=e to=na", 
+    "‘These two Fijians, they (were) black people.’", 
+    "Savosavo"
+  ], 
+  [
+    "zu sesepi=la=ti=lo te alu kozi-zu, lo mapa=na", 
+    "‘and he stands facing close to Sesepi, the man.’", 
+    "Savosavo"
+  ], 
+  [
+    "aweri ke bamban tagiram ? – gagi ke", 
+    "‘Who caught the fish? – Gagi (did)’", 
+    "Waskia"
+  ], 
+  [
+    "gagi kasili arigam", 
+    "‘Gagi saw the snake.’", 
+    "Waskia"
+  ], 
+  [
+    "nu ke taleng duap", 
+    "‘He is a a policemen (i.e. not someone else)’", 
+    "Waskia"
+  ], 
+  [
+    "aga bawa taleng duap", 
+    "‘My brother is a policeman.’", 
+    "Waskia"
+  ], 
+  [
+    "mela, gagi ke madang urat biteso", 
+    "‘No it is Gagi who works in Madang.", 
+    "Waskia"
+  ], 
+  [
+    "gagi madang sule se bage-so, ayi ?", 
+    "‘Gagi is at school in Madang, isn’t he?’", 
+    "Waskia"
+  ], 
+  [
+    "ngayu-ni nga-nga-nda mulukula-gadya, dyuyu-ni buru-bardu kari mi-na-bi-nda", 
+    "‘I was working hard while you were drinking.’", 
+    "Yawuru"
+  ], 
+  [
+    "ngayu(*-ni) mulkula-gadya-nga-nga-rn", 
+    "‘I’m working (hard).’", 
+    "Yawuru"
+  ], 
+  [
+    "tam-aŋ gaki-ye", 
+    "‘The dog died.’", 
+    "Nabak"
+  ], 
+  [
+    "bo ke da-en met-ge", 
+    "‘That pig went over there.’", 
+    "Nabak"
+  ], 
+  [
+    "el ninye sik do arye a-motokwe nirye ba-lam-uk", 
+    "‘Man’s ancestor used to go to all mountains.’", 
+    "Eipo"
+  ], 
+  [
+    "ninye na-arye kweb-reib-se", 
+    "‘It was me who created man.’", 
+    "Eipo"
+  ], 
+  [
+    "ʔña ʔ-tal-c yu ʔña ʔ-cita-c yu-eː-k ke qalyev-c-m ʔ-uː ʔ-om-km ʔña-c", 
+    "‘My father and mother, never unhappy do I see them, I.’", 
+    "Yavapai"
+  ], 
+  [
+    "ñvat ʔmo-ʔhan ʔ-tkay-c-kñ ña-c-c", 
+    "‘(We) mixed the sheep and the goats.’", 
+    "Yavapai"
+  ], 
+  [
+    "´a-r´uh-w-e idong ´ɪy´oko", 
+    "‘The drum is being beaten now.’", 
+    "Tennet"
+  ], 
+  [
+    "´a-r´uh enné ´ɪd´ong ´ɪy´oko", 
+    "‘He is beating the drum now.’", 
+    "Tennet"
+  ], 
+  [
+    "á-dáh-ye dol´ec", 
+    "‘The child is eating.’", 
+    "Tennet"
+  ], 
+  [
+    "á-dáh dol´ec áhát", 
+    "‘The child is eating asida.’", 
+    "Tennet"
+  ], 
+  [
+    "ce ew ce k’ew-i t’um-ta", 
+    "‘That fish, the man bought (it).’", 
+    "Wappo"
+  ], 
+  [
+    "ce k’ew ew t’um-ta cephi i naw-ta", 
+    "‘The man who bought the fish saw me.’", 
+    "Wappo"
+  ], 
+  [
+    "te ce ew t’ume cel’ keye ah ce paʔeh", 
+    "‘If he had bought the fish, I would have eaten it’", 
+    "Wappo"
+  ], 
+  [
+    "ah te sawo paʔ-tah hais-khiʔ", 
+    "‘I know that he ate bread.’", 
+    "Wappo"
+  ], 
+  [
+    "kɛɛti naana kiziwan o or niina", 
+    "‘I am skinning the buffalo which you shot.’", 
+    "Murle"
+  ], 
+  [
+    "kaga naana nɔnnɔ aak idiŋ", 
+    "‘I know that she is cooking meat.’", 
+    "Murle"
+  ], 
+  [
+    "θinʸaʔaːk mat=kəhʷelʸ kʷ-nʸavay-nʸ-c ʔ-ahvay-nʸ icoː-k", 
+    "‘The woman who lives in Parker made my dress.’", 
+    "Mojave"
+  ], 
+  [
+    "inye-č pap -akchoor-m judyč-nom salyii-k", 
+    "‘After I peeled the potatoes, Judy fried them.’", 
+    "Mojave"
+  ], 
+  [
+    "namicc-´ıi (xan) intal-t´ıi isá baréed-dúu ác jira", 
+    "‘The man whose daughter is pretty is there.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "hagá is´ıin d’uf-t-ú taa’-e", 
+    "‘He stayed until she came.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "´a-r´uh-w-e idong ´ɪy´oko", 
+    "‘The drum is being beaten now.’", 
+    "Tennet"
+  ], 
+  [
+    "á-dáh-ye dol´ec", 
+    "‘The child is eating.’", 
+    "Tennet"
+  ], 
+  [
+    "ŋ-é-duŋ-o ɛn-ámÙkÈ", 
+    "‘The shoe was cut.’", 
+    "Maa"
+  ], 
+  [
+    "n-é-ramat-Íshò ɔl-mʊrranÍ", 
+    "‘The warrior herds [e.g. cows].’", 
+    "Maa"
+  ], 
+  [
+    "ɛ-tɛ-ɛn-ák-Ì ɔl-apúrrònÌ", 
+    "‘The thief was arrested.’", 
+    "Maa"
+  ], 
+  [
+    "ɛ-ɪbÚŋ-á ɪ-s’ɪkarɪnÍ ɔl-apúrrònÌ", 
+    "‘The policemen have arrested the thief.’", 
+    "Maa"
+  ], 
+  [
+    " ce k’ew kat’akh cephi k’ešu-stat peh-khi", 
+    "‘The man who laughed is looking at the deer.’", 
+    "Wappo"
+  ], 
+  [
+    "-nom hay-i ho-ta", 
+    "‘The dog barked.’", 
+    "Wappo"
+  ], 
+  [
+    "mi ce k’ew-thu taka ma-hes-ta (ce) ah naw-ta", 
+    "‘I saw the man you gave the basket to.’", 
+    "Wappo"
+  ], 
+  [
+    "ce k’ew-i chica-thu ew ma-hes-ta", 
+    "‘The man gave the fish to the bear.’", 
+    "Wappo"
+  ], 
+  [
+    "ce layh tu-leʔa-cel’ okal’te-lahkhiʔ", 
+    "‘When the white man comes, don’t talk’", 
+    "Wappo"
+  ], 
+  [
+    "mi te o-meʔ-is cel’ keye choʔe-lahkhih", 
+    "‘If you had fed it, it wouldn’t have died’", 
+    "Wappo"
+  ], 
+  [
+    "ah te sawo paʔ-tah hais-khiʔ", 
+    "‘I know that he ate bread.’", 
+    "Wappo"
+  ], 
+  [
+    "ʔavaː kʷ-nʸəməsavc-lʸ ʔ-iva-m", 
+    "‘I am in the white house.’", 
+    "Mojave"
+  ], 
+  [
+    "ʔavaː-c nʸəməsaː-m", 
+    "‘The house is white.’", 
+    "Mojave"
+  ], 
+  [
+    "hatcoq pos kʷ-taver ʔ-iyuː-pc", 
+    "‘I saw the dog that chased the cat.’", 
+    "Mojave"
+  ], 
+  [
+    "hatcoq-c pos taver-m", 
+    "‘The dog chased the cat.’", 
+    "Mojave"
+  ], 
+  [
+    "θinʸaʔaːk mat=kəhʷelʸ kʷ-nʸavay-nʸ-c ʔ-ahvay-nʸ icoː-k", 
+    "‘The woman who lives in Parker made my dress.’", 
+    "Mojave"
+  ], 
+  [
+    "θinʸaʔaːk-nʸ-c mat=kəhʷelʸ nʸavay-nʸ-k", 
+    "‘The woman lives in Parker.’", 
+    "Mojave"
+  ], 
+  [
+    "ʔ-nakut ʔava uːcoː-lʸ ʔ-navay-k", 
+    "‘I live in the house my father built.’", 
+    "Mojave"
+  ], 
+  [
+    "ʔinʸep ʔ-nakut-c ʔavaː vidanʸ icoː-k", 
+    "‘My father built this house.’", 
+    "Mojave"
+  ], 
+  [
+    "iipa iiwa-ny-č nya-chalahop-m isma-mot-e", 
+    "‘When a man is lonely, he can’t sleep.’ lit.: ‘When a man’s heart is empty, he can’t sleep.’", 
+    "Mojave"
+  ], 
+  [
+    "i:kwi:č-v-č nkmič-m -taly-č zu:pa:", 
+    "‘When the men came back, my mother cracked acorns.’", 
+    "Mojave"
+  ], 
+  [
+    "ʔinʸ ec [judy-c ivaː-p-m] ʔ-suːpaw-c", 
+    "‘I know that Judy has arrived.’", 
+    "Mojave"
+  ], 
+  [
+    "pa ič u:ra:v-ny -aa:v-k-e", 
+    "‘I know the man is sick.’", 
+    "Mojave"
+  ], 
+  [
+    "pa-č ič ira:v-k", 
+    "‘The man is sick.’", 
+    "Mojave"
+  ], 
+  [
+    "’iipay peya nye-kwe-’iny-pe-ch mespa", 
+    "‘The man who gave me this died.’", 
+    "Jamul Tiipay"
+  ], 
+  [
+    "leech Marii chshaak-pu mamwi-aa", 
+    "‘What did you do with the milk Maria brought?’", 
+    "Jamul Tiipay"
+  ], 
+  [
+    "maach kaavaay peya me-llywa-x-ich uukwii", 
+    "‘I bought this horse for you to ride.’", 
+    "Jamul Tiipay"
+  ], 
+  [
+    "ñmi vqi hmañ k-ttmoː-c hmañ hme-ha ckʸoː-kñ", 
+    "‘The cat that scratched the girl bit the boy.’", 
+    "Yavapai"
+  ], 
+  [
+    "kiθar qʷar qoleyaw k-neːh-a ʔ-uː-kñ", 
+    "‘I saw the coyote that killed the chicken.’", 
+    "Yavapai"
+  ], 
+  [
+    "vqi hmañ-c ñmi vheː syoːm-kiθo ñmi-c ttmoː-ha", 
+    "‘If the girl pulls the cat’s tail, it will scratch (her).’", 
+    "Yavapai"
+  ], 
+  [
+    "can-c kʷe civiam-l wa-m ñθaʔa pil-c kkav-k noː-km", 
+    "‘John is sitting in the car that Bill is going to buy.", 
+    "Yavapai"
+  ], 
+  [
+    "ré nʸawá-c ṣayá-m, nʸṣá-ʸ p-wámca", 
+    "‘He arrived there at the king’s house.’", 
+    "Cocopa"
+  ], 
+  [
+    "nya:-č lča:š-m sa:m-ty ny-wa:ča", 
+    "‘When I was little, we lived in Somerton.’", 
+    "Cocopa"
+  ], 
+  [
+    "nʸ-tapiʔipay-c-m", 
+    "‘I was saved.’", 
+    "Mojave"
+  ], 
+  [
+    "masahay-nʸ ətaːv-c-m", 
+    "‘The girl got hit.’", 
+    "Mojave"
+  ], 
+  [
+    "masahay-nʸ ətaːv-k", 
+    "‘(Someone) hit the girl.’", 
+    "Mojave"
+  ], 
+  [
+    "hlo-v-c siːl-v-kñ", 
+    "‘The rabbit was fried.’", 
+    "Yavapai"
+  ], 
+  [
+    "θala-c hlo siːl-kñ", 
+    "‘Thala fried the rabbit.’", 
+    "Yavapai"
+  ], 
+  [
+    "wa-ha-c wi-v-m yo-v-c-a", 
+    "‘The house is made of stone.’", 
+    "Havasupai"
+  ], 
+  [
+    "ah-ñu-c mat-ñu-m pay vtil-v-k-yu", 
+    "‘The water is lying all over the ground (over there).", 
+    "Havasupai"
+  ], 
+  [
+    "siʔay-i mot’-kheʔ", 
+    "‘The stalks have been piled up’", 
+    "Wappo"
+  ], 
+  [
+    "ah hol kotoːmela te-k’ec’-taʔ", 
+    "‘I chopped down the big trees.’", 
+    "Wappo"
+  ], 
+  [
+    "cephi osay’-kheʔ", 
+    "‘S/he got paid’", 
+    "Wappo"
+  ], 
+  [
+    "ah mi o-say’i-yaːmiʔ", 
+    "‘I’m going to pay you.’", 
+    "Wappo"
+  ], 
+  [
+    "nihs [si=ma=mate fo’omo meneßi]", 
+    "‘the man whose wife died yesterday.’", 
+    "Nias"
+  ], 
+  [
+    "mate zibaya-nia meneßi", 
+    "‘His uncle died yesterday.’", 
+    "Nias"
+  ], 
+  [
+    "Andrehe’e nasu [si=usu ya’o]", 
+    "‘That’s the dog that bit me.’", 
+    "Nias"
+  ], 
+  [
+    "i-usu ndrao asu", 
+    "‘The dog bit me.’", 
+    "Nias"
+  ], 
+  [
+    "Andrehe’e mbua [si=ma i-halö bua mbala andre]", 
+    "‘That is the tree that he took those papaya from.’", 
+    "Nias"
+  ], 
+  [
+    "i-halö mbua mbala moroi ba mbua hö’ö", 
+    "‘He took the papapya from the tree.’", 
+    "Nias"
+  ], 
+  [
+    "Andrehe’e nohi [si=löna ni-lau nono matua]", 
+    "‘That is the coconut tree the boy did not climb.’", 
+    "Nias"
+  ], 
+  [
+    "Ma=i-bözi nasu ono matua ba ma=m-oloi ya", 
+    "‘The boy hit the dog and ran away.’", 
+    "Nias"
+  ], 
+  [
+    "na uu kwaʔ [cɛ ki dii na neɟʌʔ]", 
+    "‘He calls for rain so that the ground may be wet.’", 
+    "Ajie"
+  ], 
+  [
+    "gwe daa tuwiri [wɛ wi bomu na kɔwi-ɲ] [wɛ wi ɔi ne-ləʔ ɣi-ɲa na yiipu]", 
+    "‘I am not going to touch it because my hand might smell (and) because the rat might eat my braids.’", 
+    "Ajie"
+  ], 
+  [
+    "lo fomu=gha ze pale-tu lo mavutu", 
+    "‘The place where the forms are.’", 
+    "Savosavo"
+  ], 
+  [
+    "lo lo-ma nyuba ko-va Honiara bo-tu lo mapa", 
+    "‘the man whose daughter went to Honiara’", 
+    "Savosavo"
+  ], 
+  [
+    "kokoroko=na ngia ze ka gholigholi tete=ghu=e lo tada=gha=na", 
+    "‘As the rooster crowed, they already scraped (coconuts), the men.’", 
+    "Savosavo"
+  ], 
+  [
+    "pa muzi=la ko-va elu epi-atu lo sua=gha=na ngori-ngori(-i)", 
+    "‘One night as she was still awake sitting there, the giants snored.’", 
+    "Savosavo"
+  ], 
+  [
+    "te=lo ai mau=na zua [tulola=ze tei(-i) …]", 
+    "‘Then my father asked and then they said …’", 
+    "Savosavo"
+  ], 
+  [
+    "ya’ia ni-bali-’ö-ra saßuyu", 
+    "‘He was made a slave.’", 
+    "Nias"
+  ], 
+  [
+    "la-bali-’ö ya saßuyu", 
+    "‘They made him a slave.’", 
+    "Nias"
+  ], 
+  [
+    "lo karoti=na tozo-za-i", 
+    "‘The carrot is cut.’", 
+    "Savosavo"
+  ], 
+  [
+    "karoti=lo te tozo-li(-i)", 
+    "‘He cut (a) carrot.’", 
+    "Savosavo"
+  ], 
+  [
+    "pÌr ŋÒ dháagÒ Ìc`ɔl-yÍ ɲÌpÒnd`-È", 
+    "‘Why did the child call the woman?’", 
+    "Pari"
+  ], 
+  [
+    "pÌr ŋÒ Ìp2ʌr cÍc`-ɛ", 
+    "‘Why did the man jump?’", 
+    "Pari"
+  ], 
+  [
+    "ùbúr á-túuk`", 
+    "‘Ubur played.’", 
+    "Pari"
+  ], 
+  [
+    "dháagÒ á-yàaɲ ùbúr-Ì", 
+    "‘Ubur insulted the woman.’", 
+    "Pari"
+  ], 
+  [
+    "k-Í-cÍn-a anná dh´unoc [cÍ bali ákáti loh´am-i]", 
+    "‘I saw the waterbuck that Loham speared.’", 
+    "Tennet"
+  ], 
+  [
+    "elegyé [cÍ-k úk enné á-kát-a]", 
+    "’the animals that he went and speared’", 
+    "Tennet"
+  ], 
+  [
+    "á-mác-é ciːtà [ne kèːr-éy-ipfv teːta]", 
+    "‘I want the person that the cow is looking at.’", 
+    "Nandi"
+  ], 
+  [
+    "á-mác-é ciːtà [ne kèːr-éy-ipfv teːtà]", 
+    "‘I want the person that is looking at the cow.’", 
+    "Nandi"
+  ], 
+  [
+    "kɛɛti naana kiziwan [o or niina]", 
+    "‘I am skinning the buffalo which you shot.’", 
+    "Murle"
+  ], 
+  [
+    "kaga naana [nɔnnɔ aak idiŋ]", 
+    "‘I know that she is cooking meat.’", 
+    "Murle"
+  ], 
+  [
+    "karɔɔŋ naana [ɔl kiliŋliŋit]", 
+    "‘I want the people to work.’", 
+    "Murle"
+  ], 
+  [
+    "e-dya` [lo-wÒɔnɪ-k-a-ɪdɛs-Ì a-yɔŋ`]", 
+    "‘The boy that hit me the other day.’", 
+    "Turkana"
+  ], 
+  [
+    "e-dya` [ŋolo` ŋwÒɔn°Ì a-ɪdÈs-ɪ a-yÒŋ]", 
+    "‘The boy that I hit the other day.’", 
+    "Turkana"
+  ], 
+  [
+    "k-à-ÌdÈs-ɪ` e-dyà a-yɔŋ` ŋwòon°Ì", 
+    "‘The boy hit me the other day.’", 
+    "Turkana"
+  ], 
+  [
+    "nà-mɔnɪ` [na-e-yà ŋi-còm-in ka` ŋɪ-tɔm-ɛ`]", 
+    "‘In the forest where there are baboons and elephants.’", 
+    "Turkana"
+  ], 
+  [
+    "à-sak-Ì a-yÒŋ i-yoŋ` akɪ-ar`", 
+    "‘I want to kill you.’", 
+    "Turkana"
+  ], 
+  [
+    "à-sak-Ì a-yÒŋ i-yoŋ` ɪ-ar-Ì", 
+    "‘I want you to kill it.’", 
+    "Turkana"
+  ], 
+  [
+    "to-ryam-°Ù ŋesÌ à-pa` kɛŋ` ɛ-ma°Ù", 
+    "‘He found his father was not there.’", 
+    "Turkana"
+  ], 
+  [
+    "ajuk-ɛ ɛɛt-i", 
+    "‘The man is thrown.’", 
+    "Murle"
+  ], 
+  [
+    "ajuk ɛɛt-i dila", 
+    "‘The man throws a spear.’", 
+    "Murle"
+  ], 
+  [
+    "´a-r´uh-w-e  ´ɪy´oko", 
+    "‘The drum is being beaten now.’", 
+    "Tennet"
+  ], 
+  [
+    "á-dáh-ye dol´ec", 
+    "‘The child is eating.’", 
+    "Tennet"
+  ], 
+  [
+    "káː-ko-yàːt-ák kaːriːk", 
+    "‘The houses have been opened.’", 
+    "Nandi"
+  ], 
+  [
+    "kÍː-keː-sÌc kipeːt kény", 
+    "‘Kibet was born long ago.’", 
+    "Nandi"
+  ], 
+  [
+    "kÍ-yaːt-éy kúrkéːt", 
+    "‘The door is being opened.’", 
+    "Nandi"
+  ], 
+  [
+    "ŋ-é-duŋ-o ɛn-ámÙkÈ", 
+    "‘The shoe was cut.’", 
+    "Maa"
+  ], 
+  [
+    "n-é-ramat-Íshò ɔl-mʊrranÍ", 
+    "‘The warrior herds [e.g. cows].’", 
+    "Maa"
+  ], 
+  [
+    "ɛ-tɛ-ɛn-ák-Ì ɔl-apúrrònÌ", 
+    "‘The thief was arrested.’", 
+    "Maa"
+  ], 
+  [
+    "ɛ-ɪbÚŋ-á ɪ-s’ɪkarɪnÍ ɔl-apúrrònÌ", 
+    "‘The policemen have arrested the thief.’", 
+    "Maa"
+  ], 
+  [
+    "nam-ii beesee hat-e is=aa", 
+    "‘Is he the one that stole the money?’", 
+    "Oromo (Boraana)"
+  ], 
+  [
+    "Nam-i Diido ijeese Jaanjamtu’", 
+    "‘The people who killed Diido were the Janjamtu.’", 
+    "Oromo (Boraana)"
+  ], 
+  [
+    "intal-t´ıi (taan) inn´ıi arke ác jirti", 
+    "‘The girl he saw in there.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "namicc-´ıi (xan) intal-t´ıi isá baréed-dúu ác jira", 
+    "‘The man whose daughter is pretty is there.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "hagá is´ıin d’uf-t-ú taa’-e", 
+    "‘He stayed until she came.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "maar-t-á s[ee] da[l:-]e hunna ma ká[t:h]o", 
+    "‘The calf which the cow gave birth to has no strength.’", 
+    "Arbore"
+  ], 
+  [
+    "saal-t-átto, hatt-áy zaHate k’ub-áŋ k’ab-a", 
+    "‘That woman, I know that she died.’", 
+    "Arbore"
+  ], 
+  [
+    "ná’u-ni nassinoon-si c’uulu lagayo-’ne", 
+    "‘The child which we raised has left us.’ original translation: ‘Das Kind, das wir selbst aufgezogen haben, hat uns verlassen.’", 
+    "K'abeena"
+  ], 
+  [
+    "gotu wajjo-ra hilikk’i ke’yoommi", 
+    "‘When/After/Because a hyena (had) shrieked, I was shocked and stood up.’", 
+    "K'abeena"
+  ], 
+  [
+    "nun-i be-i-d-a misiri-y-aa pisa os-a-us", 
+    "‘The woman whom we saw makes baskets.’", 
+    "Gamo"
+  ], 
+  [
+    "tan-i nen-i oras-a oič-onta-inf malaa yotadis-šin", 
+    "‘I have told you not to ask Oratsi.’", 
+    "Gamo"
+  ], 
+  [
+    "’daliili ’osa’lanto", 
+    "‘Dalil was laughed at.’ original translation: ‘Dalil wurde ausgelacht.’", 
+    "K'abeena"
+  ], 
+  [
+    "’ilfu ’osa’lito", 
+    "‘Ilfu laughed (at Dalil).’ original translation: ‘Ilfu lachte.’ or ‘Ilfu lachte (Dalil) aus.’", 
+    "K'abeena"
+  ], 
+  [
+    "lalu faangaani ’aa’ammo", 
+    "‘The cattle was stolen by thieves.’ original translation: ‘Die Rinder wurden von Dieben gestohlen.’", 
+    "K'abeena"
+  ], 
+  [
+    "faangoo lalu ’aa’ito", 
+    "‘Thieves have stolen the cattle.’ original translation: ‘Diebe haben die Rinder gestohlen.’", 
+    "K'abeena"
+  ], 
+  [
+    "deša-z-ii danna-z-a-s imme-ett-i-d-es", 
+    "‘The goat was given to the judge.’", 
+    "Gamo"
+  ], 
+  [
+    "kawo-z-ii zallanča-t-a-n wod’-ett-i-d-es", 
+    "‘The king was killed by merchants.’", 
+    "Gamo"
+  ], 
+  [
+    "ta-s zar-ett-a-d-is", 
+    "‘I was answered.’", 
+    "Gamo"
+  ], 
+  [
+    "makiináa-n ní tolf-am-t-a", 
+    "‘The car will be repaired.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "an hucc’ú-n d’owwat-am-e", 
+    "‘I was denied the clothes.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "hucc’úu-n ná d’owwat-am-t-e", 
+    "‘The clothes were denied me.’", 
+    "Oromo (Harar)"
+  ], 
+  [
+    "fooni yaa d’aab-am-ani", 
+    "‘The meat has been cooked.’", 
+    "Oromo (Boraana)"
+  ], 
+  [
+    "mana yaa jaar-am-e", 
+    "‘The house has been built.’", 
+    "Oromo (Boraana)"
+  ], 
+  [
+    "sangaa yaa k’al-am-e", 
+    "‘The ox has been killed.’", 
+    "Oromo (Boraana)"
+  ], 
+  [
+    "sangaa yaa ijees-ani", 
+    "‘They killed the ox’", 
+    "Oromo (Boraana)"
+  ], 
+  [
+    "qá-bár màydá dêeda", 
+    "‘He beat the cow’s calf.’", 
+    "Datooga"
+  ], 
+  [
+    "qá-bár máydá dêeda", 
+    "‘The cow’s calf beat (him/her).’", 
+    "Datooga"
+  ], 
+  [
+    "é-´ıpot olcoré ló lay´ıónì", 
+    "‘He calls the friend of the boy.’", 
+    "Maa"
+  ], 
+  [
+    "é-´ıpot olcóre ló lay´ıónì", 
+    "‘The friend of the boy calls him.’", 
+    "Maa"
+  ], 
+  [
+    "ɛ-muɲɛn` à à-ɪtÈ na`", 
+    "‘the colour of this cow’", 
+    "Turkana"
+  ], 
+  [
+    "è-lèpì`-asp a-ɪtɛ` caaap, caaap", 
+    "‘She milked the cow.’", 
+    "Turkana"
+  ], 
+  [
+    "È-ÒŋÒrɪ-aa-n-à a-ÌtÈ na`", 
+    "‘This cow is brownish.’", 
+    "Turkana"
+  ], 
+  [
+    "è-ya` kɛŋ` kà à-pa` kaŋ`", 
+    "‘My father’s aunt’", 
+    "Turkana"
+  ], 
+  [
+    "a-mòti kà è-ya` kaŋ`", 
+    "‘my aunt’s pot’", 
+    "Turkana"
+  ], 
+  [
+    "dh¨Óɔŋ ¨è m~ári~àal ~à-b¨Ó", 
+    "‘Marial’s boy is coming.’", 
+    "Dinka (Agar)"
+  ], 
+  [
+    "m~àri~àal ~à-b¨Ó", 
+    "‘Marial is coming.’", 
+    "Dinka (Agar)"
+  ], 
+  [
+    "dh¨Òɔk ~à-th~Éɛt m~ári~àal", 
+    "‘Marial is beating the boy.’", 
+    "Dinka (Agar)"
+  ], 
+  [
+    "m~òc ~à-y¨eep ¨è y¨ém ¨è dh¨Òɔŋ ¨è m~ári~àal", 
+    "‘The man is cutting with Marial’s boy’s axe.’", 
+    "Dinka (Agar)"
+  ], 
+  [
+    "mina ciif-aa", 
+    "‘the house of the chief’", 
+    "Oromo (Boraana)"
+  ], 
+  [
+    "nam sùn mìni ìsa dansà", 
+    "‘As for the man, his house is good.’", 
+    "Oromo (Boraana)"
+  ], 
+  [
+    "kasi giggiso-i mač’č’-á oso-ko", 
+    "‘Preparing food is (a) woman’s task.’", 
+    "Gamo"
+  ], 
+  [
+    "issi mač’č-ai iz-a goss-a-d-us", 
+    "‘A woman made him crazy.’", 
+    "Gamo"
+  ], 
+  [
+    "manci-’i bak’úlcuti ba’o", 
+    "‘My husband’s mule has disappeared.’  original translation: ‘Das Maultier meines Ehemanns is verschwunden.’", 
+    "K'abeena"
+  ], 
+  [
+    "manco-’i maalda mi ’aa’iyo?", 
+    "‘Who took my wife’s silver bracelet?’  original translation: ‘Wer/Was hat das Silberarmband meiner Ehefrau weggenommen?’", 
+    "K'abeena"
+  ], 
+  [
+    "aliya keetta", 
+    "‘Ali’s house’", 
+    "Wolaytta"
+  ], 
+  [
+    "kaawuwa keetta-ta", 
+    "‘some houses of the king’", 
+    "Wolaytta"
+  ], 
+  [
+    "kaawuw-aa keetta-ta", 
+    "‘some houses of the king’", 
+    "Wolaytta"
+  ], 
+  [
+    "aliy-aa kusshiya", 
+    "‘Ali’s hand’", 
+    "Wolaytta"
+  ], 
+  [
+    "gaydan-ti géer", 
+    "‘(the) old man’s hoe’", 
+    "Arbore"
+  ], 
+  [
+    "hikič-i hóǧǧattu(-t)", 
+    "‘(the) labourer’s axe", 
+    "Arbore"
+  ], 
+  [
+    "k’úb-a neek’", 
+    "‘(the) forelimb of a lion’", 
+    "Arbore"
+  ], 
+  [
+    "danna-wu!", 
+    "‘Oh, judge!’", 
+    "Gamo"
+  ], 
+  [
+    "addez-o", 
+    "‘Hey, man!’", 
+    "Gamo"
+  ], 
+  [
+    "pwe bwɛʔ", 
+    "‘the womans’s belly’", 
+    "Ajie"
+  ], 
+  [
+    "karrɔ kamɔʔ", 
+    "‘the man’s body’", 
+    "Ajie"
+  ], 
+  [
+    "nevã i wiʔ", 
+    "‘the man’s land’", 
+    "Ajie"
+  ], 
+  [
+    "vidanʸ john nʸ-avaː-c", 
+    "‘This is John’s house’", 
+    "Mojave"
+  ], 
+  [
+    "kʷaθəʔideː nʸ-avaː", 
+    "‘the doctor’s house’", 
+    "Mojave"
+  ], 
+  [
+    "Bonnie s’aw", 
+    "‘Bonnie’s baby’", 
+    "Maricopa"
+  ], 
+  [
+    "Bonnie s’aw ime", 
+    "‘Bonnie’s baby’s leg’", 
+    "Maricopa"
+  ], 
+  [
+    "’iipaa-ny-a ny-va-ny-sh vtay-m", 
+    "‘That man’s house is big.’", 
+    "Maricopa"
+  ], 
+  [
+    "jan lwa", 
+    "‘John’s wife’", 
+    "Havasupai"
+  ], 
+  [
+    "pa ñu-hu", 
+    "‘the man’s/his head’", 
+    "Havasupai"
+  ], 
+  [
+    "kiθar-c hamsi ktyoːca mpar ckʸoː-kñ", 
+    "‘A dog bit Hamsi-ketyocha’s leg.’", 
+    "Yavapai"
+  ], 
+  [
+    "lupi hanaq", 
+    "‘Lupe’s necklace’", 
+    "Yavapai"
+  ], 
+  [
+    "ah ce met’e ce k’ew-meʔ k’esu paʔ-is-taʔ", 
+    "‘I made the woman eat the man’s meat’", 
+    "Wappo"
+  ], 
+  [
+    "c’ic’a khap-i keʔte-khiʔ", 
+    "‘The bird’s wing is broken.’", 
+    "Wappo"
+  ], 
+  [
+    "nycá", 
+    "‘Mother!’", 
+    "Cocopa"
+  ], 
+  [
+    "xmík", 
+    "‘Young man!’", 
+    "Cocopa"
+  ], 
+  [
+    "xawka margarit tmuwa=a", 
+    "‘Hello, Margaret, how are you?’", 
+    "Diegueno (Mesa Grande)"
+  ], 
+  [
+    "maypay kywip!", 
+    "‘Listen, all you people!’", 
+    "Diegueno (Mesa Grande)"
+  ]
+]
