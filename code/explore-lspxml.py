@@ -9,6 +9,8 @@
 # available at https://github.com/langsci/lsp-xml
 # ------------------------------------------------------------
 
+import json
+import os
 import sys
 from xml.dom.minidom import parse
 from itertools import chain
@@ -128,6 +130,42 @@ def read_examples(xmlfile):
                             doc.getElementsByTagName("example"))))
     return examples
 
+def convert_to_triple(example, default_lang=None):
+    """
+    Convert an Example object to a triple of the form:
+    (source, translation, language).
+    """
+    src = (" ".join(example.get_words("src"))
+           if example.has_glosses
+           else example.get_line("source"))
+    trans = example.get_line("translation")
+    lang = (example.language
+            if example.language
+            else default_lang)
+    triple = (src, trans, lang)
+    # only return triple if all elements are populated
+    if all(map(bool, triple)):
+        return triple
+    else:
+        return None
+
+def convert_to_triples(examples, default_lang=None):
+    """
+    Convert a list of Example objects to triples of the form:
+    (source, translation, language).
+    """
+    convert1 = lambda e: convert_to_triple(e, default_lang)
+    return list(filter(bool, map(convert1, examples)))
+
+def convert_to_json_triples(examples, default_lang=None):
+    """
+    Convert a list of Example objects to a JSON list where each
+    element has the following form: [source, translation, language].
+    """
+    return json.dumps(convert_to_triples(examples, default_lang),
+                      indent=2,
+                      ensure_ascii=False)
+
 def convert_to_html_table(example):
     """
     Return string representation of an HTML table for an Example object.
@@ -166,14 +204,25 @@ if __name__ == "__main__":
 
     elif len(sys.argv) == 3:
         xmlfile = sys.argv[1]
-        exnr = int(sys.argv[2])
         examples = read_examples(xmlfile)
-        maxnr = len(examples) - 1
-        if exnr > maxnr or exnr < 0:
-            sys.exit("No such example. Choose a number in [0,{}]".format(maxnr))
-        else:
-            print("Converting example {} from {} to HTML:".format(exnr, xmlfile))
-            print(convert_to_html_table(examples[exnr]))
+        if sys.argv[2] == "json": # convert all examples to a simplified json format
+            default_language = { "wilbur.xml" : "Pite Saami",
+                                 "schackow.xml" : "Yakkha" }
+            lang = default_language.get(os.path.basename(xmlfile))
+            print(convert_to_json_triples(examples, lang))
+        else: # convert single example to html table
+            maxnr = len(examples) - 1
+            try:
+                exnr = int(sys.argv[2])
+            except ValueError:
+                sys.exit("Error: Provide a number in [0,{}]".format(maxnr)
+                         + " to select an example.")
+            if exnr > maxnr or exnr < 0:
+                sys.exit("Error: No such example."
+                         + " Choose a number in [0,{}]".format(maxnr))
+            else:
+                print("Converting example {} from {} to HTML:".format(exnr, xmlfile))
+                print(convert_to_html_table(examples[exnr]))
 
     else:
         sys.exit("Usage: provide an lsp-xml file as argument")
