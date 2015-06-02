@@ -11,6 +11,7 @@
 
 import json
 import os
+import re
 import sys
 import xml.dom.minidom as dom
 from itertools import chain
@@ -101,7 +102,7 @@ class Example:
                       for b in blocks) for blocks in all_blocks)
         return {k:v for k,v in
                 map(lambda x: (x[0][0], morpheme_sep.join(
-                    map(lambda y: y[1], x))), (zip(*morphemes)))}
+                    map(lambda y: y[1].strip(), x))), (zip(*morphemes)))}
 
     def _extract_lines(self, xmlex):
         # build a { linetype : string } dict
@@ -143,6 +144,28 @@ def read_examples(xmlfile):
                             doc.getElementsByTagName("example"))))
     return examples
 
+def sanitize_src(src):
+    """
+    Trim source string, dropping square brackets around constituents
+    and grammatical category labels.
+    """
+    while True:
+        repl = re.sub(r"\[(.*?)\]\w*", r"\1", src)
+        if src != repl:
+            src = repl
+        else:
+            return repl
+
+def sanitize_trans(trans):
+    """
+    Trim translation string down to a minimum, dropping embedded
+    metadata like corpus references or citations.
+    """
+    # heuristic: extract first string between typographic quotes
+    # that is terminated by a period or followed by whitespace.
+    xs = re.findall(r"(?:‘(.*?\.)’)|(?:‘(.*?[^.])’(?:\s|$))", trans)
+    return "".join(xs[0]) if xs else None
+
 def convert_to_triple(example, default_lang=None):
     """
     Convert an Example object to a triple of the form:
@@ -151,13 +174,17 @@ def convert_to_triple(example, default_lang=None):
     src = (" ".join(example.get_words("src"))
            if example.has_glosses
            else example.get_line("source"))
-    trans = example.get_line("translation")
+    # drop examples with ungrammatical parts or alternatives
+    src = (sanitize_src(src)
+           if all(map(lambda x: x not in src, ["*", "/", "(", ")"]))
+           else None)
+    trans = sanitize_trans(example.get_line("translation"))
     lang = (example.language
             if example.language
             else default_lang)
     triple = (src, trans, lang)
     # only return triple if all elements are populated
-    if all(map(bool, triple)):
+    if all(triple):
         return triple
 
 def convert_to_triples(examples, default_lang=None):
