@@ -22,24 +22,28 @@ class Example:
     A simple representation of a linguistic example sentence.
     """
 
-    def __init__(self, xmlex):
+    def __init__(self, xmlex, default_lang=None, reference=None):
         """
         Build an example instance from its lsp-xml representation.
 
         :param xmlex: an <example> element from an lsp-xml file.
+        :param default_lang: optional default language.
+        :param reference: optional reference string.
         """
-        self.language = self._extract_language(xmlex)
-        self.words = self._extract_words(xmlex)
-        self.lines = self._extract_lines(xmlex)
+        self.language = Example._extract_language(xmlex, default_lang)
+        self.words = Example._extract_words(xmlex)
+        self.lines = Example._extract_lines(xmlex)
+        self.reference = reference
 
     def __str__(self):
         """
-        Return language (if known) as well as all glossed and unglossed lines.
+        Return reference, language, gloss lines and free lines.
         """
-        language = ["language: {}".format(self.language)] if self.language else []
+        ref = ["reference: {}".format(self.reference)] if self.reference else []
+        lang = ["language: {}".format(self.language)] if self.language else []
         glosses = ("{}: {}".format(k," ".join(v)) for k,v in self.words.items())
         lines = ("{}: {}".format(k,v) for k,v in self.lines.items())
-        return "\n".join(chain(language, glosses, lines))
+        return "\n".join(chain(ref, lang, glosses, lines))
 
     def has_glosses(self):
         """
@@ -75,25 +79,47 @@ class Example:
         """
         return self.lines.get(key, "")
 
-    def _extract_language(self, xmlex):
+    def to_simple_tuple(self):
+        """
+        Return a simplified tuple representation of the form:
+        (source, translation, language, reference).
+        """
+        src = Example._sanitize_src(" ".join(self.get_words("src"))
+                                    if self.has_glosses
+                                    else self.get_line("source"))
+        trans = Example._sanitize_trans(self.get_line("translation"))
+        lang = self.language
+        ref = self.reference
+        tup = (src, trans, lang, ref)
+        # only return tuple if all elements are populated
+        if all(tup):
+            return tup
+
+    @staticmethod
+    def _extract_language(xmlex, default_lang):
         lang = (xmlex.firstChild.firstChild.data
                 if (xmlex.hasChildNodes() and
                     xmlex.firstChild.tagName == "language")
                 else None)
-        if not(lang) and self._has_sup_example(xmlex):
-            lang = self._extract_language(self._get_sup_example(xmlex))
+        if not lang:
+            lang = (Example._extract_language(
+                      Example._get_sup_example(xmlex), default_lang)
+                    if Example._has_sup_example(xmlex)
+                    else default_lang)
         return lang
 
-    def _extract_words(self, xmlex):
+    @staticmethod
+    def _extract_words(xmlex):
         # build a { linetype : [string] } dict
         xwords = xmlex.getElementsByTagName("word")
         words = map(lambda d: list(d.items()),
-                    (self._extract_word(w) for w in xwords))
+                    (Example._extract_word(w) for w in xwords))
         return {k:v for k,v in
                 map(lambda x: (x[0][0], list(
                     map(lambda y: y[1], x))), (zip(*words)))}
 
-    def _extract_word(self, xmlwd):
+    @staticmethod
+    def _extract_word(xmlwd):
         morpheme_sep = "-"
         xmorphemes = xmlwd.getElementsByTagName("morpheme")
         all_blocks = (m.getElementsByTagName("block") for m in xmorphemes)
@@ -102,27 +128,31 @@ class Example:
                       for b in blocks) for blocks in all_blocks)
         return {k:v for k,v in
                 map(lambda x: (x[0][0], morpheme_sep.join(
-                    map(lambda y: y[1].strip(), x))), (zip(*morphemes)))}
+                    map(lambda y: y[1], x))), (zip(*morphemes)))}
 
-    def _extract_lines(self, xmlex):
+    @staticmethod
+    def _extract_lines(xmlex):
         # build a { linetype : string } dict
         tags = ["source", "translation"]
-        return {tag: (self._extract_line(xmlex, tag).firstChild.data
-                      if self._extract_line(xmlex, tag).hasChildNodes()
+        return {tag: (Example._extract_line(xmlex, tag).firstChild.data
+                      if Example._extract_line(xmlex, tag).hasChildNodes()
                       else "")
                 for tag in tags
-                if self._extract_line(xmlex, tag)}
+                if Example._extract_line(xmlex, tag)}
 
-    def _extract_line(self, xmlex, tag):
+    @staticmethod
+    def _extract_line(xmlex, tag):
         maybe_line = xmlex.getElementsByTagName(tag)
         if len(maybe_line) > 0:
             return maybe_line[0]
 
-    def _has_sup_example(self, xmlex):
+    @staticmethod
+    def _has_sup_example(xmlex):
         # Return whether the example has a parent example.
-        return bool(self._get_sup_example(xmlex))
+        return bool(Example._get_sup_example(xmlex))
 
-    def _get_sup_example(self, xmlex):
+    @staticmethod
+    def _get_sup_example(xmlex):
         # Return the parent example of an example element
         # (or None if there is no containing example).
         nextnode = xmlex.parentNode
@@ -132,75 +162,75 @@ class Example:
                 assert nextnode.tagName == "examples"
                 return nextnode.previousSibling
 
+    @staticmethod
+    def _sanitize_src(src):
+        """
+        Trim source string, dropping square brackets around constituents
+        and grammatical category labels.
+        """
+        # fail if example contains ungrammatical parts or alternatives
+        if any(map(lambda x: x in src, ["*", "/", "(", ")"])):
+            return None
+        # remove constituent brackets
+        while True:
+            repl = re.sub(r"\[(.*?)\]\w*", r"\1", src)
+            if src != repl:
+                src = repl
+            else:
+                return repl
+
+    @staticmethod
+    def _sanitize_trans(trans):
+        """
+        Trim translation string down to a minimum, dropping embedded
+        metadata like corpus references or citations.
+        """
+        # heuristic: extract first string between typographic quotes
+        # that is terminated by a period or followed by whitespace.
+        xs = re.findall(r"(?:‘(.*?\.)’)|(?:‘(.*?[^.])’(?:\s|$))", trans)
+        return "".join(xs[0]) if xs else None
+
+
 # -------------------- global functions
 
 def read_examples(xmlfile):
     """
     Build a list of Example objects from an lsp-xml document.
     """
+    # some metadata: default language and reference
+    default_language = {"wilbur.xml": "Pite Saami",
+                        "schackow.xml": "Yakkha"}
+    reference = {"cangemi.xml": "Francesco Cangemi",
+                 "dahl.xml": "Östen Dahl",
+                 "handschuh.xml": "Corinna Handschuh",
+                 "klamer.xml": "Marian Klamer",
+                 "schackow.xml": "Diana Schackow",
+                 "wilbur.xml": "Joshua Wilbur"}
+    # parse examples
     doc = dom.parse(xmlfile)
-    examples = list(filter(lambda e: not(e.is_empty()),
-                           (Example(ex) for ex in
-                            doc.getElementsByTagName("example"))))
-    return examples
+    key = os.path.basename(xmlfile)
+    lang = default_language.get(key)
+    ref = reference.get(key)
+    examples = filter(lambda e: not(e.is_empty()),
+                      map(lambda ex: Example(ex, lang, ref),
+                          doc.getElementsByTagName("example")))
+    return list(examples)
 
-def sanitize_src(src):
+def convert_to_tuples(examples):
     """
-    Trim source string, dropping square brackets around constituents
-    and grammatical category labels.
+    Convert a list of Example objects to tuples of the form:
+    (source, translation, language, reference).
     """
-    while True:
-        repl = re.sub(r"\[(.*?)\]\w*", r"\1", src)
-        if src != repl:
-            src = repl
-        else:
-            return repl
-
-def sanitize_trans(trans):
-    """
-    Trim translation string down to a minimum, dropping embedded
-    metadata like corpus references or citations.
-    """
-    # heuristic: extract first string between typographic quotes
-    # that is terminated by a period or followed by whitespace.
-    xs = re.findall(r"(?:‘(.*?\.)’)|(?:‘(.*?[^.])’(?:\s|$))", trans)
-    return "".join(xs[0]) if xs else None
-
-def convert_to_triple(example, default_lang=None):
-    """
-    Convert an Example object to a triple of the form:
-    (source, translation, language).
-    """
-    src = (" ".join(example.get_words("src"))
-           if example.has_glosses
-           else example.get_line("source"))
-    # drop examples with ungrammatical parts or alternatives
-    src = (sanitize_src(src)
-           if all(map(lambda x: x not in src, ["*", "/", "(", ")"]))
-           else None)
-    trans = sanitize_trans(example.get_line("translation"))
-    lang = (example.language
-            if example.language
-            else default_lang)
-    triple = (src, trans, lang)
-    # only return triple if all elements are populated
-    if all(triple):
-        return triple
-
-def convert_to_triples(examples, default_lang=None):
-    """
-    Convert a list of Example objects to triples of the form:
-    (source, translation, language).
-    """
-    convert1 = lambda e: convert_to_triple(e, default_lang)
+    convert1 = lambda e: e.to_simple_tuple()
     return list(filter(bool, map(convert1, examples)))
 
-def convert_to_json_triples(examples, default_lang=None):
+def convert_to_json(examples):
     """
-    Convert a list of Example objects to a JSON list where each
-    element has the following form: [source, translation, language].
+    Convert a list of Example objects to a JSON list
+    where each element has the following form:
+    [source, translation, language, reference].
     """
-    return json.dumps(convert_to_triples(examples, default_lang),
+    return json.dumps(convert_to_tuples(examples),
                       indent=2,
                       ensure_ascii=False)
 
@@ -213,8 +243,6 @@ def convert_to_html_table(example):
     and 'translation' lines. If an Example does not have such lines,
     the corresponding table lines will be empty.
     """
-    if example.is_empty():
-        return "Sorry, this example is empty."
     src = example.get_words("src")
     imt = example.get_words("imt")
     trans = example.get_line("translation")
@@ -232,35 +260,51 @@ def count_examples(xmlfile):
     (glossed, unglossed) = map(sum,(zip(*map(gloss, examples))))
     return (glossed, unglossed)
 
-if __name__ == "__main__":
 
+# -------------------- main
+
+def print_count(xmlfile):
+    # print number of glossed and unglossed examples
+    (glossed, unglossed) = count_examples(xmlfile)
+    print("{}:\n{} glossed examples\n{} unglossed examples".format(
+            xmlfile, glossed, unglossed))
+
+def print_html(examples, exnr):
+    # print single example as html table
+    maxnr = len(examples) - 1
+    if exnr > maxnr or exnr < 0:
+        sys.exit("Error: No such example."
+                 + " Choose a number in [0,{}]".format(maxnr))
+    else:
+        print(convert_to_html_table(examples[exnr]))
+
+def main():
+    # with one argument: print simple statistics
     if len(sys.argv) == 2:
-        xmlfile = sys.argv[1]
-        (glossed, unglossed) = count_examples(xmlfile)
-        print("{}:\n{} glossed examples\n{} unglossed examples".format(
-                xmlfile, glossed, unglossed))
+        print_count(sys.argv[1])
 
+    # with two arguments: convert to json or html
     elif len(sys.argv) == 3:
         xmlfile = sys.argv[1]
         examples = read_examples(xmlfile)
-        if sys.argv[2] == "json": # convert all examples to a simplified json format
-            default_language = { "wilbur.xml" : "Pite Saami",
-                                 "schackow.xml" : "Yakkha" }
-            lang = default_language.get(os.path.basename(xmlfile))
-            print(convert_to_json_triples(examples, lang))
-        else: # convert single example to html table
-            maxnr = len(examples) - 1
+
+        # if second argument is "json",
+        # print all examples in a simplified json format
+        if sys.argv[2] == "json":
+            print(convert_to_json(examples))
+
+        # if second argument is an example number,
+        # convert that example to an html table
+        else:
             try:
                 exnr = int(sys.argv[2])
             except ValueError:
-                sys.exit("Error: Provide a number in [0,{}]".format(maxnr)
+                sys.exit("Error: Provide a number as second argument"
                          + " to select an example.")
-            if exnr > maxnr or exnr < 0:
-                sys.exit("Error: No such example."
-                         + " Choose a number in [0,{}]".format(maxnr))
-            else:
-                print("Converting example {} from {} to HTML:".format(exnr, xmlfile))
-                print(convert_to_html_table(examples[exnr]))
+            print_html(examples, exnr)
 
     else:
         sys.exit("Usage: provide an lsp-xml file as argument")
+
+if __name__ == "__main__":
+    main()
