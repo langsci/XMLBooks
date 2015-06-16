@@ -198,9 +198,11 @@ def read_examples(xmlfile):
     Build a list of Example objects from an lsp-xml document.
     """
     # some metadata: default language and reference
-    default_language = {"wilbur.xml": "Pite Saami",
-                        "schackow.xml": "Yakkha"}
-    reference = {"cangemi.xml": "Francesco Cangemi",
+    default_language = {"berghall.xml": "Mauwake",
+                        "schackow.xml": "Yakkha",
+                        "wilbur.xml": "Pite Saami"}
+    reference = {"berghall.xml": "Liisa Berghäll",
+                 "cangemi.xml": "Francesco Cangemi",
                  "dahl.xml": "Östen Dahl",
                  "handschuh.xml": "Corinna Handschuh",
                  "klamer.xml": "Marian Klamer",

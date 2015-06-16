@@ -29,6 +29,10 @@ The files in the `data` directory are named after the main author or
 editor of the book from which the examples were extracted.
 In particular:
 
+- `berghall.xml`: examples from
+  [A grammar of Mauwake](http://langsci-press.org/catalog/book/67)
+  by Liisa Berghäll.
+
 - `cangemi.xml`: examples from
   [Prosodic detail in Neapolitan Italian](http://langsci-press.org/catalog/book/16)
   by Francesco Cangemi.

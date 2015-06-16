@@ -19,6 +19,10 @@ that were extracted from open access books published with
 The files are named after the main author or editor of the book from
 which the examples were extracted. In particular:
 
+- `berghall.xml`: examples from
+  [A grammar of Mauwake](http://langsci-press.org/catalog/book/67)
+  by Liisa Berghäll.
+
 - `cangemi.xml`: examples from
   [Prosodic detail in Neapolitan Italian](http://langsci-press.org/catalog/book/16)
   by Francesco Cangemi.
@@ -332,6 +336,7 @@ If we run that on the XML files in the data directory, we get
 (at the time of writing):
 
 ```
+1472 berghall.xml
 16 cangemi.xml
 501 dahl.xml
 561 handschuh.xml
@@ -375,7 +380,6 @@ as an HTML table. For example:
 ```
 $ ./code/explore-lspxml.py data/wilbur.xml 55
 
-Converting example 55 from data/wilbur.xml to HTML:
 <table>
 <tr><td>mikkir</td><td>málle</td><td>li-j</td></tr>
 <tr><td>which</td><td>blood/nom.sg</td><td>be-3sg.pst</td></tr>
