@@ -1,5 +1,7805 @@
 [
   [
+    "Uruf-a-m.",
+    "I saw it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo mauw-owa nia asip-i-yem.",
+    "I help you with work.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo koka=pa ik-e-m.",
+    "I was in the jungle.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo wuailal-i-yem a.",
+    "Oh, I’m hungry.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Muuka wia arim-ow-omak-om-ek-a-k.",
+    "(S)he would have brought up (many) sons for me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa or-op, wuailal-ep akia ik-e-k.",
+    "He went to the village, was hungry and roasted bananas.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mik-amkun me um-o-k, wiowa onaiya ikiw-em-ik-eya. Olas=ke war-e-k",
+    "When I speared it, it didn’t die, (but) as it was going with the spear Olas killed it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "wi emeria teeria nain",
+    "that group of women",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "yena aamun gelemuta kuisow",
+    "my one younger brother",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo emeria efar uruf-a-man=i?",
+    "Did you see my wife?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni sira kamenap on-a-man?",
+    "What did you do?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua imen-ap=na feeke wia p-ekap-eka.",
+    "If you find the men, bring them here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mukuna kerer-e-k nain i me paayar-e-mik.",
+    "We didn’t realise that a fire had started.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo emeria aaw-owa kookal-ek-a-m=na …",
+    "If I had liked/wanted to get a wife ... ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fikera nain sira feenap on-a-mik.",
+    "This is what they did to the kunai grass.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Saa=iw ir-am-ika-i-mik.",
+    "They are coming along the sand/beach.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "yiena miiwa",
+    "our land",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Akia ik-omak-e-mik.",
+    "We roasted many bananas.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "siowa wiawi",
+    "The dog’s/dogs",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria=ke iwera fiirim-i-mik.",
+    "(The) women gather coconuts.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "mua soop-owa sira",
+    "the burial custom (lit: the custom of burying men)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emi kekan-owa nain puuk-a-mik.",
+    "They broke the strong taboo rule.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiw-aasa samor-a-k.",
+    "He broke/ruined the car.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiw-aasa samor-ar-e-k.",
+    "The car broke.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "aasa awona fain",
+    "this old canoe",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "mua sira eliwa",
+    "a well-mannered man (=a good man)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "mua akena",
+    "a real man",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "ifa samo-samora",
+    "bad snakes",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa ele-eliwa sesek-a-mik.",
+    "They sold good foods (different kinds).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owow-owowa ikiw-e-mik.",
+    "They went to many villages.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "sira-sira",
+    "many customs",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ø awona nain p-ekap-e!",
+    "Bring the old one!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "mera eka",
+    "fish soup",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiena Ø awona nain p-ekap-e!",
+    "Bring our old one(s)!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "wi Amerika maneka, unuma Magerka",
+    "the leader of the Americans, whose name was MacArthur",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mera nain lawisiw maneka akena.",
+    "That fish is rather huge.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pina maneka kamenap?",
+    "What is the weight like?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "donki takira",
+    "young donkey",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "mua napuma",
+    "a sick man",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Adek panewowa nain ma-i-yem.",
+    "I am talking about the old Adek.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amiten mua oko ekap-o-k.",
+    "A man from Amiten came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I Moro=ke uf-e-mik.",
+    "We Moro people danced.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kuuten wiawi iperowa, yo auwa kapa=ke.",
+    "Kuuten’s father was the firstborn, my father the lastborn.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakisa yena auwa kapa fain=ke yia uruf-i-ya.",
+    "Now this lastborn of my “fathers” watches over us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "yo auwa aasa",
+    "my father’s canoe",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "maa gelemuti-tik",
+    "small things",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "owowa lawisiw maneka",
+    "a rather big village",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "kae ona sira",
+    "grandfather’s custom/habit",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "emeria napuma",
+    "menstruation",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "ibiamun sama",
+    "cross-beam (in a roof)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "iinan aasa epa",
+    "airstrip, airport",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "mera nepa",
+    "eagle ray",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "maa pela",
+    "(edible) greens",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "maa en-owa",
+    "food",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "emeria mua",
+    "people",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "muuka wiipa",
+    "children",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "mua gelemuta",
+    "a little boy",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "mia yoowa",
+    "fever",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "maa samora",
+    "mosquito",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "uf-owa",
+    "(the act of) dancing",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "irak-owa",
+    "fighting",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fiirim-owa=pa opaimika aakun-e-mik.",
+    "In the meeting we talked.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Siowa alu-owa miim-ap ekap-o-k.",
+    "He heard the dog’s noise and came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kaul wafur-owa mera aaw-owa eliw.",
+    "As for throwing a hook, it is a good way of catching fish.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "mua aakun-owa",
+    "talk(ing) of man/people",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Dabuel poka-poka nain=iw biiris on-am-ik-e-mik.",
+    "They kept making the bridge with pawpaw trunks.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya pa-ep kio-kiowa naap uup-e-mik.",
+    "We butchered the pig and cooked the pieces like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owow-owowa ikiw-e-mik.",
+    "We went to several villages.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa maala war-e-k.",
+    "He cut a tall tree.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya me maneka, muuka, kia gelemuta.",
+    "The pig was not big, it was a piglet, white (and) small.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Malol lawisiw yoowa.",
+    "(Fishing in the) open sea is rather hard.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koora nain maneka wenup.",
+    "That house is very big.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria panewowa nain Kait emeria awona=ke.",
+    "The old woman is Kait’s old (=previous) wife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona mua enuma iiriw pani-e-k.",
+    "Her new husband is (already) old.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Inasin opaimika eliwa me yia maak-e-mik.",
+    "They did not speak good Tok Pisin (lit: spirit talk) to us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw sira nain emi maneka wiar ik-ua.",
+    "Earlier that custom was completely forbidden to them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aalbok mia sepa akena kerer-e-k.",
+    "The body of the black cuckoo-shrike became very black.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Konima nain sepa kia.",
+    "The cloth is black-and-white.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Komora nain kia ne maneka wenup.",
+    "That cuscus is/was white/light-coloured and very big.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "ifa enuma lawisiw sepa",
+    "a dark green leaf",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epa dabela=pa mia suuw-owa gawela suuw-ap mia fulil-i-nan.",
+    "When you wear thin clothes (mia suuwowa) in a cold place you will feel cold.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epa dabel-al-eya mia suuw-owa kuruma wu-e.",
+    "When it gets cold, put thick clothes on.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "…epia foma lawisiw yoowa ik-ua.",
+    "… the ashes were rather hot.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua lebuma nain emeria me wi-i-mik.",
+    "We do not give wives to lazy men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Poka fain maala, nain nomak-e-k, ne oko nain maala akena.",
+    "This stilt is longer than that, and/but the other one is the longest (lit: very long).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa eneka kes mane-maneka oram iw-e-mik.",
+    "They just gave him big cases of meat tins.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya gelemutu-mut pu-puuk-e.",
+    "Cut the pig into small pieces.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Biiris eliwa me on-a-mik, damo-damola=ko.",
+    "They didn’t make a good bridge (but) very bad.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "…ifa=ke keraw-a-k, mamepaperuma gele-gelemuti-tik nain=ke.",
+    "… a snake bit him, a very small death adder.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Someka aw-i-ya nain iwakara kain-owa maneka aw-i-ya.",
+    "When (s)he sings, (s)he sings with a very high voice.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Makera saawirin-owa kaik-a-m.",
+    "I tied the cane round.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I koora maneka kuisow nain yiar aw-o-k.",
+    "That one big house of ours burned.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne wiam erup pun epa neeke or-o-mik.",
+    "And the two of them too went down there.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mokoma ten arow aaw-o-k.",
+    "He became 30 years old.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua arow akena epa nain iimar-e-mik.",
+    "Exactly three men stood at that place.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya maneka wiowa erup=i e arow naap mik-iwkin um-i-ya.",
+    "When a big pig is hit with two or three spears it dies.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua wiam ikur=i erepam naap wia aaw-e-mik.",
+    "They took/got those four or five men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya merena ere-erup kaik-ap…",
+    "I tied the pig’s legs two and two together and …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kuuma kuisow ifa erup naap yia sesenar-e-mik.",
+    "They paid to us (lit: bought us for) 14 kina.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua arow epa nain iimar-e-mik, yos=ke erepam.",
+    "Three men were standing there, and I was the fourth.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Ulingan=ke nomak-e-mik. Ne i Moro murar-e-mik.",
+    "The Ulingan people/team won. And (we from) Moro came second.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Moma senam en-e-mik.",
+    "We ate too much taro.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yagin eka=pa unow=iya nan yaki-e-mik.",
+    "We all bathed there at Yagin together.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua unowa, emeria papako um-e-mik.",
+    "Many men and some women died.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ipia saana=pa iina wenup.",
+    "In the rainy season there are lots of mosquitoes.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Siipepe kokora maroka wenup akena ika-i-ya.",
+    "There are lots of prawns in the Siipepe riverbed.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yos=ke lawiliw asip-i-yem.",
+    "I am helping her somewhat/a little.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iperowa=ke senam kekan-e-mik.",
+    "The middle-aged men were very strong (in their opinion).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya mik-amkun iiwawun um-o-k.",
+    "When I speared the pig it died completely.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yabuela okaiwi enak-e.",
+    "Give me half of the pawpaw to eat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni fain=ke ekap-eka!",
+    "You here (or: This group of you), come!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O nain fan me ik-ua.",
+    "He is not here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi iperowa wi-ena ekap-e-mik.",
+    "The middle-aged (people) themselves came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Irak-owa=ke kerer-eya wi puk-omak-e-mik.",
+    "When the fight started they (many) dispersed.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O koora=pa naap ik-ok um-o-k.",
+    "She was like that in the house and died.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Bogia=pa nan wu-ap i kiiriw ekap-e-mik.",
+    "We buried his body (lit: put it) there in Bogia and came (back) again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "“No me baurar-e,” naap maak-e-k.",
+    "“Don’t run away,” he told her.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I or-u.",
+    "Let’s go down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No feeke ik-e, yo Amerika wia akup-ikiw-i-yem.",
+    "You stay here, I will go searching the Americans.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Muuka, no aakisa emeria aaw-e!",
+    "Son, take a wife now!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "A, ifera feeke un-eka.",
+    "Ah, fetch the salt water (right) here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo momor me yook-e.",
+    "Don’t be foolish and follow me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nefa war-iwkin naap ma-e.",
+    "When they shoot you, (then) say like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni ikiw-ep moma perek-eka!",
+    "Go and pull out (i.e. harvest) taro!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...amia mua=ke ma-e-mik, “Nainiw owowa ikiw-eka.”",
+    "…the policemen said, “Go back to the village.” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ekap-emi wia maak-e-mik, “Maa iiw-eka.”",
+    "They came and told them, “Dish out the food.”",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo eka yoowa Magidar=ke kirip-ap yi-eya en-e-m.",
+    "Magidar made tea and gave it to me, and I drank it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No um-eya or-o-n.",
+    "After he died you went down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo efa uruf-e!",
+    "Look at me!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I yiena mua opora yia asip-owa ekap-e-mik nain",
+    "Our men who have come to help us with the language …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo auwa nan ik-ua.",
+    "My father is there.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka Yaapan=ke ni umakuna nia puuk-i-kuan.",
+    "Later the Japanese will cut your necks.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria, yo opora muut nan-e-k.",
+    "Alright, there is my talk.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi sawur nain=ke kuura puuk-a-mik.",
+    "Those spirits changed into flies.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Lasen=ke kuum-e-mik.",
+    "The Lasen people burned it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya en-e-man nain yo=ko me uruf-a-m.",
+    "I didn’t (get to even) see the pig that you ate.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nos=na?",
+    "What about you?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Is=ke me kuum-e-mik.",
+    "We didn’t burn it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yos=i?",
+    "I?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Os pun opora kuisow naap=iw ma-e-k.",
+    "He also said the same thing.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Anane nos=iw nefa maak-i-ya.",
+    "He always talks to you only.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nos=ke ikiw-e!",
+    "You go (not someone else)!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Irakowa=pa wia war-e-mik.",
+    "In the fight they killed them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Opora nain efa maak-e-k.",
+    "He told me the story.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aite maa yia p-or-om-a-k.",
+    "Mother brought food down for us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nefa nokar-i-yem.",
+    "I’m asking you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Inglis wia ofakow-i-ya.",
+    "(S)he teaches them English.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Oram nokar-i-yem.",
+    "I’m just asking.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria wia amukar-e-k.",
+    "He/she scolded the women.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria nia amukar-e-k.",
+    "He/she scolded (you) women.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria amukar-e-k.",
+    "He scolded his wife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua yia aaw-i-kuan.",
+    "They will take (us) men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi teeria papako o Ø asip-a-mik...",
+    "Another group helped him…",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo me efa aaw-e-mik.",
+    "They didn’t take/choose me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo efa aaw-e-mik.",
+    "They took/chose me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Me o uruf-a-m.",
+    "It wasn’t him/her that I saw.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Me wi owow mua wia arew-a-mik…",
+    "It wasn’t the village people that we waited for…",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O me uruf-a-k.",
+    "(S)he didn’t see him/her/it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ipia=ke yiar-eya ekap-e-mik.",
+    "The rain hit us and we/they came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yomar, no uurika yook-ap urup-e.",
+    "Friend, follow me up tomorrow.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw nefa wi-e-mik.",
+    "We have already given you to them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uuriw wia aaw-ep nia p-ekap-om-i-yen.",
+    "In the morning we will bring them (people) to you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sawur emeria nain=ke ona soma mua nain ifakim-o-k.",
+    "The spirit woman killed her (own) lover.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Niena unuma maifa feeke siisim-eka.",
+    "Write your names on the paper here/ on this paper.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena koora maneka wenup.",
+    "My house is very big.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua fain me nena niawi akena=ke.",
+    "This man is not your real father.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena koora efar aw-o-k.",
+    "My house burned.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Om-em-ik-eya sawur emeria ona wiawi onak=ke ekap-emi maak-e-mik…",
+    "While she was crying, the spirit woman’s father and mother came and told her, …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiena mia kia maa=iw on-a-mik.",
+    "They did it with the Europeans’ things.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiwosa yena, wapena yena…",
+    "The head is mine (to eat), the hands are mine…",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fikera pun wiena nain=ke.",
+    "The kunai grass is theirs, too.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiena owow maneka ikiw-owa nain ma-i-yem.",
+    "I’m telling about our going to town.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aasa enuma yena me suuw-i-yem.",
+    "I don’t take a new canoe down myself.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiena iisow, yiena garanga muutiw aaw-ep uup-ep en-e-mik.",
+    "Only our family by ourselves (lit: we ourselves we only, our family only) took it, cooked and ate it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi teeria papako o asip-a-mik, ona eka sesenar-ep wienak-e-k nain.",
+    "Another group helped him, those for whom he had bought and given beer.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo me nia maak-i-nen, nien=iw ma-eka.",
+    "I will not tell you (what to do); discuss it on your own (among yourselves/as a group).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pok-ap ika-iwkin mua wiar ekap-e-mik.",
+    "They were sitting and (their) husbands came to them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mia kokas-owa=ke wiar kerer-e-k.",
+    "Her skin started to itch.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Feeke wiar ik-ok kiiriw mua wiar urup-e.",
+    "Having been here with him, go (back) to your husband again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi sawur nain ir-ami fan yiar pok-a-mik.",
+    "The spirits, going eastward, sat here with us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo emeria Lasen=pa wiar aaw-e-m.",
+    "I got (my) wife from (the) Lasen (people).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kuisow akena ika-eya yos=ke wiar sesenar-ep aaw-e-m.",
+    "There was only one and (it was) I (who) bought it from them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua oko=ke waaya nain mik-ap nefar aaw-i-non.",
+    "Another man will spear the pig and take it from you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap wiar miim-a-m.",
+    "I heard thus about him/her/them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Lasen wiar ek-a-mik.",
+    "We went to Lasen (=to the people of Lasen village).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Baurar-ep Bogia kame wiar ikiw-e-mik.",
+    "They ran away to the Bogia area.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "P-ikiw-ep Bogia=pa nan wu-a-mik.",
+    "We/They took it (a body) and buried it in Bogia.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uuriw iinan aasa aaw-ep Epa Dabela urup-e-mik.",
+    "In the morning we took an airplane and went up to the Highlands.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I sira naap yiar ik-ua.",
+    "We have a custom like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nos=ke anane urema efar ikum-ar-i-n.",
+    "You always steal bandicoots from me / my bandicoots.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "A, yo aamun nan efar ik-ua.",
+    "Ah, there is my younger brother.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa yiar kuuf-owa ekap-e-mik.",
+    "They came to see our village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Auwa afura wiar akim-ap=ko uruf-e.",
+    "Try father’s lime and see (what it is like).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiwosa wiar pepekim-ep kaik-a-m.",
+    "I measured her head and tied it (a cane).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No me emeria nefar maak-i-mik.",
+    "We are not telling/talking to your wife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Buburia koora wiar aw-o-k.",
+    "The bald man’s house burned (on him).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Irak-emi amina wiar fo-fook-omak-e-mik.",
+    "They fought and split their pots.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena eremena=ke ona siowa aruf-eya kepura ku-o-k.",
+    "My nephew hit his dog and its leg broke.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena eremena=ke siowa wiar aruf-eya kepura ku-o-k.",
+    "My nephew hit his/her dog and its leg broke.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wis=ke wiawi maak-e-mik.",
+    "(It was) they (who) told their father.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wis=ke wiawi wiar maak-e-mik.",
+    "(It was) they (who) told their father.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Marasin nain=ke kema wiar iw-a-k.",
+    "The medicine went into his liver.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiowa nain o wapena=pa wiar ku-o-k.",
+    "The spear broke in his hand.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pina ... nefar kaken-ami welaw-i-kuan.",
+    "They will straighten your(sg) … guilt and finish it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena muuka erup wia aaw-o-k.",
+    "He took my two sons.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O wiar nefa sesek-i-yem.",
+    "I am sending you to him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eema=ke ona kolos Garamin iw-o-k.",
+    "Eema gave her dress to Garamin.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eema=ke Garamin ona kolos iw-o-k.",
+    "Eema gave Garamin her dress.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena koora maneka wenup.",
+    "My house is very big.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo emeria efar uruf-a-man=i e wia?",
+    "Have you seen my wife or not?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona koora=pa wiar wu-a-mik.",
+    "They put it in his (own) house.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria ikoka Yaapan wiena niar aaw-i-kuan.",
+    "Later the Japanese will take your wives as their own.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiw ara gelemuta nain yiena yiarik.",
+    "That small piece of ground is ours.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiawi=ke amap-or-o-k=i, weke wiarik?",
+    "Did her father take her down to her grandfather?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo mesa up-owa fain ni niarik aaw-ep isak-e-m.",
+    "I got these winged bean seeds from you and planted them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Manina waisow mauw-ap neeke wu-a-k.",
+    "He made his garden alone/by himself and left it there.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No naisow or-op kaul wafur-e.",
+    "Go down alone/by yourself and do fishing (lit: throw the hook).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo yaisow me efa keraw-a-k.",
+    "It didn’t bite only me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakisa mua iperowa nain ona waisow soor owowa=pa ika-i-ya.",
+    "Now that middle-aged man is staying all by himself in a jungle hamlet.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi feeke ika-uk, i iisow ikiw-i-yen.",
+    "Let them stay here, only we will go.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ii-iisow pok-ap opora siisim-ep weeser-eya unow=iya aakun-e-mik.",
+    "We sat and wrote separately, and then talked together.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No nena=iw ma-i-n=i?",
+    "Do you say it on your own?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O=ko me efa maak-e-k, yena=iw amis-ar-e-m.",
+    "He/she didn’t tell me, I learned it on my own.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yien=iw ikiw-ik-ua.",
+    "Let’s go on our own (as a group, or one by one).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Anane nos=iw nefa maak-i-ya.",
+    "He always talks to you only.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi anane is=iw yiam=iya irak-i-mik.",
+    "They always fight with us only.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap on-ap yame amukar-e-m.",
+    "Having done so I scolded myself (i.e. was angry at myself).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iinan akena ikiw-ep wame pipilim-ep aakun-em-ika-i-non.",
+    "It (= a bird) will go very high up and hide itself and keep making its calls.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Niam tuun-ap teeria erup wu-eka.",
+    "Count yourselves and form two groups.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nainiw sande uura yiam fiirim-e-mik.",
+    "Again on Sunday night we gathered.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiam fook-ap irak-e-mik.",
+    "They split from each other and fought.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sarir-ap … yiam far-i-mik.",
+    "We surround (the fish) … and call each other.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Niena niam kookal-eka.",
+    "Like/love yourselves.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fura=ke efa puuk-a-k.",
+    "A knife cut me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Merena yame puuk-a-m.",
+    "I cut my leg.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiam arow nain miim-ap soran-e-mik.",
+    "The three of us heard that and were startled.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Lasen mua emeria wiam=iya me aakun-e-mik.",
+    "We didn’t talk with the Lasen people.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo muuka kookal-ep yena samapora wia maak-i-nen.",
+    "When I like to have a son/child I will tell my clan.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No waaya mik-ap inasina unuma me unuf-i-nan=na mua oko=ke nainiw mik-ap nefar aaw-i-non.",
+    "If you spear a pig and don’t call your spirit name, another man will spear it again and take it from you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifa nain=ke yia keraw-i-ya.",
+    "That snake bites.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Marasin fain yia girin-i-ya.",
+    "This medicine smarts.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eema=ke waisow amis-ar-e-k. Os=ke uuriw urup-emi…",
+    "Only Eema knew. She got up in the morning and …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni ikiw-eka!",
+    "Go (2p)!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "koora maneka arow nain",
+    "those three big houses",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "siowa sepa gelemuta erup",
+    "two small black dogs",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No fain me nena niawi akena=ke.",
+    "This is not your true father.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ema eenin fikera=ke aw-o-k, aria eefin fikera=ke me aw-o-k.",
+    "The kunai grass on that mountain (far away, invisible) burned, but the grass on this/that one (somewhat closer) did not burn.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mera arow nain aaw-e-m.",
+    "I caught those three fish.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mera nain aaw-omak-e-m.",
+    "I caught those (many) fish.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amina fain p-ekap-e-mik.",
+    "We brought this pot / these pots.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain soo era=ke.",
+    "That is the way (to catch fish) with a fish trap.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiawi eliw naak-e-k, nain me ikiw-o-k.",
+    "He said yes (lit: all right) to his father, but didn’t go.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa=pa fan ik-emkun aasa maneka ekap-o-k.",
+    "As I was here in the village the big ship came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eliw feeke soop-i-yen.",
+    "We can bury him here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo fura belemuta eefan piipu-a-m.",
+    "I left the small knife (somewhere) here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni koora epa eefeke ku-eka.",
+    "Build a/the house over here in this place.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi aakisa fain manina eenan on-i-mik.",
+    "Nowadays they make the garden(s) there (far away).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni eeneke ikiw-ep momor naap niir-eka.",
+    "Go there (out of my sight) and play your foolish game.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Soo nainiw muf-owa pun naap, aana=pa neeke muf-i-mik.",
+    "Pulling the trap again is also like that, we/they pull it there by the rattan.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Malol=pa neeke nainiw suuw-urup-i-ya.",
+    "There from the open sea it (= tsunami wave) again pushes up (to the coast).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Or-op neeke ika-iwkin kokom-ar-e-k.",
+    "When they had gone down and were there it became dark.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nainiw mukuna mamaiya neeke ikiw-o-k.",
+    "Again he went there close to the fire.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fa, Yaapan=ke feeke ik-e-mik!",
+    "Damn, the Japanese are here!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap maak-iwkin naap ik-ua.",
+    "They told him like that, and he was like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "“Mua nain opora=pa wu-ami ifakim-e,” eenap efa maak-e-mik.",
+    " “Accuse (lit: put to talk) that man and kill him,” they told me like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain unuf-ami ma-i-kuan, Mua nain kaan ik-ua?",
+    "They call the man’s name and say, “Where is that man?” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Oo Sarak, no kaan=eke ik-ok kerer-e-n a?",
+    "Oh Sarak, where have you been (lit: where were you and arrived)?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain iikamin ekap-o-k?",
+    "When did that/the man come?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain unan ekap-o-k.",
+    "That/the man came yesterday.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa mauwa en-e-n?",
+    "What did you eat?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa oposia en-e-m.",
+    "I ate meat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua naarew wia uruf-a-n?",
+    "Whom (pl) did you see?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naarew wiar aaw-o-k?",
+    "Who did he get it from?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mauwa=ke nefa aruf-a-k?",
+    "What hit you?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua kain=ke nomak-e-k?",
+    "Which man won?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Masin kaanin=ke samor-ar-e-k?",
+    "Which engine (of the two) broke?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O unuma naare=ke?",
+    "What is his/her name?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No kain kookal-i-n?",
+    "Which one (of two or many) do you like?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No kamenap ik-o-n?",
+    "How are/were you?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O koora sira kamenap ku-a-k?",
+    "What kind of house did he build?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O unuma kamenap?",
+    "What is his/her name?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa fain unuma kamenap?",
+    "What is the name of this tree?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa en-owa=ko p-ekap-e-mik=i kamenion?",
+    "Did they bring food, or what (happened)?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Siiwa arow ikiw-eya maa en-owa perek-i-mik. Naap=i?",
+    "After three months we’ll harvest the food, right?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Feenap eliw ma-i-yen=i? Sira nain eliw marew, naap=i?",
+    "Should we say that that custom is not good – is that what you are saying?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw muuka oko wiawi onak urera maa uup-e-mik.",
+    "Long ago, a certain boy’s father and mother cooked food.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Gurun-owa epasia=pa miim-am-ika-i-kuan, oko mua papako maa ik-em-ik-owa nain kawus wiar uruf-i-kuan.",
+    "They (villagers) keep listening to the rumble from far away, otherwise/lest they (pilots) see the smoke from some men’s/people’s food-roasting fire.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naarew wia far-ep ekap-o-n?",
+    "Who did you call, and then came?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Masin kaanin=ke samor-ar-eya oko fain=ke asip-i-non.",
+    "Whichever engine breaks down, this other one will help/substitute.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Prais aaw-ep uf-owa kain=ke nomak-e-k nain wi-e-mik.",
+    "They took the prize and, whichever dance won, they gave it (the prize) to them (the dancers).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain mauwa nain akim-a-k=na weetak, mauwa nain me or-o-k.",
+    "The man tried the thing (press button), but the thing (lift) didn’t go down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No kaaneke ikiw-i-nan=na, yos pun nook-i-nen.",
+    "Wherever you go, I will follow you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aaw-e-m.",
+    "I got it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Urup-e-mik.",
+    "We went/came up.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Soomia wia amap-ep-om-i-ya.",
+    "He takes spoons to them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera pun wiar aw-omak-e-k.",
+    "Many of his coconut palms burned too.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Lawiliw akena um-ek-a-m.",
+    "I very nearly died.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni ekap-omak-eka.",
+    "Come!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Muuka arim-ow-e.",
+    "Bring up the boy.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Oposia pu-puuk-ap uup-e-mik.",
+    "They cut the meat in many pieces and cooked it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ewar=ke wuun-ow-ami epia faker-a-k, mukuna.",
+    "The wind blew and raised the fire(wood), the fire.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kees-om-a-ya en-e-k.",
+    "He spat/regurgitated it for her and she ate.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo aakisa inasina Rubaruba nanar-i-yem.",
+    "Now I tell about spirit Rubaruba.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aruf-ami me samor-eka!",
+    "Don’t hit/beat and destroy it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nefa ikum-am-ika-iwkin nan kerer-e-n.",
+    "They were just speculating about you when you arrived.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Arim-emi mu’a ar-’e-k.",
+    "He grew up and became man/adult.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aruf-owa e’repam ar-’e-m.",
+    "I hit it four times.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiena opaimika me baliwep a’mis-ar-e-mik.",
+    "They don’t know our language well.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epa mores-ar-ep ikiw-o-k.",
+    "He made the place ready and went.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eewua ir-ow-aw-ap osaiwa ar-e-k.",
+    "She put the wing up (on herself) and became a bird of paradise.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mukuna kuuf-ap kirir-e-k.",
+    "She saw the fire and shouted.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiok-ami naap yia kirir-ow-am-ik-ua.",
+    "She was following us and shouting about us like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua teeria opaimika wia sesek-omak-e-mik.",
+    "They sent word to (many members of) the man’s family.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiena wiawi=ke amia wia keraw-om-omak-e-mik.",
+    "Their fathers carved spears for them (many beneficiaries).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria unowa fain nia aaw-urum-i-kuan.",
+    "They will take all of you women.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria teeria koka ikiw-urum-e-mik.",
+    "The whole group of women / all the women went to the jungle.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iinan aasa ikiw-emi paran-em-mi-omak-e-k.",
+    "Many planes went rumbling around.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi ifa saarik in-urum-ep-ik-e-mik.",
+    "They all slept/lay like snakes.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wia ifakim-urum-omak-e-mik.",
+    "They killed each and every one of them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Buk aaw-omak-om-e!",
+    "Get the books for me!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Buk aaw-om-omak-e!",
+    "Get the books for him!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiena wiawi=ke amia wia keraw-om-omak-e-mik.",
+    "Their fathers carved bows for them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera wia uruk-am-ik-om-a-mik.",
+    "We kept dropping coconuts for them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Moro mua wia wu-om-am-ik-om-a-mik.",
+    "They put them (=carts) for the Moro men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera orawin kais-om-e-mik.",
+    "They husked coconuts for me (for free).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Biri-birin-emi wia akim-omak-e-mik.",
+    "They were flying and teasing them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne oro-oro-oro-oro-mi oro-oro-or-o-k, onoma.",
+    "And it went down and down and down all the way to the horizon.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa ku-ku-ep or-om-ik-ua.",
+    "The timber (in a bridge) kept breaking and falling down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iinan aasa=ke maifa fu-fuurk-ikiw-o-k.",
+    "The plane went throwing paper slips down",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Oposia nain pu-puuk-ap uup-e-mik.",
+    "We cut up the meat (into many pieces) and cooked it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amina aaw-ep Liisa ame wia p-er-om-a.",
+    "Get the pot and take it to Liisa and the others.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pita pensil wiar or-op ik-ua nain aaw-ep amap-ikiw-om-aka.",
+    "Take to Pita his pencil that has dropped.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni auwa maa p-urup-om-aka.",
+    "Take food (up) to father.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera ir-ap erup op-ap aap-or-e.",
+    "Climb the coconut palm, grab two coconuts and bring them down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wafur-om-e!",
+    "Throw it to me!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Marasin wu-om-a-mik=na weetak.",
+    "They put medicine on him but no (it didn’t help).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Na-iwkin wia uf-om-a-mik.",
+    "They said so and we danced for them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Panewowa maa wia p-ikiw-om-uk.",
+    "Let them take food for the old people.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uf-o-k.",
+    "He danced.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uf-om-e-k.",
+    "He danced for me/you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uf-om-a-k.",
+    "He danced for him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Lawiliw akena waki-ek-a-m.",
+    "I very nearly fell.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena aamun aakisa uruf-ek-a-m=na kemel-ek-a-m.",
+    "If I saw my younger brother now, I would be happy.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Morauta fan ik-ek-a-k=na uurika ikiw-ep maak-ek-a-mik.",
+    "If Morauta were here, tomorrow we would go and tell him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maifa yia aaw-om-ak-a-k=na…",
+    "If he had gotten tickets for us…",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I me yia damol-a-mik.",
+    "They didn’t harm us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Or-op mua nain uruf-e.",
+    "Go down and see that man.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka amap-urup-eya op-ikua.",
+    "Later when he comes up, let’s hold/grab him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi urup-ep mukuna nain umuk-uk.",
+    "Let them go up and extinguish the fire.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria, i owowa=ko or-u.",
+    "Alright, let’s (d.) go down to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiena ikos akena iw-u.",
+    "Let’s just the two of us go together.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera ir-e.",
+    "Climb up the coconut palm (to get coconuts).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera ir-om-e.",
+    "Climb up the coconut palm for me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera ir-om-a.",
+    "Climb up the coconut palm for him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera yia ir-om-aka.",
+    "Climb up (plural) the coconut palm for us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Unan aakun-e-mik, aakisa aakun-i-mik ne uurika nainiw aakun-i-yen.",
+    "Yesterday we talked, now/today we talk and tomorrow we’ll talk again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waa muuka arow ekap-o-k.",
+    "Three piglets came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifa yia keraw-i-ya nain miira saawirin-i-mik.",
+    "When a snake bites us, we become dizzy.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nos=ke anane urema efar ikum-ar-i-n.",
+    "You always steal bandicoots from me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya ika-i-non, waaya uup-i-nan, naap.",
+    "If there is a pig, you will cook it - it is like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka yo um-i-nen, muuka nain nainiw wiena aaw-i-kuan.",
+    "Later if I die (without paying the bride price) they will take the son back.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka kuisow kuuma kuisow yi-i-nan.",
+    "Very soon you have to give me 10 kina.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiwosa wiar pepekim-ep kaik-a-m. Kaik-om-ap…",
+    "I measured her head and tied it (=headdress). I tied it for her and …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa or-op, wuailal-ep akia ik-e-k.",
+    "He went (down) to the village, was hungry and roasted bananas.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi sawur ir-ami fan yiar pok-a-mik.",
+    "As the spirits were going they sat down here with us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "…ekap-emi koora=pa yia wua-i-mik.",
+    "…coming (=upon arrival) they put us in the house.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Soomar-em-ik-ok ifara oko uruf-a-k.",
+    "He was walking and saw another vine. ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No kaaneke ik-ok kerer-e-n?",
+    "Where have you been and now come?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Imen-ap maak-iwkin o miim-o-k.",
+    "They found him and told him, and he went ahead of them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iw-aya nan miira saawirin-e-k.",
+    "As [the poison] entered [his liver], he became dizzy.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aaya=ko yia aaw-om-aya enim-i-yan.",
+    "Get us sugarcane and we’ll eat it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Enakiwa-ya me aaw-e-m.",
+    "There was (only) half (left), so I didn’t take any/it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mauwow maneka-ya=na yia maak-i-non.",
+    "If the work is big, she will tell us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Soomia marew-eya amap-ep-om-a-m.",
+    "She has/had no spoons (lit: there are/were no spoons) so I brought them to her.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera uruk-am-ika-iwkin wi ikiw-emi aaw-em-ik-e-mik.",
+    "They kept dropping coconuts, and they went and got them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa or-op, wailal-ep, akia ik-e-k.",
+    "He came down to the village, was hungry and roasted bananas.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iperuma nain=ke mua puuk-ap owora en-emi afura buan-em-ika-i-ya.",
+    "The eel has become man, and is eating betelnut and knocking the lime container.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Is=ke maa uup-emkun wi ekap-ep enim-i-kuan.",
+    "We’ll cook the food and they’ll come and eat it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi ir-ami nia aaw-emi efa ifakim-i-kuan.",
+    "They will come and take you and kill me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mukuna kerer-e-k nain kamenap umuk-i-yan?",
+    "How shall we extinguish the fire that started?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Rubaruba nain=ke ona emeria nain aaw-ep p-ikiw-o-k, iw-iwkin.",
+    "That Rubaruba took his wife and took her (away), when they had given her to him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Um-eya merena ere-erup ifara aaw-ep kaik-ap nabena suuw-ap akua aaw-ep or-o-m.",
+    "It died, and I tied its legs in pairs with a vine that I had gotten, and pushed it to the carrying pole and carried it down on my shoulder.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw inasin mua nain=ke naap wia maak-eya wi naap on-a-mik.",
+    "The spirit man had earlier told them like that and they did so.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "miim-a-k",
+    "he heard",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "miim-o-k",
+    "he went ahead",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fikera aw-o-k.",
+    "The kunai grass burned.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kuuten ikos karu-e-mik.",
+    "I ran with Kuuten.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Niir-emi pisi-e-k.",
+    "He laughed and farted.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uuw-ap uuw-ap lebum-ar-e-m.",
+    "I worked and worked and got tired.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nan teeria manek-ar-e-k, owowa pun manek-ar-e-k.",
+    "The family grew big there, and the village grew big too.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa unowa oram me amis-ar-i-mik, weetak.",
+    "We don’t just gain knowledge of many things (without learning them), no.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aapereka paran-em-ika-i-ya.",
+    "It is thundering.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yaapan wia ifakim-e-mik.",
+    "They killed the Japanese.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiipa erup wia sesek-a-mik.",
+    "They sent the two girls.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo me efa enim-uk.",
+    "Let them not eat me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nefa amis-ar-ep ma-i-yem.",
+    "I am saying (this) because I know you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iir oko maa enim-i-yem, iir oko maa me enim-i-yem.",
+    "Sometimes I eat, sometimes I don’t eat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi wia amukar-emi me nefa aner-a-m.",
+    "When I scolded them I didn’t refer to you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nefa ikum-am-ika-iwkin nan kerer-e-n.",
+    "As they were wondering about you, you arrived there.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Tunde urera Liisa ame=ke epa yia ofakowa-yiaw-e-mik.",
+    "On Tuesday afternoon Liisa and the othes showed us around the place.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nena panewowa pun wadol opora yia maak-i-n.",
+    "You yourself – an old person too! – tell us lies.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "…ona wiawi wiar ikiw-o-k.",
+    "…she went to her father.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kerer-ep nan soomare-miaw-e-mik.",
+    "They arrived and walked around there.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Or-op nan ikiw-ep wia uruf-a-k.",
+    "He went down and went there and saw them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifa uruf-ap baurar-ep karu-or-o-mik.",
+    "We saw a snake and fled and ran down (to the village).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epasia=pa ik-omkun me efa karu-e-mik.",
+    "When I lived far away, they didn’t visit me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "En-em-ika-eya ona wiamun=ke uruf-ap om-o-k.",
+    "When he was eating it his younger sibling saw it/him and cried.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Efa om-em-ik-eya epa wiim-o-k.",
+    "While she was mourning for me it dawned.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kemuka nain pepek er-eya onak ona wiar puuk-a-k.",
+    "When the string was (long) enough, their mother herself cut it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wia pepek er-a-k.",
+    "It was enough for them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa fain me iw-o-k.",
+    "He did not give this thing to him/her.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya pun enak-e-mik.",
+    "They also gave me pork to eat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amia=iya nenar-e-mik=i?",
+    "Did they shoot you with a gun?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi wionar-ep pok-ap ik-ua.",
+    "He sat hiding among them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiw-aasa=pa wi-om-e.",
+    "Give it to them for me in the car.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kema bagiwir-a-m.",
+    "I was angry.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo kema efa bagiwir-ow-a-n, yaa!",
+    "Boy, have you made me angry!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakisa arim-o-n, aakisa muew-o-n.",
+    "Now you have grown, now you have married.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No nena maa fariar-ep muuka nain arim-ow-e.",
+    "You yourself have to abstain from (certain) food(s) and bring the son up.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa unowa ifer aasa=ke p-urup-o-k.",
+    "A lot of things were brought/taken up by ships.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O mua imen-ap=na feeke wia p-ekap-eka.",
+    "If/when you find a/any man, bring them/him here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Gomi kawus p-irapar-i-ya.",
+    "The east wind moves the smoke around.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O uruf-ap op-ap Yeesus nomokowa moke akua-aaw-om-owa suuw-a-mik.",
+    "They saw him and took hold of him, and made him carry Jesus’ cross on his shoulder.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sira enuma ook-owa nia suuw-i-mik.",
+    "They make you follow new customs/ways.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ipamsika mua=ke ikiw-ow-a-k.",
+    "A sorcerer (lit: nail man) killed him (lit: caused him to go).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kes tepak=pa wu-ap p-ikiw-e-mik.",
+    "They put him inside the coffin and took him (away).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo mua oko ikiw-owa suuw-amkun ikiw-i-non.",
+    "I make a man go and he goes.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi owow mua=ke wilkar wia muf-em-ik-om-a-mik.",
+    "The village men kept pulling carts for them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epia wilin-owa uruf-ap bom yia fuurk-om-i-kuan.",
+    "When they see the light from the fire(s) they will throw bombs at us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koor poka iimar-ow-om-e.",
+    "Stand up the house posts for me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona soomia marew-eya amap-ep-om-a-m.",
+    "She has/had no spoons of her own, so I brought them for her.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Birin-ep nomokowa iinan akena ikiw-ep wame pipilim-ep aakun-em-ika-i-non.",
+    "It will fly and hide (itself) in the very top of a tree and keep making noise.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fikera ikum kuum-e-mik nain ma-i-yem.",
+    "I tell about when the kunai grass was burned (by arson).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nefa war-iwkin naap ma-e.",
+    "If/when you are shot, then say like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa puuk-ap ik-ua.",
+    "The tree is cut.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ika-i-nen.",
+    "I will just be (like this).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I naap koora=pa ik-e-mik.",
+    "We were in the house like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo waaya arow efar ik-ua.",
+    "I have three pigs.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo um-ep ik-owa saarik ik-e-m.",
+    "I was like dead.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka maa marew, eliw manek=iw ika-i-nan.",
+    "Later there will be no problem, you will just be very well.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No kamenap ika-i-n?",
+    "How are you?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Siowa nain kakalt-am-ik-emkun arim-o-k.",
+    "I was looking after the dog and it grew.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap ik-ok uruf-am-ika-iwkin wia.",
+    "As he was/stayed like that they were watching him (but) no (=he didn’t get better).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa ekap-o-k, amia mua=pa ik-ok.",
+    "He came to the village, having been in the police (force).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa war-ep miiwa=pa ik-ow-a-mik.",
+    "We cut trees and laid them on the ground",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo unan koka=pa ik-e-m.",
+    "Yesterday I was in the jungle.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni kaaneke ik-e-man oo, ni ekap-omak-eka oo!",
+    "Wherever you are, come!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mesa asia fiker gone=pa ika-i-ya nain aaw-em-ik-e-m.",
+    "I was picking wild winged bean that was (lit: is) in the middle of the kunai grass.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O ikoka somek mua maneka ika-i-non.",
+    "He will later be the headmaster.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koora naap ik-eya uruf-i-mik.",
+    "We see the house as it is like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kokom-ar-eya in-e-mik.",
+    "When it got dark we went to bed.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona koora=pa arew-ap pok-ap ik-e-mik.",
+    "We sat and waited (lit: waited and sat) in his house.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Irak-ow epa=pa koka=pa in-em-ik-e-mik.",
+    "During the war we used to sleep in the jungle.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No ikiw-e, irak-owa maneka fan-e-k a.",
+    "Go (home), the big war is here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakisa i fan-e-mik.",
+    "Now we are / have come here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No niawi akena nan-e-k.",
+    "Your real father is there.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aa, o koora fan-e-k a.",
+    "Ah, his house is here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Takira arim-ep mua ar-e-k.",
+    "The boy grew and became a man.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria nain afa ar-e-mik.",
+    "Those women became flying foxes.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Manina urup-ep nan uuw-ap owowa or-o-k.",
+    "She went up to the garden, worked there and came down to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fofa er-ap ir-i-mik.",
+    "We are coming back from the market.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uurika nefa uruf-owa ikiw-i-nen.",
+    "Tomorrow I’ll go to see you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Manina=pa ekap-ep maa uup-e-mik.",
+    "We came from the garden and cooked food.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne soran-emi epia mukuna=pa or-omi aw-o-k.",
+    "And he got startled and fell on the fire and burned himself.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona owowa p-ikiw-ep soop-i-yan.",
+    "We’ll take him (=his body) in his village and bury him (there).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Amerika “epa eliwa” nae-ekap-e-mik.",
+    "The Americans came saying, “peace”.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Yaapan saa=iw ir-am-ika-i-mik.",
+    "The Japanese are going along the beach.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kemuka pepek er-eya puuk-a-k.",
+    "When the string was (long) enough she cut it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap on-am-ik-e-mik, ekap-ep aakisa.",
+    "We have been doing like that (all the time) up until now.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria mua manina kerer-e-mik.",
+    "The people arrived in the garden.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Gomi kawus p-irapar-i-ya.",
+    "The east wind moves/blows the smoke around.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Soora=pa nan yiaw-e-mik.",
+    "They walked around in the jungle.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Takira niir-emi kirir-i-mik.",
+    "The boys are playing and shouting.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maapora kamenap aakun-i-yan?",
+    "How shall we discuss the feast?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Moma yia maak-i-mik.",
+    "They are telling us (to get them) taro roots.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "“Aaw-ep p-ekap-eka,” naap yia maak-em-ik-e-mik.",
+    " “Bring it”, they were telling us like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "“No bom fain=iw mera kuum-e,” naak-e-mik.",
+    " “Blast fish with this bomb,” they told him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo yena yaaya ifa ku-o-k nain opora ma-i-yem.",
+    "I am telling a story about my uncle that was bitten by a snake.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Momora, no naap me ma-e.",
+    "Fool, don’t say like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "En-e-mik na ma-e-mik, “Eliwa, aara oposia saarik.”",
+    "They ate it and said, “It is good, like chicken meat.” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena oram ma-i-yem.",
+    "I’m just speaking (without any reason ).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap yia ma-i-kuan na-ep yo ariman nefa maak-i-yem.",
+    "Thinking that they will say like that about us I’m openly telling you (this).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "…ma-em-ik-e-mik, “Oo, …” na-em-ik-e-mik.",
+    "...they kept saying, “Oh...”, they kept saying (like that).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amerika fan “Epa eliwa” nae-ekap-e-mik.",
+    "The Americans came saying “peace”.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wia maak-e-mik, “Yia uf-om-aka.” Na-iwkin…",
+    "They told them, “Dance for us.” When they said (that)…",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera “yasi” yia na-em-ik-e-mik.",
+    "They kept calling coconut (by the name) “yasi” to us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa eliwa=ke na-ep aaw-e-m.",
+    "I thought it was a good thing and got it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifana wu-am-ika-i-kuan, unuma wia miim-u n-ep.",
+    "They are listening carefully (lit: putting their ear), wanting to hear their names.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo aakisa nanar nain ma-ek-a-m-Ø-ep.",
+    "Now I would like to tell that story.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Oro-mi bulak na-i-ya.",
+    "When it drops it says “plop”.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "“Uruf-a-mik” a-e-k.",
+    " “They saw it,” he said.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera yia na-em-ik-e-mik. Naeya iwera wia uruk-am-ik-om-a-mik.",
+    "They kept speaking to us about coconuts /asking us for coconuts. So we kept dropping coconuts for them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maara efa tiitin-i-ya.",
+    "My head hurts.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uuw-ap uuw-ap oona=ke efa sirir-i-ya.",
+    "I have worked and worked, and my bones ache.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa en-ep-pu-ap soomar-eka.",
+    "Having finished eating you may go.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nan efa wu-ap-pu-ami o Ulingan ikiw-o-k.",
+    "He left (lit: put) me there and went to Ulingan.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifara mokak-ikiw-em-ik-ok ifara oko uruf-a-k.",
+    "He kept looking for a vine and saw one vine.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owora efar ikum aaw-iwkin wia maak-e-m.",
+    "They stole my betelnut and I talked to them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifakim-ep nomokow ekeka=pa sererim-ep-pu-a-k.",
+    "He killed it and hung it on a tree branch.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sererim-ep-pu-ap owowa or-o-k.",
+    "He hung it up and went/came down to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Manina nop-ap-pu-ap nomokowa war-i-mik.",
+    "We burn (the undergrowth for new) garden and (when it is done we) cut the trees.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa war-ep-pu-ap arew-i-mik.",
+    "We cut the trees and wait.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wia maak-ep-pu-ami i ikiw-e-mik.",
+    "We told them and went.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria yo nan efa wu-ap-pu-ami o Ulingan ikiw-o-k.",
+    "Alright he put me there and he went to Ulingan.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa en-owa wakesim-ep-pu-ami ikiw-o-k.",
+    "Covering the food she left.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "En-ep-pu-ap ikiw-e!",
+    "Get done with your eating and go!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uup-ep weeser-eya wienak-e-m.",
+    "I finished cooking it and fed it to them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa en-em-ik-omkun ama or-o-k.",
+    "As I was eating the sun went down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fikera aw-em-ik-eya nain umuk-i-nen na-ep urup-o-k.",
+    "The kunai grass was burning, and she went up in order to extinguish it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Yaapan naap kuisow=iw ekap-em-ik-e-mik.",
+    "The Japanese kept coming like that, one by one.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koka=pa nan in-em-ik-e-mik.",
+    "We kept sleeping in the jungle",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa oko wiam=iya irak-em-ik-e-mik.",
+    "We were fighting (or: kept fighting repeatedly) with the other village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya urup-em-ik-eya mik-a-m.",
+    "As the pig was going/coming up I speared it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya yia na-iwkin waaya wienak-em-ik-e-mik.",
+    "They asked us for pigs and we kept giving them pigs to eat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kawus ir-am-ik-eya kuuf-a-k.",
+    "The smoke was rising and she saw it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo anane maneka naap mauw-am-ika-i-yem.",
+    "I always/forever keep working like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Moma ik-owa enim-i-mik. Eka me enim-i-mik, iwer eka me enim-i-mik. Aaya muutiw en-em-ika-i-mik.",
+    "We do not eat roasted taro. We do not drink water or coconut water. We only eat / keep eating sugarcane.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pok-ap-ik-omkun epa wiim-o-k.",
+    "As we were sitting it dawned.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifakim-eya pu-ep-ik-eya om-em-ik-ua.",
+    "When she killed him and he was dead, she was crying.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiw-ep-ik-eya ona emeria=ke ekap-o-k.",
+    "While he was gone his wife came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ewar pun wuun-e-k ne epa reen-ep-ik-ua.",
+    "The west wind blew, too, and the ground was dry.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa war-ep-pu-ap arew-ap-ika-iwkin reen-eya saama kuum-i-mik.",
+    "They cut the trees and while they are waiting it dries and then they burn the cleared bush.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo Amerika wia akup-ikiw-i-yem.",
+    "I am going to look for the Americans. / I go searching the Americans.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wia mokak-urup-o-k, wia mokak-or-o-k.",
+    "He stared them up and down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aasa suuw-or-o-mik.",
+    "We pushed the canoe down (towards the sea).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Merena kir-ep segen-ikiw-o-k.",
+    "He twisted his foot and limped.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emera kue-puuk-ap okaiwi siowa onak-e-k.",
+    "He bit off half of the sago cake and fed it to the dog.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakun-emi mika-kof-a-m.",
+    "I stumbled in my speech.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koora ku-owa amis-ar-afur-a-k.",
+    "He really knew how to build a house.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mika-fien-ikiw-o-k.",
+    "He went on countering (an attack).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap amis-ar-ikiw-em-ik-o-wen.",
+    "That way you will gain more and more knowledge.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fura aaw-ep puuk-a-m.",
+    "I took a knife and cut it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Burir aaw-ep nomokowa unowa war-e-mik.",
+    "We took an axe and felled many trees.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Malala=ke muf-ep ekap-emi…",
+    "The Malala people came pulling it and…",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifara mufe-wiaw-ik-ok…",
+    "As he was pulling the vine around…",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Meta yia miim-ap yia miira puuk-ekap-e-mik.",
+    "They heard about us and came to greet us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uura or-op arua karu-e-mik.",
+    "At night we went down to sea and fished with a torch.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Me efa kema suuw-a-k.",
+    "He did not think of me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kema me efa suuw-a-k.",
+    "He didn’t think of me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo me efa kema suuw-a-k.",
+    "He didn’t think of me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naruw ir-a-mik.",
+    "They acted silly.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap kema tuup-am-ika-i-ya.",
+    "He is hoping so.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uura uroma ikiw-e-m.",
+    "Last night I had diarrhea.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kema samor-ar-ep maa me enim-i-yem.",
+    "I am sad and don’t eat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...oko emina urur-ep soomar-ikiw-i-kuan.",
+    "…lest they feel ashamed and walk away.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Muuka gelemuta akena kema me puk-e-mik.",
+    "Little boys/children do not think well (yet).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maamuma efar ikum aaw-e-mik.",
+    "They stole money from me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa me efa pepek er-a-k.",
+    "The food wasn’t enough for me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo oram ikum efa wu-a-n.",
+    "You accused me for theft without grounds.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No pepek me ma-e-n.",
+    "You didn’t say right.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Apura ane suuw-am-ika-iwkin pok-ap ik-ok om-o-k.",
+    "They were supporting the widow (sitting against her back) and she sat and wailed.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Opora anu fien-owa me pepek.",
+    "He wasn’t able to disregard the talk.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "baliwep akena",
+    "very well",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "…mokoma kuisow naap fan yiam=iya ik-e-mik.",
+    "…for about a year they were here with us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "…mua owawiya neeke ik-ok uruf-ap… kiiriw ep-i-kuan.",
+    "…having been with her husband there and seeing [her father] they will come (back) again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epasia ikiw-em-ik-omkun yia far-e-k.",
+    "As we were (still) walking at a distance, he called us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua oko=ke mamaiya pok-a-k.",
+    "Another man slept with her (lit: sat near).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Saapipia baliwep me wu-a-m, tiil wu-a-m.",
+    "I didn’t put the trap well, I put it right on the edge (of the reef).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "koor kuenuma=pa",
+    "underneath (lit: in/on the underside of) the house",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Unan nainiw yiam fiirim-e-mik.",
+    "Yesterday we met again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uurika emeria manina ikiw-ep en-owa nop-ap or-eka.",
+    "You women, go to the garden tomorrow and fetch food (and come) down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria, no aakisa maa enim-e.",
+    "Alright, eat now.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eewuar, eka me saanar-owa ik-ua.",
+    "Not yet, the water hadn’t dried.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No emeria iiriw sesek-a-mik.",
+    "We already sent your wife (away).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiimar ikiw-i-yan, ikoka weetak.",
+    "We’ll go some other time, not later today.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No ikoka mua ikos irak-ep me efar kerer-e.",
+    "Later when you fight with your husband, don’t come to me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakisa kuisow on-e, ikoka weetak.",
+    "Do it right now, not later.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Muuna kirip-owa ma-e-mik nain aakisa fan kirip-a-mik.",
+    "They (only) just now returned the debt they have talked about returning.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw miiw-aasa marew, aakisa fain miiw-aasa nepik akena.",
+    "Earlier there were no cars, now(adays) there are lots of cars.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amirika ama kekan-eya uurar-i-mik.",
+    "During the day (or: at noon) when the sun is strong, we take a rest.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yaapan=ke uura ifera=pa nan pok-om-ow-a-mik.",
+    "In the evening the Japanese made him sit in the sea.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo anane naap mauw-am-ika-i-yem.",
+    "I always work like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Irak-owa maneka ewur me imen-ar-e-k.",
+    "The big fight/war didn’t start quickly.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne nainiw sande uura yiam fiirim-e-mik.",
+    "And again on Sunday evening we gathered together.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne kiiriw enuma on-am-ik-e-mik.",
+    "And again they kept making a new one.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yeesus kiiriw iikir-a-k.",
+    "Jesus rose again (= rose from the dead).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kiiriw morena iperowa nain sesek-a-k.",
+    "Again she sent the elder male (grandchild).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ar-ep ik-eya aria kiiriw mua nain nainiw urup-o-k.",
+    "When she had become like that, alright the man came up again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...maa oposia pun naap sesek-a-mik.",
+    "…like that they also sold meat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Soo nain feenap: era erup ik-ua.",
+    "The fishtrap (custom) is like this: there are two ways.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap yia ma-i-kuan na-ep yo ariman nefa maak-i-yem.",
+    "I am telling you this openly, thinking that they will say like that about us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Opaimika baliwep me wiar amis-ar-e-m.",
+    "I don’t/didn’t know their language well.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fikera ikum kuum-e-mik nain ma-i-yem.",
+    "I tell about that when the kunai grass was burned by arson.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Samor akena aruf-a-mik.",
+    "They beat him very badly.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koora nain maala pepek.",
+    "That house is long enough.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eka mamaiya akena i yoowa me aaw-i-yen",
+    "Very near the river we’ll not get hot.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iikamin akena=ko imen-ar-i-non?",
+    "Exactly when is it going to appear?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sira samora piipu-eka akena.",
+    "You (pl) must really leave (your) bad habits.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiena ikos akena iw-u.",
+    "Lets’s go just the two of us together.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Weetak akena, i=ko me kuum-e-mik.",
+    "Really no, we did not burn it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uuw-owa nain lawisiw yoowa.",
+    "That work is somewhat hard.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo anane maneka naap mauw-am-ika-i-yem.",
+    "I always keep working like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wie wi eliw wiar op-i-kuan.",
+    "Her uncles may get (lit: hold) them (=clay pots) from her.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eliw Kululu ma-e-man, eliw.",
+    "It is all right that you mentioned Kululu, that is OK.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa, nie owowa=pa fan pok-a-n, eliw.",
+    "It is good/OK that you settled here in your brother’s and uncle’s village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aaya muutiw en-em-ika-i-mik.",
+    "They are only eating sugarcane.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ewar wuun-i-ya nain muutiw miim-i-nan.",
+    "You will hear only the wind blowing.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Lotu koora Ulingan=pa muutiw ik-ua=i?",
+    "Is there a church only at Ulingan?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakisa muutiw niir-i-mik.",
+    "They play only today.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eliw muutiw.",
+    "It’s just all right.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo opora muut naap.",
+    "That’s my talk.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uf-owa erup muuta naap uf-e-mik.",
+    "We only danced two dances like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne waaya nain pun afila marew, waaya asia pun.",
+    "And that pig also didn’t have fat, (as) it was a wild pig too.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yos pun wie opora nainiw ma-i-yem.",
+    "I, too, will again give “uncle-talk” (=cultural instruction).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne pun aakisa iperowa korokor or-owa sira iiriw wafur-a-mik.",
+    "Also, now the middle-aged people have already rejected the initiation custom.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw pun miiwa muuta nain irak-owa marew.",
+    "Earlier there were also no fights over ground.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maamuma me tuun-owa ik-e-mik.",
+    "They haven’t counted the money (yet).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mukuna me op-a, nefa kuum-i-non!",
+    "Don’t touch the fire, it will burn you!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I muuka marew.",
+    "We have no son.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wia, me kookal-i-yem.",
+    "No, I don’t like it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo uuw-owa oko weetak.",
+    "I have no other work.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wafur-a-k na weetak, ufer-a-k.",
+    "He threw it (a spear), but no (=he didn’t succeed), he missed (the pig).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Akup-a-mik, akup-a-mik, wia.",
+    "We searched and searched, but no (=we did not find it).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Me on-a-m akena.",
+    "I really didn’t do it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Inawera sira unowa, ne kemena unowa.",
+    "There are many kinds of dreams, and (they have) many meanings.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne yo aakisa tep=pa ma-i-yem.",
+    "And now I say it to a tape recorder.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sesa nain waaya erup arow ne maamuma kuuma erepam ikur ne manar kuisow, waa eneka, naap muuka sesenar-i-nen.",
+    "(As for) the price, I will buy my son with two-three pigs and forty-fifty kina and a forehead ornament (and) pig’s tusk(s), like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa en-owa iw-e-mik, ne rais weetak.",
+    "They gave him food, but not rice.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi me kuum-e-mik, ne wi murar-owa=pa mukuna nain kerer-e-k.",
+    "They didn’t burn it, but the fire started after them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Keraw-eya aria nomokowa gelemuta puuk-ap ifa nain ifakim-o-k.",
+    "It (=the snake) bit him, and he cut a small tree and killed the snake.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria wiipa, i yia uruf-e.",
+    "Daughter, look at us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria, i owowa=ko urup-u.",
+    "Alright, let’s go back to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua maneka maamuma erup, aria wi suule takira maamuma kuisow, naap omopora sesenar-e-mik.",
+    "The grown men paid two coins (=20 toea) for entrance, the schoolchildren one coin.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap wia maak-e-mik. Ne aria, ifa nain murar-ep…",
+    "They told them like that. Now, the snake followed them and …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria=ko efar uruf-a-man=i e weetak?",
+    "Did you see my wife or not?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "maa oposia=i moma, emera, naap",
+    "meat, or taro, or sago, (things) like that",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I maamuma marew, naapeya ifera=ko me sesenar-e-mik.",
+    "We didn’t have money, so we didn’t buy salt.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ben uuw-owa piipu-a-k. Naapeya emina urur-ep me ekap-o-k.",
+    "Ben has left the work. Therefore he was ashamed to come.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pika oona me kekan-ow-a-k. Naeya uura ewar=ke teek-a-k.",
+    "He didn’t strengthen the wall studs. So at night the wind tore it (the house) down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I miiw-aasa=pa ekap-e-mik, naeya o me yook-a-k.",
+    "We came in a car, so he didn’t follow/come with us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera yia na-em-ik-e-mik. Naeya iwera wia uruk-am-ik-om-a-mik.",
+    "They kept asking us for coconuts. So we kept dropping coconuts for them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I fiirim-owa=pa ik-emkun ama or-o-k, naapeya epa kokom-ar-e-k.",
+    "When we were in the meeting the sun went down, so it became dark.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I fiirim-owa=pa ik-emkun ama or-o-k, naeya maa me wiar en-owa ikiw-o-k.",
+    "When we were in the meeting the sun went down, so he went without eating the food.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria naapeya niena soomar-owa ne aakun-owa pun sira yi-e-k nain kaken=iw ook-ap soomar-eka.",
+    "So therefore, as concerns your walk and talk too, follow straight the behaviour that he gave us and walk that way.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Teeria fain K10 wu-a-mik. Neemi wi teeria nain pun K10 wu-a-mik.",
+    "This group put down K10. Therefore that group put down K10, too.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni moma uup-i-man=i? Naap nain yo saa uup-i-nen.",
+    "Are you cooking taro? In that case I’ll cook rice.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maamuma senam aaw-e-mik. Moram wia, maa ele-eliwa sesek-a-mik.",
+    "They got a lot of money. (That’s) because they sold good things/foods.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiw-aasa muf-owa me ikiw-e-mik, moram os=ke naap ar-eya.",
+    "We didn’t go to fetch a truck, because she had become like that (=died).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nan pok-ap-ik-e-mik, mua=iya emeria.",
+    "They were sitting there, (both) husband and wife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Muuka wiip=iya kerer-e-mik.",
+    "(Both) a son and a daughter appeared.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mauwa ar-e-n, amia=iya nenar-e-mik=i?",
+    "What happened to you, did they shoot you with a gun?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yoli onak owawiya efa amukar-e-mik.",
+    "Yoli and his mother scolded me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owawiya feeke pok-ap ik-ok soomar-ek-eka.",
+    "(First) sit here with us and (then) go.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iikir-ami onak owawik soomar-e-mik.",
+    "He got up and walked with his mother.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua unowa onaiya ikiw-e-mik.",
+    "We went with many people.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua napuma onaiya Medebur ek-a-mik.",
+    "They went to Medebur with the sick man.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mokok urupa kaik-i-man nain feekiya baurar-eka.",
+    "Flee with your “eye cups” (a singsing decoration) still on.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiamun gelemuta pun aaw-ep feekiya ikiw-e-mik.",
+    "He took his little brother too, and went with him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa eliw akena nain aaw-ep feekiya ikiw-o-k.",
+    "He took the very good thing and went with it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wekera ikos irak-e-mik.",
+    "He fought with his sister.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikos ikiw-i-yen.",
+    "Let’s go together (just the two of us).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Auwa ame wia maak-eya res aaw-ep merena puuk-a-mik.",
+    "He told my father and the others, and they took a razor and made a cut on his leg.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kuuten ame=ke miim-e-mik.",
+    "Kuuten with (some) others went ahead of them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw miiwa muuta nain irak-owa marew, oram momor mauw-am-ik-e-mik.",
+    "Earlier there was no fighting for land, they just worked indiscriminately (on any land).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yia amukar-owa muuta nain nan iiriw ifakim-e-mik.",
+    "We killed her earlier (only) because she scolded us (lit: …for her scolding of us).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Opora ara nain muuta ifakim-u na-ep on-a-mik.",
+    "(Only) because of that talk they tried to kill him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua eliwa saarik aakun-e-k.",
+    "He spoke like a good man.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No sia on-owa saarik magimal puuk-a-n.",
+    "You cut magimal vine as if you were going to make a netbag.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pon piipa unowa=pa soomar-em-ik-eya mik-a-m.",
+    "The turtle was walking among the seaweeds and I speared it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona owowa=pa ik-eya epa wiim-o-k.",
+    "When he was in his village it dawned.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifa maneka=ke iinan=pa or-o-k.",
+    "A big snake dropped from above.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Saa=pa ir-am-ika-i-mik.",
+    "They are coming on/along the beach.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiw aasa=pa ikiw-e-mik.",
+    "We went by car/in a car.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain ... eka kapa=pa ir-ap eka nain up-o-k.",
+    "The man went to the top/source of the river and blocked the river.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fraide=pa maapora puk-o-k, urera.",
+    "On Friday the celebration started, in the afternoon.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena mua owowa ekap-o-k, amia mua=pa ik-ok.",
+    "My husband came back to the village, having been a policeman.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa galua-galua nain=iw biiris on-am-ik-e-mik",
+    "They kept making bridges with soft timber.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...wiena opaimik=iw yia maak-em-ik-e-mik.",
+    "They talked to us in their language.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uurik ona naap=iw iw-ap poka aaw-e-mik.",
+    "The following day they went in the same way and got houseposts.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne ikoka maa marew eliw manek=iw ika-i-nan.",
+    "And later you will have no problems, you will just be very well.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya=ke anane wiar en-ow=iw ika-i-ya.",
+    "A pig stays eating their (taro) all the time.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I amirik=iw ... Gawar wiar ikiw-e-mik.",
+    "In the daytime we always went to Gawar …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua=iw pok-aka.",
+    "Sit just among the men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nena mua=na urema osarena ikiw-o-k.",
+    "(As for) your husband, he went to catch bandicoots.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain naareke? Mua nain=na owow saria maneka=ke.",
+    "Who is that man? -That man is the big village headman.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nos=na?",
+    "(So,) what about you?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Opora wiar ika-i-ya=na eliw urup-ep wia maak-uk.",
+    "If they have something to say, they can get up and tell them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O emeria aaw-owa kookal-ek-a-k=na iw-ek-a-mik.",
+    "If he had liked to get a wife, they would have given him one.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiw-ep mukuna nain umuk-a-mik=na me pepek.",
+    "We went and (tried to) extinguish the fire, but couldn’t.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw ifa marasin=ke kekan-e-k.",
+    "The snake poison had already taken effect.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Episowa ifa nain atua=ke en-e-k.",
+    "The tobacco leaves were eaten by worms.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iperuma nain me enim-eka, inasin mua=ke.",
+    "Do not eat that eel, it is a spirit man.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amirika=ke eliw ika-i-yem, uura=ke napum-ar-i-yem.",
+    "At noon I’m well, at night I am sick.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mukuna=ko op-a-man=i?",
+    "Did you hold any fire?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain=ko onak-e!",
+    "Give it to that man to eat!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Oposia en-e-man nain yo=ko me uruf-a-m.",
+    "I didn’t (even) see the meat that you ate.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Akim-ap=ko uruf-i-yen.",
+    "We’ll try and see.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sira nain piipua-i-nan=i?",
+    "Will you give up that habit?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nobonob ikiw-e-man nain, owowa eliwa=i?",
+    "You went to Nobonob, is it a good village?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fura=iw=ko me puuk-a-mik.",
+    "They didn’t cut it with a knife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fikera=pa-r=iw fiirim-eka.",
+    "Gather them right at the kunai grass.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Os=ke-r=iw maa en-emi ewur-ar-e-k.",
+    "Only he rushed with his food.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi anim onoma pun o makena Krais=ke na-i-mik=yon=i?",
+    "Are also the authorities perhaps saying that he truly is Christ?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua fain Saror muuka=ki?",
+    "Is this man Saror’s son?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aa, kema=ko kir-ek-a-n aa!",
+    "Oh, if only you had changed your ways (lit: turned your liver)!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Arika, takira, yo yook-eka.",
+    "Alright boys, follow me (and will get going).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Laman tapala wu-a-k, aiyoo!",
+    "My goodness, Laman put a hat on (and exposed himself and us to the fighter pilots)!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emawa, nena niawi um-o-k.",
+    "Sorry, your father is dead.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap ma-emi om-em-ika-i-nan, na.",
+    "You must cry saying like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo damol-al-e-m oo, fiker fufa iw-a-m oo.",
+    " Oh, I’m in a bad way, I am hiding among the grass.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni kaaneke ik-e-man oo, ni ekap-omak-eka oh",
+    "O where are you? – come!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "yiena iiriw kae sira nain",
+    "that traditional custom of ours",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "ona siowa",
+    "his/her dog",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "ifa nain",
+    "the/that snake",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi sawur=ke kuura puuk-a-mik.",
+    "The spirits changed into flies.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "’Yo nena niawi=ke nefa maak-i-yem.",
+    "I, your father, tell you...",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "wi iiriw akena mua",
+    "the people of long ago",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "sawur emeria ona onak wiawi",
+    "the spirit woman’s parents",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "siowa wiawi",
+    "the dog’s owner",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "yiena kae sira",
+    "our ancestors",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "ona koora",
+    "his house",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "takira niir-owa",
+    "young people’s play(ing)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona apura maa oposia me enim-i-non.",
+    "His widow will not eat meat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "sawur emeria ona onak wiawi",
+    "the spirit woman’s parents",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Oo, no emeria iiriw sesek-a-mik.",
+    "Oh, we already sent your wife away.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain ’i  sira=ke.",
+    "That is our custom.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "i emeria apura yiena mua weria wiena emeria nain=ke",
+    "the wives of the “weria-relatives” of us widows",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua takira unowa ne emeria wiip-takira=ke me unowa akena.",
+    "There are many young boys but not very many young girls.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Bogia era",
+    "the Bogia road",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Malala owowa",
+    "Malala village",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "mua bug maala nain",
+    "the man with good lungs",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Siowa morena oko aruf-a-k.",
+    "He hit another male dog.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "koora erepam nain",
+    "the/those four houses",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owow emeria mua unowa sira eliwa wiar uruf-ap …",
+    "The many villagers saw his good manners and …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pina gelemuta eliw owowa=pa nefar kaken-ami welaw-i-kuan.",
+    "Your small guilt they can well straighten and finish in the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amina fain me wiar op-aka.",
+    "Don’t hold/touch these pots of hers.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo miira me uruf-a-m, afifa muutiw wiar uruf-a-m.",
+    "I didn’t see the face, I only saw his hair.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amina, wiowa, eka napia koor miira=pa iimar-ow-a-mik.",
+    "We placed the pots, spears and water bamboos in front of the house.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I mua unowa, emeria papako ikiw-e-mik.",
+    "Many men (including the narrator) and some women went.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nie ne neke nomokow fiira=ke.",
+    "Your maternal uncle and your grandfather are the most important relatives.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mera kas, mulamul ne popotimaw aaw-i-mik.",
+    "We catch mackerel, mulamul trevally and popotimaw trevally.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Manin koora nain koka ne ifara=ke wakesim-o-k.",
+    "The garden house was covered by jungle and vines.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiena merena ne wapen=iw era akup-a-mik.",
+    "They felt (lit: searched) for the road with their feet and hands.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Moma, aria emera naap lawisiw eeyar-e-k.",
+    "Taro, and sago, lasted a little (longer).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mera aaw-owa sira e era ikur okaiwi=pa kuisow ik-ua.",
+    "There are six means, or ways, of catching fish.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa oposia=i moma, emera, naap sesek-a-mik.",
+    "They sold meat, or taro, (or) sago, (things) like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka mua owawiya irak-ep me efar kerer-e.",
+    "Later when you fight with your husband, do not come to me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Yaapan oos onaiya Madang ikiw-e-mik.",
+    "The Japanese went with horses to Madang.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Parosifa siisim-ep muuka feekiya sesek-i-nen.",
+    "I will write a letter and send it with my son.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Rabaul kemena=pa naap pok-ap ik-e-mik, mua=iya emeria.",
+    "They are now sitting in the Rabaul bay, the husband and/with the wife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiamiya irak-owa na-ep ikiw-e-mik.",
+    "We went to fight with them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Osaiwa ne aalbok ikos womar wiam op-a-mik.",
+    "The bird of paradise and/with the black cuckoo-shrike were friends.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo nena nie=ke nefa maak-i-yem.",
+    "I, your uncle, am telling you this.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena yaiya Tup ifa=ke keraw-a-k.",
+    "My Uncle Tup was bitten by a snake.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Inasina Rubaruba nain=ke ona emeria aaw-ep p-ikiw-o-k.",
+    "The spirit Rubaruba took his wife and went.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Manina gelemuta, esewa, nena kookal-owa=pa perek-i-nan.",
+    "You may harvest the little garden, “esewa”, at your desire.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Oka keraw-a-k nain efefa ne eliwa akena.",
+    "The hand drum that he carved is light and very good.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I koora kuisow yiar aw-o-k.",
+    "One of our houses burned.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koora arow akena ku-a-mik.",
+    "We built exactly three houses.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maamuma unowa akena aaw-e-mik.",
+    "They got very much money.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo muuka arow.",
+    "I have three sons.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nefa war-iwkin naap ma-e.",
+    "When they shoot you, say like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua me wia imen-a-mik.",
+    "We didn’t find the men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yaapan=ke i emeria yia aaw-urum-i-kuan.",
+    "Japan will take all of us women.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiw-aasa nan ik-eya mua nain nabena suuw-a-mik.",
+    "The car stayed there, and they carried the man on their shoulders.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fura op-ap ik-o-n nain feeke wu-e.",
+    "Put here the knife that you are holding.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pon sisina=pa ik-eya mik-a-m.",
+    "The turtle was in shallow water and I speared it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sapara=pa nan suusa iw-e-mik.",
+    "There in Sapara he was given an injection.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa unowa serer-iw-ap Takora=pa nan or-o-mik.",
+    "They went hanging to many trees, and at Takora they got down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Parosifa siisim-ep iinan aasa=pa wafur-a-mik.",
+    "They wrote papers and threw them from airplanes.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aite=ke manina=pa yia aaw-om-iwkin enim-i-mik.",
+    "Our mothers get (it) from the garden for us and we eat (it).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Me fan Madang kame=pa ekap-e-mik.",
+    "They didn’t come here from the Madang side.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ae, o fiker gone urup-o-k.",
+    "Yes, he went up to the middle of the kunai grass area.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Medebur karu-eka, baurar-eka.",
+    "Run to Medebur, flee!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ulingan nan bom fu-fuurk-ikiw-e-mik.",
+    "They went throwing bombs to Ulingan.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua oko=ke waaya nain mik-ap nefar aaw-i-non.",
+    "Another man will spear the pig and take it from you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Feeke wiar ik-ok kiiriw mua wiar urup-e.",
+    "Stay here with him and (then) go (back) to your husband again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koran epa=pa wiar ik-ua.",
+    "It is in Koran area.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Saa=iw ir-am-ika-i-mik, oos ono-onaiya.",
+    "They are coming along the beach, with horses.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mia aka nain aaw-ep p-ikiw-ep manina=pa upuna=pa wu-a-k.",
+    "She took the menstrual blood with her and put it in a (plant) row in a garden.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uuriw akena mukuna nain kerer-e-k.",
+    "The fire started early in the morning.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne fraide=pa maapora puk-o-k, urera.",
+    "And on Friday the feast started, in the afternoon.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne nainiw sande uura yiam fiirim-e-mik.",
+    "And we gathered again on Sunday night.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uurika mande uuriw amia mua feeke kerer-i-non.",
+    "Tomorrow Monday a policeman will come here in the morning.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Unan urera ama ikur naap on-a-mik.",
+    "We did it yesterday afternoon around five o’clock.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka trinde=pa nainiw aakun-i-yen.",
+    "We’ll talk again later on Wednesday.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mokoma fain siiwa Mas=pa weeser-i-non.",
+    "It will finish in March this year.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I amirik=iw ... Gawar wiar ikiw-e-mik.",
+    "In the daytime we (always) went to Gawar …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera nainiw kaken iimar-e-k.",
+    "The coconut palm stood up straight again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koran wiena balisow akena epa nain amis-ar-e-mik.",
+    "The Koran people themselves know that place very well.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O iiwawun samor aaw-o-k.",
+    "He got it really bad (= he got into a very bad condition).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiena kae sira=pa mauw-owa ik-ua.",
+    "We have to work according to the custom of our grandfathers.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Yaapan naap kuisow=iw ekap-em-ik-e-mik.",
+    "The Japanese came like that one by one.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wie, wiawi nain ifa saarik in-urum-ep-ik-e-mik.",
+    "His uncles and fathers were all sleeping like snakes.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifa mia nain fura=iw lalat-em-ik-om-a-mik.",
+    "They kept scraping the snake skin off her with a knife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...wiena opaimik=iw yia maak-em-ik-e-mik.",
+    "…they kept telling us in their language.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo iiriw iinan aasa=pa karu-owa erup ar-ep me keker op-a-m.",
+    "I had already travelled by plane twice, and was not afraid.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sureka=pa owora nain teek-ap aaw-e-mik.",
+    "They picked the betelnuts with a harvesting stick.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mauwa ar-e-n, amia=iya nenar-e-mik=i?",
+    "What happened to you, did they shoot you with a gun?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    " sira iw-i-mik.",
+    "They teach the right behaviour to the son.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sarak=ke wi takira inglis wia ofakow-i-ya.",
+    "Sarak teaches the children English.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni auwa maa p-ikiw-om-aka.",
+    "Take food to/for father.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Onak=ke aaya wia aaw-om-aya enim-or-om-ik-e-mik.",
+    "Their mother got sugarcane for them and they went down eating it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "lolom if-e-mik.",
+    "They smeared the plate with mud.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo maa unowa koora=pa wu-a-m.",
+    "I put (the) many things in the house.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I amirk=iw Gawar wiar urup-e-mik.",
+    "During the day we went to Gawar.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I amirika owowa ewur me ekap-em-ik-e-mik.",
+    "In the daytime we didn’t come quickly to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Niena ikoka oram neeke ika-i-non.",
+    "Your mother will later just be there (without you).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mokoma kuisow naap fan yiam=iya ik-e-mik.",
+    "They were here with us for about a year.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I me wia amukar-e-mik.",
+    "We didn’t scold them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain yo me baurar-em-ik-e-m.",
+    "But I didn’t keep running away.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Inasin opaimika eliwa me yia maak-e-mik, wi Yaapan=ke.",
+    "They didn’t speak good Pidgin to us, the Japanese (didn’t).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Komori emeria wu-a-k.",
+    "Komori buried his wife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Tirinde uura i nainiw yiam fiirim-e-mik.",
+    "On Wednesday evening we gathered again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "…imen-ap maak-iwkin o miim-o-k.",
+    "…when they found him and told him, he went ahead.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Australia Amerika=ke wia asip-iwkin irak-owa nomak-e-mik.",
+    "Australians were helped by Americans and won the war.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    " merena efa puuk-a-k.",
+    "I cut my leg / myself in the leg.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria naap wia aruf-i-nen na-ep on-a-k.",
+    "He tried to hit women that way.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amia mua=ke wiam erup nain wia nokar-e-k.",
+    "The policeman asked those two.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua emeria muuka wiipa eka=ke wia mu-o-k.",
+    "A man and his wife and children were drowned by the river.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi moma yia maak-i-mik.",
+    "They are telling us (to get them) taro.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maak-e-mik, No ikiw-e, irak-owa maneka fan-e-k a.”",
+    "They told him, “Go, the war is here.” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ika-i-nen.",
+    "I will just be like this.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Siiwa erepam naap nan ik-ok napuma sariar-e-k.",
+    "He was there about four months and his sickness was healed.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amirika i maa eneka fain uup-ep enim-i-yen.",
+    "At noon we’ll cook and eat this (edible) animal.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    " kuum-eya aw-ep eka iw-a-k=na wia.",
+    "(It) burned their father and when he burned he went into the river but it didn’t help.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ufer-iwkin urup-em-ik-eya yos=ke mik-a-m.",
+    "When they missed and it was going up, I shot it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uuw-ap uuw-ap oona=ke efa sirir-i-ya.",
+    "I have worked and worked, and my bones hurt (me).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo uroma efa op-am-ik-eya yo haussik me ikiw-e-m.",
+    "I was having birth pains (lit: My stomach was holding/grabbing me) but I did not go to the aidpost.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I opora muut nain nefa maak-u na-ep ep-a-mik.",
+    "We came wanting to tell you just that (talk).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi moma yia maak-i-mik, moma=ko wi-i-yan.",
+    "They tell us (to get them) taro, (so) we’ll give them taro.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    " yia na-iwkin waaya wienak-em-ik-e-mik.",
+    "They spoke about pigs to us and we kept giving them pigs to eat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne mua nain waaya mik-om-a-mik.",
+    "And they speared that man a pig.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    " efa keraw-a-k.",
+    "It bit me in the leg.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    " efa fien-a-man.",
+    "You disregarded/disobeyed my talk.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Era=pa ekera wiam erup kukusa wia aaw-o-k.",
+    "On the way he took a picture of my two sisters.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua papako=ke irak-owa wia puuk-a-mik.",
+    "Some men stopped their fight.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I dabuela aaw-ep Yaapan wi-em-ik-e-mik.",
+    "We took pawpaws and gave them to the Japanese.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain teeria muutiw wame wia ofakow-a-k.",
+    "He only showed himself to that man’s group.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O wiar nefa sesek-i-yem.",
+    "I am sending you to him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria ikoka Yaapan wiena niar aaw-i-kuan",
+    "Later the Japanese will take your wives as their own.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epa wiim-eya mua karer-omak-e-mik.",
+    "When it got light a lot of people gathered.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O koora=pa naap ik-ok um-o-k.",
+    "She was in the house like that and died.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uuriw akena mukuna nain kerer-e-k.",
+    "The fire started early in the morning.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiwawun iwera pun wiar aw-omak-e-k.",
+    "His many coconut trees too burned altogether.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I Sarak ikos owowa ekap-em-ik-e-mik.",
+    "Sarak and I kept coming back to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fikera mamaiya=pa nan pok-ap ik-e-mik.",
+    "We were sitting near the kunai grass.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ipia or-om-ik-eya owora aaw-ep up-o-k.",
+    "When it was raining he took betelnuts and planted them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epa kokom-ar-eya in-e-mik.",
+    "It became dark and we slept.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua eneka, woosa kia kir-em-ik-ua.",
+    "The people’s teeth and skulls were turning white.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Arim-emi emeria ar-e-k.",
+    "She grew and became a woman.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wis pun wiisa uf-e-mik.",
+    "They, too, danced “wiisa”.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Era maala soomar-e-mik.",
+    "We walked a long way.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aaya=ko feeke ik-eya nefa aaw-ep enim-i-yen.",
+    "If there is (any) sugarcane here, we’ll take and eat you (the sugarcane).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kuisow owowa=pa=ko me ik-ua.",
+    "There was/is not even one in the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa unowa fan-e-mik, aakisa wia uruf-i-n.",
+    "Many of your brothers are here, now you see them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No niawi akena nan-e-k, no fain me nena niawi akena=ke.",
+    "Your real father is there, this isn’t your real father.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Apu maa epira marok maneka=ke wiar ik-ua.",
+    "Apu has/had big prawns on his food plate.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    " sira naap me yiar ik-ua.",
+    "We do not have a custom like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain pun muuka wiipa wiar ik-ua.",
+    "That man also has children/son(s) and daughter(s).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap on-i-non=na pina wiar ika-i-non.",
+    "If he does like that he will have guilt.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wis pun maa eliwa=ko wiar ika-i-ya=na iw-i-mik.",
+    "They too, if they (happen to) have good things, give to him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Parina ona wakesim-owa onaiya ika-i-ya.",
+    "The lamp has a cover.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiwa ona mua onaiya ik-ua.",
+    "The land has its men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain yena kae panewowa=ke.",
+    "That man is my old grandfather.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya nain me maneka, muuka kia gelemuta.",
+    "The pig wasn’t big, it was a small white piglet.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka mua eliwa ne mua oona ika-i-nan.",
+    "Later you will be a good and strong man.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Dogimaw yiena owow saria=ke.",
+    "Dogimaw is our village headman.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Dogimaw me yiena owow saria=ke.",
+    "Dogimaw is not our village headman.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo inasin mua=ke.",
+    "I am a spirit man.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Oo Kululu takira=ke, o me amis-ar-e-k.",
+    "Oh, Kululu is a youth (compared to us), he doesn’t know.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain me inasin mua=ke, iperuma=ke.",
+    "That is not a spirit man, it is an eel.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Irak-owa nain kekanowa akena.",
+    "The fighting was very fierce.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiena miiwa kuisow.",
+    "Our land is one.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain pun sira naap=iw, mua me kerer-e-mik.",
+    "That, too, was like that: people didn’t arrive.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Biiris me eliwa, damo-damola=ko.",
+    "The bridges were not good, they were bad.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw miiwa muuta nain irak-owa marew.",
+    "Earlier there was no fighting for land.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I urupa weetak, i soomia wia, i epira marew.",
+    "We had no cups, no spoons, no plates.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakisa=ko me kerer-em-ika-i-ya, wia bala op-aw-ap wia wiim-om-owa nain.",
+    "Now it doesn’t take place (any more), decorating them and escorting them for them (i.e. escorting girls to their prospective husbands).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo ekap-owa wia.",
+    "I won’t come.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi mua naap me on-owa nain=ko ik-e-mik=i?",
+    "Are there people who wouldn’t do / keep doing like that?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiena owow maneka ikiw-owa nain ma-i-yem.",
+    "I am talking about our going to town.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kema suuw-owa eliwa aaw-ep kekan-e-k.",
+    "He got good thinking and became strong.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I uuw-owa yi-iwkin baliwep uuw-owa=ke ik-ua.",
+    "When they give us work, working well is our duty.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Toiyan iiriw maak-ep-pu-a-mik, uuriw yia aaw-ep Madang ikiw-owa nain.",
+    "We already told Toiyan about taking us in the morning and going to Madang.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiena oram niir-emi wiam kookal-owa=pa nan wiam aaw-i-mik.",
+    "They just play together and (on the basis of) liking each other they marry each other.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo uurika owow maneka ikiw-owa=ke.",
+    "I have to go to town tomorrow.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Inasina wia patir-a-mik nain me wiar en-owa=ke.",
+    "One must not eat what has been sacrificed to the bush spirits.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo emeria aaw-owa urup-e-m.",
+    "I came up to take my wife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiw-aasa muf-owa ikiw-owa na-em-ik-omkun o ar-e-k.",
+    "As we were talking about going to get a vehicle, she died.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa uup-owa paayar-ep ep-a-n.",
+    "You know cooking and you came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua naareke naap on-owa nefa suuw-a-k?",
+    "Who made you do like that?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ariwa perek-owa me pepek.",
+    "(He was) not able to pull out the arrow.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Weniwa=pa en-owa na-ep uuw-i-mik.",
+    "We/they work in order to eat during the time of hunger.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona siowa ikos manina ikiw-e-mik, pika on-owa na-ep.",
+    "He went together with his dog to the garden (in order) to make a fence.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakisa baliwep me amis-ar-owa ik-e-mik.",
+    "Now we do not yet know it well.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera popoka wafur-am-ika-iwkin or-op ‘bulak’, eewuar, eka me saan-ar-owa ik-ua.",
+    "They kept throwing unripe coconuts and when they dropped they said ‘plop’ (so they knew:) not yet, the water had not dried yet.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa wiar ikum aaw-owa eliwa=ki?",
+    "Is it good to steal?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Galasim-owa lawisiw yoowa.",
+    "Spearing fish is rather hard.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi owow oko oko pun wia maake-miaw-i-yem akena.",
+    "I really walk around telling people in many other places too.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi o ook-owa nain me pepek akena.",
+    "They really are not able to follow him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Lawisiw akena um-ek-a-m.",
+    "I very nearly fell (but in reality didn’t).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yena kookal-owa=pa uuw-ek-a-m=na sesa na-ek-a-m.",
+    "If I had worked on my own will, I would have required payment.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap wiar amis-ar-ek-a-mik oo!",
+    "Oh, if only we had known that about him/them!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No pepek, eliw on-i-nan.",
+    "You are able, you can do it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "… mukuna nain umuk-owa me pepek.",
+    "… (we were) not able to extinguish the fire.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ekap-owa efar ika-eya ekap-e-m.",
+    "I had to come, so I came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No maa nain=ko eliw yi-i-nan=i?",
+    "Will/would you give that to me (please)?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yiena miiwa kuisow, eliw feeke soop-i-yen.",
+    "Our land is one, we may bury him here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eliw ek-ap fook-i-nan, fook-ap ep-i-nan.",
+    "You may come and split (coconuts), and having split them, go.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I me sira samora on-owa=ke, weetak.",
+    "We must not do bad things.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa=ko me on-owa nain nis=ke on-i-man.",
+    "You do things that must not be done.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sabat fofa=pa me uuw-owa nain emeria nain saliw-a-k.",
+    "He healed the woman on a Sabbath day when it was forbidden to work.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I iinan aasa me kuuf-a-mik.",
+    "We did not see the airplanes.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo me keker op-a-m, Kedem=ke makena.",
+    "I was not afraid, true, Kedem was.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua me wia kuuf-a-mik, me wia furew-a-mik, ne me wia imen-a-mik.",
+    "We did not see, sense, or find the men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni uf-ep=na maadara me iirar-eka.",
+    "If/when you have danced, do not remove your forehead ornaments.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O me somek mua=ke.",
+    "He is not a teacher.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I sira naap me yiar ik-ua.",
+    "We do not have a custom like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Yaapan emeria weetak, mua manek=iw.",
+    "The Japanese had no women/wives, (they were) only men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw miiwa muuta nain irak-owa me ik-ua.",
+    "Earlier there was no fighting for land.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I muuka marew a, i wiipa marew a.",
+    "We have no son, and we have no daughter.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I urupa weetak, i soomia wia, i epira marew.",
+    "We had no cups, we had no spoons, we had no plates.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo opora marew.",
+    "I have no talk. (= It is OK / I do not have anything against it.)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Me napuma=ke ifakim-o-k.",
+    "It wasn’t sickness that killed him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa oposia me ewur enim-i-mik.",
+    "Meat we will not eat soon (after spouse’s death).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Me epa fan irak-owa uruf-a-mik.",
+    "It was not here that they saw the fighting.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nepa opaimika me baliwep miim-a-mik.",
+    "They did not hear (understand) Tok Pisin well.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua kuisow me ekap-o-k.",
+    "One (particular) man did not come.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua kuisow=ko me ekap-o-k.",
+    "Not (even) one man came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua kuisow owowa=pa=ko me ik-ua.",
+    "Not (even) one man stayed in the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua kuisow muuta me ekap-o-k.",
+    "Only one man did not come.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria mua unowiya Mua Maneka opora me ook-i-mik.",
+    "All the people do not follow God’s talk.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain me mua unowiya opora wiar op-i-mik.",
+    "But not all men/people believe in him (= some do).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua unow=iya ’me ikiw-e-mik.",
+    "All the men didn’t go (=none of them went).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua ’unow=iya me ikiw-e-mik.",
+    "All the men didn’t go (=only some went).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Unow onaiya me ikiw-e-mik.",
+    "Not all of them went (= only some went)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua me unowa ekap-e-mik.",
+    "There were not many men that came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Biiris me eliwa, damo-damola=ko on-a-mik.",
+    "They did not make good bridges (but) bad ones.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Me mokoka op-ar-ep ik-e.",
+    "Do not have your eyes closed.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni iperuma fain me enim-eka, wafur-eka!",
+    "Don’t eat this eel, throw it away!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sira nain piipua-i-nan=i e weetak?",
+    "Will you stop that habit or not?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo emeria=ko efar uruf-a-man=i e weetak?",
+    "Have you seen my wife or not?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Marasin wu-om-a-mik=na weetak.",
+    "They put medicine in him but no (=with no result).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap ik-ok uruf-am-ika-iwkin wia.",
+    "They were thus watching him (but) no (he did not revive).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I unan maa en-e-mik en-e-mik wia, ipoka taan-ep enakiwa wu-a-mik.",
+    "Yesterday we ate and ate, (but) no (=we could not finish the food), our stomachs were full and we put half of it aside.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne wia, papako=ke ma-e-mik, “Weetak, moram owowa p-ikiw-i-yan?”",
+    "But no, others said, “Why take him to the village?” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona muuka me sesek-owa=ke me ma-e-k.",
+    "He did not say that he wouldn’t send (lit: say about not sending) his son.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maamuma me marew-ar-e-mik.",
+    "We/They did not lack money.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo episowa weetak. -Weetak wia.",
+    "I have no tobacco.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Weetak akena, i me kuum-e-mik.",
+    "No, we did not burn it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I me kuum-e-mik akena.",
+    "We did not burn it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I me=ko miim-a-mik.",
+    "We did not hear it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo=ko me=ko uruf-a-m.",
+    "I did not see it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Me=ko niir-e sa, kae napum-ar-e-k.",
+    "Do not laugh, grandfather is sick.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain yo me ep-ap nefa aaw-e-m.",
+    "But I did not come and get you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nainiw ekap-ep maa me sesek-a-mik.",
+    "They did not come back and sell food again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nepa opaimika me baliwep amis-ar-ep wiena opaimik=iw yia maak-em-ik-e-mik.",
+    "They did not know Tok Pisin well and talked to us in their own language.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua lebuma me arim-ep takira ik-ok emeria wia aaw-i-mik.",
+    "Lazy men, not having grown and (still) being young, take wives.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nainiw ekap-e-mik, nain maa me sesek-a-mik.",
+    "They came back again, but did not sell any food.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua unowa o me amis-ar-ep me ook-i-mik.",
+    "Many people do not know him and do not follow him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria, i owowa=ko urup-u. Auwa aite wia karu-i-yan, owowa=pa wia uruf-u.",
+    "Alright, let’s (dl) go up to the village. We’ll visit father and mother, let’s (dl) see them in the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka Yaapan=ke ekap-emi ni emeria unowa fain nia aaw-urum-i-kuan.",
+    "Later the Japanese will come and take all of you many women [here in this village].",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo wia wiim-urup-ep fan wia wu-ap kiiriw iw-a-m.",
+    "I escorted them up here and went (back) again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Auwa afura fan-e-k a, no=ko wiar akim-ap=ko uruf-e.",
+    "Ah, father’s lime is here, you try it and see.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uurika nefar ikiw-i-nen.",
+    "Tomorrow I’ll come to you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua imen-ap=na feeke wia p-ekap-eka.",
+    "If you find the men, bring them here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne ekap-ep Numbia=pa nan urup-e-mik.",
+    "And they came and landed at Numbia.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sawur emeria nain ikiw-eya o iikir-ami owowa ekap-o-k.",
+    "When the spirit woman went (away), he came to the/his village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Unan aakun-e-mik, aakisa aakun-i-mik ne uurika nainiw aakun-i-yen.",
+    "Yesterday we talked, now/today we talk and tomorrow we’ll talk again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wilkar wia muf-em-ik-om-a-mik, mua kui-kuisow wia maak-iwkin.",
+    "They pulled carts for them, after they had told the men one by one.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap on-am-ik-e-mik, ekap-ep aakisa.",
+    "We have been doing like that (all the time) up until now.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "…i uurika ora-i-yan, ifera un-owa ora-i-yan.",
+    "…we will go down tomorrow, we will go down to fetch sea water.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ekap-ep, ekap-ep, aakisa fan unowa Wewak=pa nan urup-e-mik.",
+    "They came and came, and just now many came up there in Wewak.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya kiikir=iw uruf-i-mik, owowa=pa.",
+    "First they look at the pig(s) in the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain pun sira naap=iw, mua=ko me kerer-e-mik.",
+    "That was like that too, the (guilty) person/people did not appear.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Masin erup nainiw wu-owa epa ik-ua.",
+    "There is a place for putting two more engines.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waa muuka arow ekap-o-k.",
+    "Three piglets came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria unow=iya ikiw-ep eka nain imar-e-mik.",
+    "All the women went and fished at the river.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain wi mua sira=ke, emeria soop-owa sira.",
+    "That is the men’s custom, the custom of burying wife/wives.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Irak-owa weeser-eya aria wi Simbine baurar-e-mik.",
+    "When the fighting was finished, alright the Simbine people fled.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya pa-ep kio-kiowa naap uup-e-mik.",
+    "We butchered the pig and cooked the pieces like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No ikoka mua owawiya irak-ep me efar kerer-e.",
+    "Later when you and your husband fight, don’t come to me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiw-ep mua wia uruf-a-k na weetak, mua=ko me wia furew-a-k.",
+    "She went and looked for anyone/people but no, she did not sense (there was) anyone (there).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mauw-am-ik-ok ik-ok mauw-owa weeser-eya urera ekap-e-mik.",
+    "They came and landed there at Numbia.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kau nain pa-ep, gele-gelemuti-tik pu-puuk-ap uup-e-mik.",
+    "They butchered the cow and cut it into small pieces and cooked it/them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iinan aasa fan or-om-ik-omak-i-ya.",
+    "Many planes are descending here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koora pun ariwa=ke kuum-eya aw-omak-e-k.",
+    "Also many houses burned down when the ammunition burned them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O iiriw maa bala wiar aaw-urum-ep ona mia=pa-r=iw wu-a-k.",
+    "Earlier he had received ornaments from all of them and (now) he put them on his own body only.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iperowa opora wiok-i-yan.",
+    "We’ll follow/obey the talk of the middle-aged men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa eneka kes mane-maneka oram iw-e-mik.",
+    "They gave him big meat (tin) cases for free.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ewar maneka muf-owa erup ar-e.",
+    "Breathe deeply twice.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kiikir iinan=pa akim-owa arow ar-e-mik.",
+    "First they tried it three times on top.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Poka fain maala, ne oko maala akena.",
+    "This stilt is long but the other one is longer (lit: very long).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ema iinan urup-e-m, ne no ema iinan akena urup-o-n.",
+    "I climbed a high mountain, but you climbed a higher (lit: very high) mountain.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya nain gelemuta, oko nain maneka.",
+    "That pig is smaller than the other one.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Auwa uuw-owa eliwa, mua oko fain wia.",
+    "My father’s work is better than this other man’s. (Lit: My father’s work is good, this other man’s is not.) ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa mane-maneka, maa fain nomak-ep ik-ua.",
+    "They are big things, greater than these.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No yiena nembesir nomak-ep maneka ar-ek-a-m na-ep=i?",
+    "Do you want to become greater than our ancestors?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa kakawa fain iiwa, oko nomak-ep puuk-a-m.",
+    "This piece of timber is short, I cut the other one longer.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O kekan-owa=ke yo kekan-owa efar nomak-e-k.",
+    "He is stronger than I. (Lit: His strength surpasses my strength.)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...wia nomak-ep me miim-ep ... urup-i-yen, weetak.",
+    "… we’ll not go up earlier than they, no.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Poka fain maala, nain nomak-e-k, ne oko nain maala akena.",
+    "This stilt is longer than that one, and/but that other one is the longest.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwakara sira oko miim-ap baurar-e-mik.",
+    "They heard a different voice and ran away.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No merena maneka yo merena iiwawun pepek.",
+    "Your feet are big, just as big as my feet.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Urauwa maala Moro owowa maala pepek akena.",
+    "The hole (is) as deep as Moro village is long.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Auwa mia maneka, muuka pun naap.",
+    "The father is big, (and) the son is like that too.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I maa en-owa naap nain yienak-e.",
+    "Give us food like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uura feenap nain, wi wilkar nain muf-e-mik.",
+    "On nights like this they pulled the carts.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pon oposia eliwa, aara oposia saarik.",
+    "Turtle meat is good, like chicken meat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mera iperuma ifa saarik.",
+    "An eel is like a snake.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Moram era paayar-owa saarik fan yia p-or-o-n?",
+    "Why did you bring us down here as if you knew the road?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O Menamura or-owa saarik iwera fook-a-k.",
+    "He split coconuts (for copra), as if he were going to Manam.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo efa sesenar-owa saarik oram maneka uuw-owa yoowa on-a-m.",
+    "I worked hard for nothing, as if they would pay me for it (lit: buy me).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiipa nain onak miikapura nainiw akena.",
+    "The girl’s face is exactly like her mother’s.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Muuka nain maa mauwa enim-i-non?",
+    "What will the son eat?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua napuma moram owowa p-ikiw-i-yan?",
+    "Why should we take the body to the village?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mukuna aw-o-k nain kamenap umuk-i-yen?",
+    "How could we extinguish the fire that was burning?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa nain epa kain=pa imenar-i-non?",
+    "Where (lit: in which place) will that thing appear?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi kaakew mua=ke uf-e-mik?",
+    "The men of which village danced?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua naareke wia aruf-eya baurar-e-mik?",
+    "Who hit them (so that) they ran away?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ama kamin ikiw-owa ma-e-mik?",
+    "At what time did they say to go?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria naareke ama kamin=pa ekap-o-k?",
+    "Who (woman) came at what time?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua kain=ke emeria kain aaw-o-k?",
+    "Which man took/married which woman?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Auwa efa amukar-e-k nain yo kamenap ar-i-nen=i?",
+    "(I wonder) what will happen to me because father scolded me?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni nain me=ko uruf-a-man=i?",
+    "Didn’t you see that?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nos=i?",
+    "You?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa nain eliwa=ki?",
+    "Is that thing good?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo emeria=ko efar uruf-a-man=i e weetak?",
+    "Did you see my wife or not?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain kema suuw-i-man=i e kema irin-ar-e-man?",
+    "Do you remember (lit: push the liver) that, or have you forgotten (lit: liver is stuck) it?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No Matukar ikiw-i-nan=i Dylup=i e Sarang?",
+    "Will you go to Matukar, Dylup, or Sarang?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Matukar ikiw-i-nan=i e Dylup ikiw-i-nan=i?",
+    "Will you go to Matukar or Dylup (or perhaps neither)?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mukuna=ko wu-a-man=i e mua=ko wia uruf-a-man=i?",
+    "Did you light a fire or did you feel (that there was) a man?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa en-owa=ko p-ekap-e-mik=i kamenion?",
+    "Did they bring food, or what?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "A:Paapa Goroka ikiw-i-non. - B: Goróka ikiw-i-non=i?",
+    "A: Big brother is going to Goroka. B: Is he going to Goroka?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "A: Mua naarew wia maak-e-k?",
+    "Who did he tell?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "B: Mua naarew wia maak-e-k=i?",
+    "Who did he tell???",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "B: Mua naarew wia maak-e-k na-i-n=i?",
+    "Are you asking who he told?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni kema maneka naap efa wu-i-man=i, yo eliw nia saliw-i-nen, naap=i?",
+    "Do you believe about me that I can heal you, is that so?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maamuma kaaneke ika-eya ni-i-yan?",
+    "Where would we have that kind of money to give you? (=We do not have money to give you.)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo anane niam=iya ika-i-nen=i?",
+    "Will I be with you forever? (= I will not.)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No moram naap om-em-ika-i-n?",
+    "Why are you crying like that? (=You should not cry like that.)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua naareke nia maak-eya ekap-e-man?",
+    "Who told you to come? (=You shouldn’t have come)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aa muuka, no moram naap yia on-a-n?",
+    "Oh son, why did you do this to us?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo seewa gelemuta uruma or-o-k nain uruf-a-man=i?",
+    "Have you seen my “little rat” (pig) that went down to the valley? (implying: I have no doubt that you have stolen my pig.)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Anane maneka ewur me urup-i-n nain moram?",
+    "What is the reason why you never come up quickly?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No uurika owow maneka ikiw-i-nan=i?",
+    "Are you going to town tomorrow?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa sira kamenap nain en-em-ik-e-man?",
+    "What kind of food did you eat?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Neremena kamenap nefa on-a-k?",
+    "What did your nephew do to you?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Weetak, yo mauw-a-m ne o me efa uruf-a-k.",
+    "I worked but he did not even look at me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni Medebur karu-eka, baurar-eka.",
+    "Run(pl.) to Medebur, flee.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Momora, no naap me ma-e.",
+    "Fool, don’t say like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pootin-e, nom!",
+    "Stop crying, please!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No opaimika pon aaw-o-n nain ma-eya i miim-i-yen.",
+    "Tell us about your catching a turtle, and we’ll listen.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "P-ekap-eya!",
+    "Bring it!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria manina ikiw-ep en-owa nop-ap or-eka.",
+    "Women, go to the garden, look for food and come down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua emeria wia maak-eya me efa enim-uk.",
+    "Tell the people and let them not eat me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Feeke wiar ik-ok kiiriw mua wiar urup-e.",
+    "Having been here with him (=your brother), go up to your husband again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria, i owowa=ko or-u.",
+    "Alright, let’s go down to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiw-ep=ko wia uruf-ikua.",
+    "Let’s go and see them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Womokowa me wia maak-inok.",
+    "Let her not talk to her brothers.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona mua owawiya ek-ap uruf-am-ik-ok ep-am-ika-uk.",
+    "Let her with her husband keep going, seeing him and coming back.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sira naap on-am-ik-eka.",
+    "Keep doing like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakisa naap on-ap-pu-e.",
+    "Now do that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No me mokoka opar-ep-ik-e.",
+    "Don’t have/keep your eyes closed.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No me sail-i-nan!",
+    "Don’t lie!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap ma-emi om-em-ika-i-nan na.",
+    "Say like that and wail.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo owora=ko me aaw-e-m, no moram efa ma-i-n?",
+    "I didn’t take the betelnut, why do you accuse me?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni uf-owa ikiw-eka, yo miatin-i-yem.",
+    "(You) go to dance, I don’t want to.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni yapen ... wiar in-em-ik-e-man nain kerer-omak-eka!",
+    "Those (many) of you, who have stayed inland, arrive (back in your villages)!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No kaaneke ikiw-owa efa maak-i-n?",
+    "You are telling me to go where?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aite, i  aaya=ko  yia  aaw-om-aya enim-i-yan.",
+    "Mother, get us sugarcane and we will eat it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Yaapan emeria weetak, mua manek=iw.",
+    "The Japanese didn’t have any wives, (they were) just the men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kuuten wiawi iperowa, yo auwa kapa=ke.",
+    "Kuuten’s father was the firstborn (son), my father was the lastborn.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I uruwa miim-i-mik, ni sosora=ke.",
+    "We father’s side of the family (lit: loincloth) go first, you are mother’s side (lit: grass skirt).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Na-emi wi afa ar-omak-e-mik, osaiwa ar-e-mik, biri-birin-e-mik.",
+    "Saying so, they became many flying foxes, they became birds of paradise, they flew (away).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria makera miirifa okaiwi soo=pa kaik-i-mik, okaiwi pia kaik-i-mik.",
+    "Alright we tie one end of the cane to the trap, the other to a (piece of) bamboo.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koora=pa efa uruf-am-ik-eya ikiw-i-nen ekap-i-nen.",
+    "You see me from the house and/as I will go and come.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Auwa aite wia karu-i-yen, owowa=pa wia uruf-u.",
+    "We’ll visit my parents, let’s see them in the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Waaya maneka marew pun, mua unowa me wia pepek-er-a-k.",
+    "Also, the pig was not big, (so) it was not enough for many people.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I mua=ko me wia furew-a-mik, ne yiena pun mukuna=ko me op-a-mik.",
+    "We didn’t sense anyone there and we ourselves did not hold fire either.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua kuum-e-mik nain me wia kuuf-a-mik, me wia furew-a-mik, ne me wia imen-a-mik.",
+    "We didn’t see the men who burned it, we didn’t sense them and we didn’t find them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epa wii-wiim-ik-ua, aria wi sawur=ke ekap-ep takira nain samapora onaiya akua aaw-e-mik.",
+    "It was getting light, and spirits came and carried the boy with his bed (away) on their shoulders.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw muuka oko wiawi onak urera maa uup-e-mik, aria maa me wu-om-a-mik yon…",
+    "Long ago, the parents of a boy cooked food in the afternoon, (but) perhaps they did not put any food for him …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo Malala mauw-owa nia asip-i-yem, aria yena owowa, Moro owowa wia asip-i-yem.",
+    "I help you Malala people with your work, and I help my village, Moro village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eema pun ekap-ep yia maak-e-k, aria buburia ona pun ekap-ep yia maak-e-k.",
+    "Eema came and told us, and the bald man himself too came and told us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain=ke napum-ar-i-mik e um-i-mik, mua oko napum-ar-e-k nain erewar-e-n.",
+    "That is about people becoming sick or dying, you foresaw (in a dream) that some man became sick.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka ekap-ep feeke sira nain piipua-i-nan=i e weetak?",
+    "Later when you come, will you here leave that habit or not?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua oko miira inawera=pa uruf-ap ma-i-mik, mua oko=ke napuma aaw-o-k=i e um-o-k=i?",
+    "When we see some man’s face in a dream we say, “Has some other man become sick or died (or possibly neither)?” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iir nain Kedem manek akena keker op-a-k ne Yoli weetak.",
+    "That time Kedem was very scared but Yoli wasn’t.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Panewowa nain, wi iiriw eno-wa en-e-mik, nain me onak-e-mik.",
+    "As for the old woman, they (aready) ate the meal earlier but did not give (any of it) to her to eat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo bom koor miira=pa efar or-om-ik-ua. Nain yo me baurar-em-ik-e-m.",
+    "Bombs kept dropping in front of my house. But I didn’t keep running away.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mera eka enim-i-mik, nain i mangala me enim-i-mik, waaya me enim-i-mik.",
+    "We eat fish soup, but we don’t eat shellfish, (and) we don’t eat pork.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I nan soomar-e-mik, nain i mukuna=ko me op-a-mik.",
+    "We walked there, but we did not hold/have any fire.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I nan soomar-e-mik nain, i mukuna=ko me op-a-mik.",
+    "We who walked there didn’t hold/have any fire.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emar, nos=ke yo efa kemal-ep iripuma fain ifakim-o-n, naapeya iripuma fain ik-ep enim-e.",
+    "Friend, it was you who pitied me and killed this iguana, therefore you roast and eat this iguana.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koora fuluwa unowa marew, naapeya in-i-mik nain dabela me senam furew-i-mik.",
+    "The houses do not have many windows, so those who sleep (there) do not sense/feel the cold too much.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pita weke wiar um-o-k, naapeya o suule me iw-a-k.",
+    "Pita’s grandfather died, so he (Pita) didn’t go to school.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No nena pun pina sira naap nain on-i-n, naeya nos pun opora=pa ika-i-nan.",
+    "You yourself do bad things like that too, therefore you too will be under accusation.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epa nan soomar-em-ik-ok or-o-mik, ne naapeya pina wi wiar korin-e-k.",
+    "They were walking there in that place and came down, and so the guilt (for starting a forest fire) stuck to them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria naapeya wi inasina ook-i-mik sira nain me wiar ook-eka.",
+    "So therefore do not follow the behavior of those who follow/believe in spirits.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No mua woos reen-owa=ke, naeya no kema kir-owa miatin-i-n.",
+    "You are hard-headed, therefore you do not like to change your (bad) ways.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni sira-sira naap on-i-man. Naeya opora iiriw ma-e-k nain pepek akena nia ma-e-k.",
+    "You do (bad) things like that. Therefore the talk that he already said about you is very accurate.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Teeria fain K10 wu-a-mik. Neemi wi teeria nain pun K10 wu-a-mik.",
+    "This group put down ten kina. Therefore that group put down ten kina, too.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Krais sirir-owa aaw-omak-e-k, neemi is pun unowiya naap aaw-i-mik.",
+    "Christ received a lot of pain, so we all too get (pain) like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naeya nokar-e-mik, “Naap nain no naareke?”",
+    "Therefore they asked, “So then, who are you?” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiam arow pepek nan urup-e-mik nain, naap nain yo moram urup-e-m.",
+    "(Since it is the case that) those three are enough and came up, so then why did I have to come up? (or: …so then I came up in vain).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa mamaiya soora weetak, moram iwera isak-omak-e-mik.",
+    "There is no forest near the village, because we have planted a lot of coconut palms.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Poh San uruf-ap kema ten-e-mik, moram i kema naap suuw-a-mik, napuma me sariar-owa ik-ua.",
+    "We saw Poh San and were relieved (lit: liver fell), because we had thought that (her) sickness hadn’t healed yet (but it had).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...maamuma senam aaw-e-mik. Moram wia, maa ele-eliwa sesek-a-mik.",
+    "…they got a lot of money. (That’s) because they sold good food.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iir nain yo owowa=pa=ko me mauw-a-m, moram wia yo Ukarumpa urup-owa=ke na-ep mauw-owa miatin-e-m.",
+    "That time I did not work in the village, because I thought that I was due to go up to Ukarumpa, and (so) I didn’t like to work.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua lebuma emeria me wi-i-mik, moram emeria muukar-eya muuka nain maa mauwa enim-i-non, naapeya mua lebuma emeria me wi-i-mik.",
+    "We do not give wives to lazy men, because when the woman bears a child what would it eat, therefore we do not give wives to lazy men.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni maa uru-uruf-ami ik-eka, oko mua oko=ke nia peeskim-i-kuan.",
+    "Watch out, otherwise/lest you get cheated.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap on-owa weetak, oko yiena sira puuk-i-yen.",
+    "We must not do like that, otherwise/lest we break our custom/law (or: … lest we ourselves break the custom/law).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "... wiena en-emi, epira lolom if-emi ne owowa p-urup-em-ik-e-mik.",
+    "They ate it themselves, spread mud on the plates and brought them up to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I ikoka yien=iw urup-ep nia maak-omkun ora-iwkin, aria owawiya feeke pok-ap ik-ok eka liiwa muuta en-ep aria ni soomar-ek-eka.",
+    "Later we (by) ourselves will come up and tell you (to come), and when you come down we will sit here together and eat a little bit of soup and then you can walk back.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sande erup weeser-eya owowa ekap-e-man=i?",
+    "Two weeks were finished, and did you (then) come to the village?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap on-ap ifakim-i-nen=i?",
+    "Shall I do like that and kill her?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No sira kamenap on-eya napuma fain nefar kerer-e-k?",
+    "What did you do (so that) this sickness came to you?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No karu-emi kame kaanek ikiw-o-n?",
+    "You ran and where did you go?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nainiw ekap-ep maa me sesenar-e-mik.",
+    "They did not come back and sell food.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiw-em-ik-ok me kir-ep uruf-e, no oram woolal-ikiw-em-ik-e.",
+    "While going, don’t turn and look back, just keep paddling.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yaapan=ke urup-em-ika-iwkin wi Australia=ke wia uruf-ap baurar-emi me yia maak-e-mik.",
+    "When the Japanese were coming up the Australians saw them and ran away and/but did not tell us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw auwa=ke sira fain me paayar-ep muuka momor wiar aaw-em-ik-e-mik.",
+    "Earlier our (fore)fathers didn’t understand this custom, and (so) they adopted (lit: got/took) children indiscriminately.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria yena mua pun irak-owa kerer-owa epa weeser-em-ik-eya iirar-iwkin owowa ekap-o-k, o amia mua=pa ik-ok.",
+    "Alright, the war was getting close and they dismissed my husband and he came to the village, after he had been a soldier.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sisina=pa wu-ap papako mua=ke mera saa urup-eya patopat=iw mik-i-mik.",
+    "They drive (lit: put) them to the shallow water and the fish ascend to the beach and (then) some are speared by men with a fishing spear.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo merena fura aaw-ep puuk-a-m.",
+    "I took a knife and cut (into) the leg. (Or: I cut into the leg with a knife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Um-eya merena ere-erup ifara aaw-ep kaik-ap nabena suuw-ap akua aaw-ep or-o-m.",
+    "It (=a pig) died and I took a rope and tied its legs two and two together and pushed it to a carrying pole and carried it down on my shoulder.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Or-op naap wia uruf-a-mik, mua oona, eneka, woosa kia kir-em-ik-eya.",
+    "They went down and saw them like that, the people’s bones, teeth and heads turning white.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aaya muuna kuisow enim-i-mik, aite=ke manina=pa yia aaw-om-iwkin.",
+    "We eat one joint of sugarcane, when/after our mothers have gotten it for us from the garden.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No nainiw kir-ep ikiw-ep owow mua wia maak-eya urup-ep mukuna nain umuk-uk.",
+    "Turn around, go and tell the village men and let them come up and extinguish the fire.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ekap-emi yo efa aaw-o-k.",
+    "He came and married me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa en-ep-pu-ami top aaw-emi moma unukum-emi kapit, wiowa aaw-ep fikera iw-i-mik.",
+    "We eat, take the trap, wrap taro, take the the trap frame and spear(s) and go to the kunai grass area.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa maala war-ep ekap-ep ifa nain ifakim-o-k.",
+    "He cut a long stick, came and killed the snake.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka mua ar-ep emeria aaw-ep kamenap on-i-nan?",
+    "Later when you become a man and take a wife, what will you do?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa unowa ifer-aasa=ke p-urup-eya miiw-aasa=ke fan p-ir-am-ik-ua.",
+    "The cargo was brought up (to the coast) by ship(s), and (then) trucks kept bringing it here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi yapen=pa ik-omak-iwkin Amerika kerer-e-mik.",
+    "Many people were inland and the Americans arrived.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo maamuma marew-eya maak-e-m, Iir oko=pa ni-i-nen.”",
+    "I had no money and I told him (or: Because I had no money I told him), “I’ll give it to you another time.” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    " p-or-op p-er-iwkin yak-i-ya.",
+    "They bring the son down (from the house) and take him (to the well) and (so) he bathes.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Siiwa, epa maak-e-mik nain paayar-ep ma-e-k, “Amerika aakisa irak-owa kerer-e-mik.”",
+    "He understood the month and time/place that they (had) told him, and (so) he said, “Now the Americans have come to fight.” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "... ne wi ikiw-e-mik, kerewar-ep ikiw-e-mik.",
+    "… and they went; they were angry and (so) they went.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiw-ep nan ika-iwkin inasina mua ifa puuk-ap solon-ep urup-ep manina=pa waaya puuk-ap moma wiar en-em-ik-eya uruf-a-mik.",
+    "They went and were there, and a spirit man came and changed into a snake and crawled up and in the garden it changed into a pig and as it was eating their taro they saw it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "…owowa urup-e-mik. Owowa urup-ep  o koora ikiw-o-k.",
+    "…We came up to the village. After we came up to the village he went into the house.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mik-ap, patot=iw mik-ap, aaw-ep, aasa=pa wu-ap, amap-urup-ep, yena koora=pa wu-ap, uuriw epa wiim-eya or-op, saa=pa pa-ep uup-e-mik.",
+    "I speared it, I speared it with a fishing spear, and took it and put it in the canoe, brought it up and put it in my house, and in the morning when it was light I went down and butchered it on the beach, and we cooked it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ekap-eya ikiw-i-yen.",
+    "When you come we (including you) will go.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I ikoka yien=iw urup-ep nia maak-omkun ora-iwkin aria owawiya feeke pok-ap ik-ok eka liiwa muuta en-ep aria ni soomar-ek-eka.",
+    "Later we (by) ourselves will come up and tell you (to come), and when you come down we will sit here together and eat a bit of something and then you (can) walk back.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria panewowa nain wiimasip erup wia aaw-ep owow uruma or-op iimar-ep ika-iwkin iwera oko mekemkar-ep or-eya wi iwera ir-iwkin nainiw kaken iimar-e-k.",
+    "The old woman took the two grandchildren and they went down to the village square and were standing there, and a coconut palm bent down and they climbed up the coconut palm and it stood up straight again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria maa en-ep naap ik-ok kokom-ar-eya in-e-mik.",
+    "Alright we ate and stayed like that and (then) it became dark and we slept.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kir-ep ekap-em-ika-iwkin epa wiim-o-k.",
+    "They turned and as they were coming, it dawned.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uuw-ap uuw-ap oona=ke efa sirir-i-ya.",
+    "I worked and worked and my bones hurt.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uup-ep weeser-eya aria oposia gelemuta wiam erup fain wia wu-om-a-m.",
+    "I cooked it and when it was finished alright I put (aside) a little of the meat for these two (women).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Efa arew-ap maa eka liiwa muuta on-amkun en-ep-pu-ami soomar-ek-eka.",
+    "Wait for me, and when I have made just some soup you eat it and then you (may) go.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiw-ep mua nain urema osarena=pa iimar-ep ik-eya ona mua nain ifakim-o-k.",
+    "She went and as the man was standing on the bandicoot path she killed that husband of hers.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epia wu-ap ikiw-ep iwera kuuf-am-ik-eya iwera reen-eya iwer urupa anum-i-mik.",
+    "We/they put them (the coconuts) on the fire and go, and (someone) keeps watching the coconuts and they dry and (then) we/they knock the shells away.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Kuum-iwkin aw-emi mua unow maneka iiwawun fikera kuum-emi saawirin-ow-iwkin aria fiker epia aw-i-non.",
+    "They burn it and it burns and all the men burn and surround the kunai grass, (and) alright the kunai fire will burn.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiawi kuum-eya kuum-eya kuum-eya aw-ep eka iw-a-k na wia, eka=ke saanar-e-k.",
+    "It kept burning and burning their father and he burned and entered the river but no, the river dried.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Efa uruf-am-ik-eya, koora=pa efa uruf-am-ik-eya ikiw-i-nen ekap-i-nen.",
+    "You will keep seeing me, you will keep seeing me from the house, and I will come and go.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap ik-ok wi Saramun=ke wiisa uf-e-mik.",
+    "It was like that and (then) the Saramun people danced wiisa.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...mua me wia imen-a-mik. Naap ik-ok sarere uura buburia ona amia mua wiar kerer-ep opaimika=pa yia wu-a-k.",
+    "… we didn’t find the men. It was like that, and on Saturday evening the bald man himself went to the police and accused us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap ik-ok uruf-am-ika-iwkin wia.",
+    "He was like that and they were watching him, but no (he didn’t get any better).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iinan aasa gurun-owa miim-ap eka=iw umuk-owa ewur.",
+    "We heard the rumble of the airplane(s) and quickly extinguished (the fires) with water (lit: and the extinguishing with water quickly).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi Yaapan nan ik-e-mik nain wia uruf-ap.",
+    "They had seen that the Japanese were there (and so they [the Americans] did like that).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Moma wiar en-em-ik-eya uruf-a-mik.",
+    "It was eating their taro, and they saw it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aara muuk-ar-ep ik-eya uruf-a-mik.",
+    "The hen had laid an egg and we saw it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo me baliwep paayar-e-m, oram iperowa=ke nanar-iwkin miim-a-m.",
+    "I do not understand it well, I have just heard the older people tell stories about it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiw-aasa samor-ar-e-k. Miiw-aasa samor-ar-eya…",
+    "The car broke. The car broke and …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "P-ikiw-ep Bogia=pa nan wu-a-mik. Bogia=pa nan wu-ap i kiiriw ekap-e-mik.",
+    "We took it (=his body) and put/buried it in Bogia. We put it in Bogia and came back again.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Olas=ke ekap-emi wiowa wafur-om-a-k. Wafur-a-k na weetak, ufer-a-k.",
+    "Olas came and threw a spear for him. He threw it but no, he missed.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiwosa wiar pepekim-ep kaik-a-m. Kaik-om-ap…",
+    "I measured her head and tied it (=headdress). I tied it for her and …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...nomokowa maala war-ep, ekap-ep ifa nain ifakim-o-k. Ifakim-em-ik-eya ifa nain=ke siowa wasirk-a-k.",
+    "…he cut a long stick, came and beat up the snake. As he was beating it, the snake released the dog.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Moma manina mokomokoka nop-i-mik. Nop-ap-pu-ap nomokowa war-i-mik.",
+    "First we clear (the undergrowth for) taro garden. When we have cleared it we cut the trees.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...pok-ap ika-iwkin mua wiar ekap-e-mik, wiinar-ep. Ekap-emi wia maak-e-mik, “Maa iiw-eka.”",
+    "… they were sitting and their husbands came, having made the planting holes. They came and told them, “Dish out the food.” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne akia ik-e-k nain me en-e-k.",
+    "And/but he did not eat the banana(s) that he roasted.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi teeria papako o asip-a-mik, ona eka sesenar-ep wienak-e-k nain.",
+    "Another group helped him, (those) that he had bought and given beer to.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I mua yiam ikur, fikera ikiw-e-mik nain.",
+    "There were five of us men that went to the kunai grass (=pig-hunting).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi mua ... ekap-iwkin wienak-e-mik, maa nop-a-mik nain.",
+    "The men … came, and we gave it to them to eat, (that is,) the food that we had searched for.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria malol=pa ifemak-i-mik nain aana puuk-i-mik.",
+    "Alright for those that we lower to the deep sea we cut cane.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Domora=pa or-omi nan ik-e-mik, afa ar-e-mik nain.",
+    "They went down from Domora and were there, those (women) who became flying foxes.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Muuka, yo opora nefa maak-i-yem nain miim-ap ook-e.",
+    "Son, listen to and follow the talk that I am telling you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria maa unowa wakesim-e-mik nain sererk-a-mik.",
+    "Alright they distributed the many things with which they had covered her (body).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Or-op i koora ik-e-mik neeke ekap-o-k.",
+    "It descended and came to the house/building where we were.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Bang=ke ekap-o-k, Ponkila aaw-o-k nain.",
+    "Bang came, (he) who married Ponkila.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo nena owowa moma marew nain miatin-i-yem.",
+    "I don’t like your village, which doesn’t have taro.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nomokowa unowa fan-e-mik, Simbine ekap-omak-e-mik fain.",
+    "Your many (clan) brothers are here, these Simbine people who came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I mua yiam ikur, fikera ikiw-e-mik nain.",
+    "There were five of us men who went to the kunai grass (= pig-hunting).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne ona mua pun ma-e-k, “Eka maneka nain=ke iwa-mi ifakim-o-k,” na-e-k.",
+    "Her husband also said, “The big river came and killed her,” he said.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Panewowa=ke ma-e-k, “Yo nia maak-emkun opaimika efa fien-a-man.”",
+    "The old (woman) said, “When I told you, you disobeyed me.” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiw-ep wiipa muuka nain wia maak-e-k, “Auwa maa p-ikiw-om-aka.",
+    "She dished out (the food) and told the children, “Take the food to father.”",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "“No bom fain=iw mera kuum-e,” naak-e-mik.",
+    " “Blast fish with this bomb,” they told him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "“I muuka marew a, wiipa marew a,” naap wia maak-e-k.",
+    " “We have no son, we have no daughter,” he told them like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne onak=ke Ø, “A, ifera feeke un-eka.” Ne wi maak-e-mik, “Wia, i oro-or-op un-i-yan.” “A, neeke-r=iw un-eka.” “Weetak, i oro-ora-i-yan.”",
+    "And their mother said, “Ah, fetch the sea water (from) here.” But they told her, “No, we’ll go down (to the deep sea) and fetch it.” “Ah, fetch it right there.” “No, we’ll go down a long way.” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria, Kalina, Amerika ekap-e-mik na-i-mik.",
+    "Alright, Kalina, they say that the Americans have come.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ma-e-m, nena owowa=pa ik-o-n.",
+    "I said (to her) that you are in your own village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aite=ke manina yook-e na-eya o ook-e.",
+    "When mother tells you to follow her to the garden, follow her.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni Krais yena teeria efar ik-eka na-ep nia far-eya ona teeria wiar ik-e-man.",
+    "Christ called you to be his family and (now) you are his family.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Sarak oo, Amerika ekap-ep Ulingan nan ik-e-mik, nefa ikum-i-mik na-i-mik oo.",
+    "Sarak! The Americans have come and are in Ulingan and they say that they are wondering where you are!",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No owowa ikiw-ep buk nain sesek-om-e.",
+    "When you go to the village, send the book to me.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uurika nefar ikiw-i-nen.",
+    "Tomorrow I’ll come (lit: go) to you.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona owowa=pa ik-ua.",
+    "She is in her own village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua pepena=ke menat=ke ek-i-ya na-ep menat ora-i-nan.",
+    "An inexperienced man will think that the tide is going down and will go to fish at low tide.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Niena maa enim-u na-ep iiw-eka.",
+    "If you want/intend to eat food, dish it out (yourselves).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo opora gelemuta=ko ma-i-nen na-ep.",
+    "I want to tell a little story.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne o uruf-owa ne maa en-owa asip-owa na-ep=na eliw asip-uk.",
+    "And if they want to see him and help him with food, let them help him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ona siowa ikos manina ikiw-e-mik, pika on-owa na-ep.",
+    "He went to the garden with his dog, in order to make a fence.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No owora sesenar-i-nen na-ep Kainantu fofa ikiw-ep neeke aaw-i-nan.",
+    "To buy betelnut you will (need to) go to Kainantu marker and get it there.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne haussik p-ek-u na-ep miiw-aasa nop-a-mik.",
+    "And they searched for a truck (in order) to take him to the aidpost.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nain ni amis-ar-eka na-ep feenap on-i-yem.",
+    "But I am doing this so that you would know.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne wi popor-ar-urum-ep ik-ok ifana muutiw wu-am-ika-i-kuan, mua unuma wia miim-u na-ep.",
+    "And they all will be quiet and listen carefully in order to hear the men’s names.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Bogia ikiw-e-mik, opaimika aakun-owa.",
+    "We went to Bogia to talk.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Tunde=pa maa muutitik uruf-owa nain soomar-e-mik.",
+    "On Tuesday we walked to see all kinds of things.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifemak-ep nomona iinan=pa wua-i-nan, ikoka ifera me p-ikiw-owa nain.",
+    "You press it down and put stones on top ( or: put it on top of stones/corals) so that the sea would not later take it away.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria yo aakisa takira en-owa gelemuta wia on-om-a-mik nain ma-i-yem.",
+    "Alright now I tell about our making a feast for the children.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria yo aakisa fikera ikum kuum-e-mik nain opora gelemuta=ko ma-i-yem.",
+    "Alright now I tell a little story about the kunai grass that was burned by arson.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "manina uuw-owa opora",
+    "garden work talk / talk (n.) about garden work",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I yiena miiw-aasa muf-owa ikiw-owa na-em-ik-omkun o ar-e-k.",
+    "While we were talking about our going to fetch a vehicle, she died (lit: became).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emar, no muut fain uf-owa nefa maak-e-m.",
+    "Friend, I told you to dance only this.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni kakala sira kamenap eliw-ar-i-ya nain uruf-eka.",
+    "See how the flowers grow.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O kaanek aaw-ep p-ekap-om-a-mik nain me amis-ar-e-k.",
+    "He didn’t know where they got it from and brought to him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ni ifa nia keraw-i-ya nain sira kamenap on-i-man?",
+    "When a snake bites you, what do you do?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo napum-ar-ep eneka maay-ar-e-m.",
+    "I got sick and became hungry for meat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I naap ikiw-ep yiena manina on-a-mik nan ik-e-mik.",
+    "We went there and stayed where we had made our gardens.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mukuna nain umuk-a-mik=na me pepek.",
+    "They tried to quench the fire, but couldn’t.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aakisa yo nefa uruf-i-yem=na no mua eliw marew.",
+    "I now look at you but you are not a good man.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Marasin wu-om-a-mik=na weetak.",
+    "They injected medicine in him, but no (it had no effect).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owora fain aite panewowa onak-e, ekap-ep kerer-eya=na.",
+    "Give these betelnuts to old mother to eat, if she comes and arrives here.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Koora pun naap: mua oko naareke koora kua-i-ya=na o asip-e.",
+    "A house is like that too: if/when any man builds a house, help him.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Oko=ke pusun-emi feeke ikiw-i-non, a mua oko=ke mik-i-non.",
+    "Another (pig) will run loose and run this way, ah, another man will spear it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...waaya koka=pa ika-i-ya nain, sokowa maneka=pa ika-i-ya nain kanu-ep aap-ekap-ep fikera=pa-r=iw fiirim-eka.",
+    "…chase the pigs that are in the jungle (and) that are in the big grove(s) and bring them and gather them right inside the kunai grass (area).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne o maa kamenap on-eya wiar uruf-i-n nain ne wiar miim-i-n nain wia maak-em-ika-i-nan.",
+    "And you will keep telling them that which you see and which you hear him do.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Toiyan iiriw maak-ep-pu-a-mik, uuriw yia aaw-ep Madang ikiw-owa nain",
+    "We already told Toiyan about taking us in the morning and going to Madang.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi owow mua=ke wilkar wia muf-em-ik-om-a-mik.",
+    "The village men pulled carts for them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne fraide=pa maapora puk-o-k, urera.",
+    "And on Friday the party started, in the afternoon.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap ik-ok wi Saramun=ke wiisa uf-e-mik. Uf-owa eliwa i wiar uruf-a-mik.",
+    "Then the Saramun people danced wiisa. It was a good dance we saw from them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Auwa ame wia maak-eya res aaw-ep merena ifa keraw-a-k nain puuk-a-mik.",
+    "He told my father and the others, and they took a razor and made a cut into the leg that the snake had bitten.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa en-owa nopa-yiaw-ep wailal-ep naap ma-e-mik...",
+    "They searched around for food and were hungry and said like that…",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria naap wia aruf-i-nen na-ep on-a-k.",
+    "He tried to hit the women like that.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa or-op, wailal-ep akia ik-e-k. Akia ik-ep en-em-ik-ok…",
+    "He came down to the village, was hungry and roasted bananas. He roasted bananas and was eating them and …",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria, wi kiiriw neeke Ø miiw-aasa um-o-k. Miiw-aasa um-eya miiw-aasa nain on-am-ika-iwkin...",
+    "Alright, again when they (were) there the truck broke down (lit: died). The truck broke down, and while they were working on the truck…",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yaki-ep weeser-eya owowa urup-e-mik. Owowa urup-ep o koora ikiw-o-k.",
+    "They bathed and when it was finished they came up to the village. They came to the village and he went into the house.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Eka mamaiya akena i yoowa me aaw-i-yen.",
+    "Very close to the river we won’t get hot.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka kuisow miiw-aasa=ke karu-eya ku-ku-ep or-om-ik-ua.",
+    "Straight away when the trucks ran (over them) they kept breaking and falling down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Uura feenap nain i me in-em-ik-e-mik, amirika maa me en-em-ik-e-mik. Maa uura uup-ep en-em-ik-e-mik.",
+    "On nights like this we did not sleep, in the daytime we did not eat food. The food we used to cook and eat at night.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Naap maak-iwkin naap ik-ua. Naap ik-ok uruf-am-ika-iwkin wia.",
+    "Like that they told him and like that he was. Like that he was and they watched him, but no (he did not get better).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiena merena ne wapen=iw era akup-ami owowa ikiw-e-mik.",
+    "With their feet and hands they searched the road and went to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria Ø malol=pa ifemak-i-mik nain, aana puuk-i-mik…",
+    "Alright, as for those (=fishtraps) that we let down in the deep sea, we cut cane ...",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aria yena mua pun ... iirar-iwkin owowa ekap-o-k.",
+    "Alright they also dismissed my husband … and he came to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw wi mua iperowa=ke feenap ma-em-ik-e-mik, emeria=ke osaiwa ar-e-mik.",
+    "Earlier the elders kept telling this story that women had changed into birds of paradise.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw Malala suule maneka uuw-owa mua oko unuma Kila.",
+    "Earlier there was a workman at the big Malala school whose name was Kila.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw akena mua oko=ko fura aaw-ep koka iw-a-k.",
+    "Long ago a man took a knife and went into the jungle.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Pika ifara mufe-wiaw-ik-ok ifa maneka=ke siowa wiar aaw-o-k.",
+    "As he was pulling around vines for the fence, a big snake grabbed his dog.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iiriw mua iperowa=ko nan Wakoruma owowa=pa ik-ua.",
+    "Earlier there was a middle-aged man in Wakoruma village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain emeria ne muuka wiipa marew.",
+    "The man had no wife or children.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne manina ikiw-o-k.",
+    "And he went to the garden.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wiena mua weria ... opaimika wia sesek-omak-e-mik. Ne wi ekap-e-mik.",
+    "They sent word to their many weria-relatives. And they came.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne aria, samapora oram akua aaw-ep ikiw-e-mik. Ikiw-ep wiena owowa=pa uruf-a-mik=na weetak, samapora muutiw akua aaw-e-mik. Aria nainiw kir-e-mik. Kir-ep ekap-em-ika-iwkin epa wiim-o-k.",
+    "Alright, they carried just the bed and went. They went and in their village they looked but (to their surprise) they only carried the bed. Alright they turned back again. They turned and as they were coming, it dawned.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "O iiwawun samor aaw-o-k. Ne nan ik-e-mik. Nan ik-ok ik-ok neeke pu-o-k. Neeke pu-eya oram akua aaw-e-mik.",
+    "He got really bad. They stayed and stayed there and he died there. He died there and they just carried him on their shoulders.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ifakim-eya pu-ep-ik-eya  om-em-ik-ua.",
+    "When she killed him and he was dead, she was crying.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Epa wiim-eya sawur emeria nain ikiw-eya o iikir-ami owowa ekap-o-k.",
+    "It dawned and the spirit woman went, and he got up and came to the village.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iwera mekemkar-ep or-eya wi pikin-ep miiwa or-o-mik.",
+    "The coconut tree bent down and they jumped down to the ground.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "...ikemika kaik-owa mua nain nop-a-mik, imen-ap maak-iwkin o miim-o-k. Aria, wi kiiriw neeke Ø miiw-aasa um-o-k.",
+    "… they searched for the health officer, and when they found him and told him, he went ahead of them (to the aidpost). Alright, again when they were there the truck broke down.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mauw-owa kamenap nain on-a-man? Mauw-owa=na sira yia nokar-e-mik, yiena kae sira nain.",
+    "What kind of work did you do? - The work (was such that) they asked us about customs, our ancestral customs.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo efa aaw-eya i owawiya ik-omkun Yaapan=ena Wewak kame=pa nan ir-a-mik.",
+    "He married me, and while we were together the Japanese came from the Wewak side.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nos=na?",
+    "What about you?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emar, yos=na amina=ke weetak.",
+    "Friend, I do not have a saucepan.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Is=na yoo, takira fain ifa=ke ku-eya akua aaw-ep ekap-em-ika-i-mik yoo!",
+    "We - this boy was bitten by a snake and we are coming carrying him on our shoulders.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Os=ke ikiw-o-k.",
+    "It was he who went.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain maneka.",
+    "That man is big.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain maneka=ke.",
+    "That man is big.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne erepam nain=ke wiena skul stua on-a-mik.",
+    "And the fourth one they made into their school store.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa en-owa iw-e-mik, rais=ke weetak.",
+    "They gave him food (root crops), but not rice.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amirika=ke eliw ika-i-yem, uura=ke napum-ar-i-yem.",
+    "At noon I am well, at night I am sick.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amiten=ke ikiw-i-yem, Susure=ke me ikiw-i-yem.",
+    "I go to Amiten but I don’t go to Susure.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne yena aamun ariwa=ke aaw-o-k.",
+    "And my younger sibling was killed by a bullet (lit: arrow).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikoka masin kaanin=ke samor-ar-eya oko fain=ke asip-i-non.",
+    "Later when any of the engines breaks this other one will help it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wia, yos=ke owow saria ika-i-yem.",
+    "No, I am the village headman.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Iperuma nain me enim-eka, inasin mua=ke.",
+    "Don’t eat the eel, it is a spirit man.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aaya nain=ke ifa puuk-a-k.",
+    "The sugarcane changed into a snake.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua naareke nefa maak-e-k?",
+    "Who told you?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua=ke me efa maak-e-mik, yena mokok=iw uruf-a-m.",
+    "It wasn’t people that told me, I saw it with my own eyes.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa nain mauwa=ke?",
+    "What is that thing?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa nain posa=ke.",
+    "That thing is a turban shell.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria fain Eema=ki?",
+    "Is this woman Eema?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Emeria fain Eema=ki e emeria oko=ke?",
+    "Is this woman Eema or another woman?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Aaya=ko niar ik-ua=i?",
+    "Do you have (any) sugar?",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikiw-ep maa en-owa=ko nop-aka.",
+    "Go and fetch (some) food.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa oko=ko me uf-e-mik.",
+    "Other villages did not dance.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo aakisa opaimika=ko ma-i-nen.",
+    "Now I will tell a story.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Nan iimar-ep ika-eya urema=ko ekap-eya miim-a-k.",
+    "He was standing there and he heard a bandicoot coming.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain=ko onak-e.",
+    "Give it to that man to eat.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Miiw-aasa era=pa=ko me yiar samor-ar-e-k.",
+    "Our truck did not break on the road.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne samor akena=ko aruf-a-mik.",
+    "And they beat him very badly.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ikos=ko niir-u.",
+    "Let’s play together.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Fura=iw=ko me puuk-a-mik.",
+    "They didn’t cut it with a knife.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Amerika kerer-e-mik na-i-ya, ikiw-ep=ko wia uruf-ik-ua.",
+    "He says that the Americans have arrived, let’s go and see them.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Takira me=ko wia aruf-a-mik.",
+    "It is not the case that we hit the boys.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "No=ko era=ko imen-ap=ko yia asip-e.",
+    "If you find a way, please help us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Wi kema ma-e-mik, “O=ko=ko amukar-ek-a-n nom. Moram me amukar-e-n?”",
+    "They said in their hearts, “C’mon, you should have scolded him. Why didn’t you scold him?” ",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yos=ke maa nain=ko me aaw-e-m.",
+    "It wasn’t I who took that thing.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Mua nain i=ko me yia far-e-k.",
+    "The man didn’t call us.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo me uruf-a-m.",
+    "I didn’t see it.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yos=ke me uruf-a-m.",
+    "It wasn’t I who saw it (but someone else).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Yo=ko me uruf-a-m.",
+    "I didn’t see it (regardless of whether anyone else did or not)",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "I mua=ko me wia furew-a-mik ne yiena pun mukuna=ko me op-a-mik.",
+    "We didn’t sense any people (there) and we ourselves didn’t carry fire either.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa=pa emeria unowa wia maak-e-mik.",
+    "In the village they told it to many women.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa=pa emeria unowa wia maak-e-mik.",
+    "In the village they told it to many women.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa=pa emeria unowa wia maak-e-mik.",
+    "In the village they told it to many women.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Owowa=pa emeria unowa wia maak-e-mik.",
+    "In the village they told it to many women (instead of hiding it from them).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Maa nain aaw-ep iima=pa wu-om-ap om-em-ik-ua, sawur emeria nain=ke.",
+    "She took the thing and put it on his chest, the spirit woman (did).",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Saapara=pa nan suusa iw-e-mik, wiena ifa suusa nain.",
+    "There in Saapara they gave him an injection, their snake (antivenene) injection.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
+    "Ne fraide=pa maapora puk-o-k, urera.",
+    "And on Friday the party started, in the afternoon.",
+    "Mauwake",
+    "Liisa Berghäll"
+  ],
+  [
     "Kva ha et tjøft i stádin? – Ättren o grýnen.",
     "What have you bought in town? – Peas and grains.",
     "Närpes",
