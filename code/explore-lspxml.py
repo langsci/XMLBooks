@@ -22,23 +22,25 @@ class Example:
     A simple representation of a linguistic example sentence.
     """
 
-    def __init__(self, xmlex, default_lang=None, reference=None):
+    def __init__(self, xmlex, default_lang=None, author=None):
         """
         Build an example instance from its lsp-xml representation.
 
         :param xmlex: an <example> element from an lsp-xml file.
         :param default_lang: optional default language.
-        :param reference: optional reference string.
+        :param author: optional author (book author or editor).
         """
+        self.author = author
         self.language = Example._extract_language(xmlex, default_lang)
+        self.reference = Example._extract_reference(xmlex)
         self.words = Example._extract_words(xmlex)
         self.lines = Example._extract_lines(xmlex)
-        self.reference = reference
 
     def __str__(self):
         """
-        Return reference, language, gloss lines and free lines.
+        Return author, reference, language, gloss lines and free lines.
         """
+        author = ["author: {}".format(self.author)] if self.author else []
         ref = ["reference: {}".format(self.reference)] if self.reference else []
         lang = ["language: {}".format(self.language)] if self.language else []
         glosses = ("{}: {}".format(k," ".join(v)) for k,v in self.words.items())
@@ -82,31 +84,37 @@ class Example:
     def to_simple_tuple(self):
         """
         Return a simplified tuple representation of the form:
-        (source, translation, language, reference).
+        (source, translation, language, author, reference).
         """
         src = Example._sanitize_src(" ".join(self.get_words("src"))
                                     if self.has_glosses
                                     else self.get_line("source"))
         trans = Example._sanitize_trans(self.get_line("translation"))
         lang = self.language
-        ref = self.reference
-        tup = (src, trans, lang, ref)
+        author = self.author
+        ref = self.reference if self.reference else "No reference"
+        tup = (src, trans, lang, author, ref)
         # only return tuple if all elements are populated
         if all(tup):
             return tup
 
     @staticmethod
     def _extract_language(xmlex, default_lang):
-        lang = (xmlex.firstChild.firstChild.data
-                if (xmlex.hasChildNodes() and
-                    xmlex.firstChild.tagName == "language")
-                else None)
-        if not lang:
-            lang = (Example._extract_language(
-                      Example._get_sup_example(xmlex), default_lang)
-                    if Example._has_sup_example(xmlex)
-                    else default_lang)
-        return lang
+        lang = Example._extract_elemtext(xmlex, "language")
+        return lang if lang else default_lang
+
+    @staticmethod
+    def _extract_reference(xmlex):
+        return Example._extract_elemtext(xmlex, "reference")
+
+    @staticmethod
+    def _extract_elemtext(xmlex, elem):
+        elemx = xmlex.getElementsByTagName(elem)
+        return (Example._getText(elemx[0].childNodes)
+                if len(elemx) > 0
+                else (Example._extract_elemtext(
+                        Example._get_sup_example(xmlex), elem)
+                      if Example._has_sup_example(xmlex) else ""))
 
     @staticmethod
     def _extract_words(xmlex):
@@ -124,7 +132,7 @@ class Example:
         xmorphemes = xmlwd.getElementsByTagName("morpheme")
         all_blocks = (m.getElementsByTagName("block") for m in xmorphemes)
         morphemes = (((b.getAttribute("type"),
-                      (b.firstChild.data if b.hasChildNodes() else ""))
+                       Example._getText(b.childNodes))
                       for b in blocks) for blocks in all_blocks)
         return {k:v for k,v in
                 map(lambda x: (x[0][0], morpheme_sep.join(
@@ -134,9 +142,8 @@ class Example:
     def _extract_lines(xmlex):
         # build a { linetype : string } dict
         tags = ["source", "translation"]
-        return {tag: (Example._extract_line(xmlex, tag).firstChild.data
-                      if Example._extract_line(xmlex, tag).hasChildNodes()
-                      else "")
+        return {tag: Example._getText(
+                    Example._extract_line(xmlex, tag).childNodes)
                 for tag in tags
                 if Example._extract_line(xmlex, tag)}
 
@@ -145,6 +152,12 @@ class Example:
         maybe_line = xmlex.getElementsByTagName(tag)
         if len(maybe_line) > 0:
             return maybe_line[0]
+
+    @staticmethod
+    def _getText(nodelist):
+        isText = lambda n: n.nodeType == dom.Node.TEXT_NODE
+        return "".join(map(lambda n: n.data,
+                           filter(isText, nodelist)))
 
     @staticmethod
     def _has_sup_example(xmlex):
@@ -197,31 +210,31 @@ def read_examples(xmlfile):
     """
     Build a list of Example objects from an lsp-xml document.
     """
-    # some metadata: default language and reference
+    # some metadata: default language and book author
     default_language = {"berghall.xml": "Mauwake",
                         "schackow.xml": "Yakkha",
                         "wilbur.xml": "Pite Saami"}
-    reference = {"berghall.xml": "Liisa Berghäll",
-                 "cangemi.xml": "Francesco Cangemi",
-                 "dahl.xml": "Östen Dahl",
-                 "handschuh.xml": "Corinna Handschuh",
-                 "klamer.xml": "Marian Klamer",
-                 "schackow.xml": "Diana Schackow",
-                 "wilbur.xml": "Joshua Wilbur"}
+    author = {"berghall.xml": "Liisa Berghäll",
+              "cangemi.xml": "Francesco Cangemi",
+              "dahl.xml": "Östen Dahl",
+              "handschuh.xml": "Corinna Handschuh",
+              "klamer.xml": "Marian Klamer",
+              "schackow.xml": "Diana Schackow",
+              "wilbur.xml": "Joshua Wilbur"}
     # parse examples
     doc = dom.parse(xmlfile)
     key = os.path.basename(xmlfile)
     lang = default_language.get(key)
-    ref = reference.get(key)
+    author = author.get(key)
     examples = filter(lambda e: not(e.is_empty()),
-                      map(lambda ex: Example(ex, lang, ref),
+                      map(lambda ex: Example(ex, lang, author),
                           doc.getElementsByTagName("example")))
     return list(examples)
 
 def convert_to_tuples(examples):
     """
     Convert a list of Example objects to tuples of the form:
-    (source, translation, language, reference).
+    (source, translation, language, author, reference).
     """
     convert1 = lambda e: e.to_simple_tuple()
     return list(filter(bool, map(convert1, examples)))
@@ -230,7 +243,7 @@ def convert_to_json(examples):
     """
     Convert a list of Example objects to a JSON list
     where each element has the following form:
-    [source, translation, language, reference].
+    [source, translation, language, author, reference].
     """
     return json.dumps(convert_to_tuples(examples),
                       indent=2,
